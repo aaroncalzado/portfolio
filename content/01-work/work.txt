@@ -1,0 +1,92 @@
+Title: Work
+----
+Subtitle:  With every project I try create meaningful experiences for people through the lens of technology, storytelling, and visual communication design. Enjoy!
+----
+Caption: Selected Works from 2008 – Now
+----
+Credit:
+----
+Text:
+<div id="workCenterImage">(image: throwItBack.jpg link: /work/throw-it-back)</div>
+
+###### (link: /work/throw-it-back text: Throw It Back!)
+
+Today, radical changes in waste technology and management are happening at a rapid pace, but even with the most current up-to-date technology we still fall short in educating the general public on proper waste management practices. Throw It Back! is a waste management system designed to inform and educate the general public on good waste management practices.
+
+(link: /work/throw-it-back class: viewProjects text: View Project)
+
+****
+
+<div id="workCenterImage">(image: throwItBack.jpg)</div>
+
+###### (link: /work/topicks text: Topicks)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+
+(link: /work/topicks class: viewProjects text: View Project)
+
+****
+
+<div id="workCenterImage">(image: throwItBack.jpg)</div>
+
+###### (link: /work/hiatus text: Hiatus)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+
+(link: /work/hiatus class: viewProjects text: View Project)
+
+****
+
+<div id="workCenterImage">(image: throwItBack.jpg)</div>
+
+###### (link: /work/kinect-three-little-pigs text: Kinect × Three Little Pigs)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+
+(link: /work/kinect-three-little-pigs class: viewProjects text: View Project)
+
+****
+
+<div id="workCenterImage">(image: throwItBack.jpg)</div>
+
+###### (link: /work/scout text: Scout)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+
+(link: /work/scout class: viewProjects text: View Project)
+
+****
+
+<div id="workCenterImage">(image: throwItBack.jpg)</div>
+
+###### (link: /work/lets-get-together text: Let’s Get Together)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+
+(link: /work/lets-get-together class: viewProjects text: View Project)
+
+****
+
+<div id="workCenterImage">(image: throwItBack.jpg)</div>
+
+###### (link: /work/crate-to-plate text: Crate to Plate)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+
+(link: /work/crate-to-plate class: viewProjects text: View Project)
+
+****
+
+<div id="workCenterImage">(image: throwItBack.jpg)</div>
+
+###### (link: /work/design-rome-2012 text: Design Rome 2012)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+
+(link: /work/design-rome-2012 class: viewProjects text: View Project)
+
+****
+
+#### Personal Explorations
+
+###### (link: /work/printmaking text: Printmaking)

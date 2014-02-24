@@ -1,0 +1,29 @@
+Title: Design Rome 2012
+----
+Subtitle: In the summer of 2012 I had the opportunity to study abroad at the University of Washington Rome Center. During the five week seminar I spent most of my days observing the culture, art, architecture, and design of Italy. For my final project I designed and bound a one-of-a-kind book highlighting my experiences in Italy.
+----
+Caption: Summer 2012, 5 weeks
+----
+Credit:
+----
+Text: 
+<div id="projectCenterImage">(image: 01.png)</div>
+<p></p>
+<div id="projectCenterImage">(image: 02.png)</div>
+<div id="projectCenterImage">(image: 03.png)</div>
+<div id="projectCenterImage">(image: 04.png)</div>
+<div id="projectCenterImage">(image: 05.png)</div>
+<div id="projectCenterImage">(image: 06.png)</div>
+<div id="projectCenterImage">(image: 07.png)</div>
+<div id="projectCenterImage">(image: 08.png)</div>
+<div id="projectCenterImage">(image: 09.png)</div>
+<div id="projectCenterImage">(image: 10.png)</div>
+<div id="projectCenterImage">(image: 11.png)</div>
+<div id="projectCenterImage">(image: 12.png)</div>
+<div id="projectCenterImage">(image: 13.png)</div>
+<div id="projectCenterImage">(image: 14.png)</div>
+<div id="projectCenterImage">(image: 15.png)</div>
+<div id="projectCenterImage">(image: 16.png)</div>
+<div id="projectCenterImage">(image: 17.png)</div>
+<div id="projectCenterImage">(image: 18.png)</div>
+<div id="projectCenterImage">(image: 19.png)</div>

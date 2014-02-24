@@ -1,0 +1,41 @@
+Title: Hiatus
+----
+Date: Spring 2012, 10 weeks
+----
+Text: <div id="vimeo"><iframe src="//player.vimeo.com/video/43513049?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+Sitting too long can have negative health effects and can lead to serious, long-term health issues like common “office injuries” such as carpal tunnel syndrome. However, even a break of just five minutes every now and then can alleviate much of the problems that arise from sitting.
+
+Hiatus is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up. Sitting too long without a standing or walking break can be very hazardous to your long-term health, and is linked to repetitive stress injuries and substantial increased risk of obesity, poor circulation, etc. Made with an Arduino Uno, custom components, and some second-hand hardware, Hiatus converts an average office chair into a gentle reminder that it’s time to get up. Every 20 minutes, Hiatus gives its occupant a nudge that they’ve sat long enough, and becomes more forceful (and harder to ignore) if needed.
+
+### Design Process
+We generated a concept diagram of how we envisioned our responsive chair. This diagram allowed us to plan out our next steps, and assess what electrical components and Arduino programming we might need. For the next several weeks, we worked hard to develop a working code that let the Arduino run a timer and activate the appropriate motors and act accordingly when certain microswitches and situations were activated.
+
+### Process Sketches and Ideations
+Despite being illegible outside of the design context at the time, here are excerpt process sketches that were used in the development of the Hiatus Chair.
+
+### Chair “Brain” Development
+These are images showcasing the prototyping process and development of the chair brain and its components.
+
+### Hacking the Chair
+Gutting out the chair was a necessary step to provide room for the brain and other moving components.
+
+### Hardware and Software Testing
+Vigorous testing of the code was done to prevent the chair from killing itself.
+
+### Retrospect
+The Hiatus chair concept was well received among our peers and was a major feat acomplished by both Kelly and I. Prior to working on this project, neither of us had any experience in developing in the Processing/Arduino environment, nor did we have any experience in deconstructing existing artifacts and cannibalizing them to hack together our own homebrew artifact. In hindsight, we realized the Hiatus chair required a much higher level of skill in construction and engineering.
+
+These were critical things we lacked during the development of the Hiatus chair. Unfortunately, neither of us had sufficient knowledge [at the time] in materials and construction and ended up breaking our chair during testing. Fortunately, we were able to film the chair in action for our video prototype as well as documenting its demise.
+
+### Project Role
+Concept development, graphics production, fabrication, research, software coding, video production and editing
+
+### Collaborator
+Kelly Graham
+
+### Advisor
+Dominic Muren
+
+### Special Thanks
+Tom Conroy, John, Sara Jo Kinslow, Dae Kwon

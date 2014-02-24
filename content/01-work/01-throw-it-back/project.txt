@@ -1,0 +1,28 @@
+Title: Throw It Back!
+----
+Subtitle: An observation on waste management. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
+----
+Text: Today, radical changes in waste technology and management are happening at a rapid pace, but even with the most current up-to-date technology we still fall short in educating the general public on proper waste management practices. *Throw It Back!* is a waste management system designed to inform and educate the general public on good waste management practices through the use of a low-cost interchangeable signage system that adapts to current waste trends.
+
+<div id="vimeo"><iframe src="//player.vimeo.com/video/67619202?title=0&amp;byline=0&amp;portrait=0" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></iframe></div>
+
+By focusing on specific sites with high waste traffic site monitors can follow waste trends and react accordingly to divert recyclable material from our evergrowing landfills.
+
+****
+
+#### References
+
+Articles:
+(link: http://earth911.com/news/2010/10/25/why-people-dont-recycle/ text: Why People Don’t Recycle popup: yes)
+(link: http://nytimes.com/2013/01/03/garden/a-city-dweller-tests-four-composters.html?pagewanted=all text: The New York Times: The Reluctant Composter popup: yes)
+(link: http://www.core77.com/blog/education/its_not_easy_being_green_brazil_18918.asp text: Core77: It’s Not Easy Being Green popup: yes)
+(link: http://www.core77.com/blog/sustainable_design/aaron_mickelsons_proposals_for_disappearing_packaging_24349.asp text: Core77: Aaron Mickelson’s Proposals for Disappearing Packaging popup: yes)
+(link: http://newscenter.berkeley.edu/2013/03/19/recycling-and-trash-bins/ text: Building a Better Trash Can popup: yes)
+(link: http://www.core77.com/blog/object_culture/the_last_trash_can_youll_ever_buy_20783.asp text: Core77: The Last Trash Can You’ll Ever Buy popup: yes)
+(link: http://www.nytimes.com/2005/05/12/international/asia/12garbage.html?pagewanted=1&_r=0 text: The New York Times: How Do Japanese Dump Trash? Let Us Count the Myriad Ways popup: yes)
+(link: http://core77.com/blog/object_culture/anti-terrorism_product_design_the_hub_2020_bin_19110.asp text: Core77: Anti-Terrorism Product Design: The Hub 20/20 Bin popup: yes)
+(link: http://slate.com/articles/health_and_science/the_green_lantern/2009/02/clean_jar_clean_conscience.html text: Core77: Slate: Clean Jar, Clean Conscience? popup: yes)
+(link: http://livestrong.com/article/124467-types-paper-cannot-recycled/ text: Live Strong: Types of Paper That Cannot Be Recycled popup: yes)
+(link: http://examiner.com/article/should-you-wash-your-recyclables text: Examiner: Should You Wash Your Recyclables? popup: yes)
+(link: http://fastcodesign.com/1672044/the-next-big-ui-idea-gadgets-that-adapt-to-your-skill#1 text: FastCo. Design: The Next Big UI Idea: Gadgets That Adapt to Your Skill popup: yes)
+(link: http://greenliving.nationalgeographic.com/composting-vs-recycling-3060.html text: National Geographic: Composting vs. Recycling popup: yes)

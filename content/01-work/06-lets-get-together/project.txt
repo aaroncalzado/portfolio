@@ -1,0 +1,87 @@
+Title: Let’s Get Together
+----
+Subtitle: “Let’s Get Together” is a digital calendar concept developed to explore new ways to input data, visualize calendar information, and encourage spontaneous social gatherings with modern smartphone devices.
+----
+Date: Fall 2011, Duration: 10 weeks
+----
+Text: Current digital calendar systems make it difficult to coordinate events with other people by not capitalizing on the social nature of the smartphone platform.
+
+<div id="vimeo"><iframe src="//player.vimeo.com/video/33567269?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+<div id="ip4f">(image: ip4v.svg width: 304)</div>
+<div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-1-1.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-1-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+<div id="ip4f">(image: ip4h.svg height: 304)</div>
+<div id="ip4vh"><video height="241" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vh-1-2.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vh-1-2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+<div id="ip4f">(image: ip4v.svg width: 304)</div>
+<div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-2-1.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-2-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+<div id="ip4f">(image: ip4v.svg width: 304)</div>
+<div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-2-2.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-2-2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+<div id="ip4f">(image: ip4v.svg width: 304)</div>
+<div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-3-1.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-3-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+<div id="ip4f">(image: ip4h.svg height: 304)</div>
+<div id="ip4vh"><video height="241" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vh-3-2.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vh-3-2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+<div id="ip4f">(image: ip4v.svg width: 304)</div>
+<div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-4.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+****
+
+### Design Process
+Total active time spent on this project was ten weeks with heavy emphasis on research and development. Much of our meeting times were used to learn about existing calendar systems.
+
+### Developing a Model
+We prototyped paper models to gain focus on who we want to design for and what issues we’re trying to address.
+
+### Refine the Model
+Once we refined our models a higher fidelity mockup of our model is then created to help solidify the areas we want to design for. This model in particular is a breakdown of different things one may consider when scheduling an event. This helped us distinguish the differences in scheduling events for work and play and helped narrow down what type of situation we want to design for. As a group we decided to design a calendar that encourages spontaneous meetings among friends with smartphones.
+
+### Paper Sketching
+After figuring out our target demographic and scenario we want to design for, we began sketching interface designs for a mobile device (more specifically an iPhone 4). Rapid paper sketchings were utilized to quickly ideate and test our designs.
+
+### Digital Wireframing
+Here are examples of early digital mockups to test out how our design sketches would possibly look on screen. Some design elements from these prototypes were later implemented into our final design with updated visual graphics. For example, we were very interested in the layered timeline representation of a calendar and pushed forward with it.
+
+### Retrospective
+To come...
+
+### Project Role
+Concept development, graphics production, video production and editing
+
+### Collaborators
+Robert Beyer, Kimberley Dietermann, Brian Hsu
+
+### Advisor
+Axel Roesler

@@ -1,0 +1,43 @@
+Title: Kinect × Three Little Pigs
+----
+Date: Winter 2012, 10 weeks
+----
+Text:
+Sharing a storybook with a child can be one of the most entertaining and rewarding experiences a parent can do for a child. Utilizing modern technology like the Microsoft Kinect, how can we envision a new way of reading a storybook between a parent and child?
+
+<div id="vimeo"><iframe src="//player.vimeo.com/video/38066128?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+#### Design Concept
+We crafted a version of The Three Little Pigs that will engage early readers in an interactive experience while maintaining the familiar structure and flow of a traditional narrative. Unlike other interactive experiences, our book maintains the linier structure of conventional storytelling but affords the child an opportunity to immerse themselves in the narrative. At the same time, the child has the opportunity to explore words or images further, thus investing them in the reading experience. Alternatively, should the child desire a more passive experience, the book would sense a lower activity level and continue without waiting for interactions.
+
+In contrast to video games or multi-path books our design concept is intended to retain a linier narrative. Young children enjoy predictable outcomes and are willing experiencing the same story over and over. Predicting the flow of the story is empowering for children and aids in the assimilation of reading skills. While the sandbox model may be exciting for an adult to explore, having an ustructured story can cause a child to lose interest. The interactions in the “Three Little Pigs” we developed for the Xbox Kinect is intended to engage children and promote kinesthetic learning.
+
+#### Design Process
+Throughout the development process of our interactive storybook we used a variety of methods to prototype and test out our ideas in a low-stakes low-fidelity fashion. We produced concept boards working out the underlying system of how our product works and generated sketches and videos to visualize our concept in use. Alongside the development process, we were learning about the uses of gestural input from Kay Hofmeester and explored the capabilities of the Kinect and how it can supplement our design concept.
+
+#### Concept Development
+As a group, we found storyboarding and producing rough video cuts to be the most effective way to present and critique our design ideas.
+
+Video prototype of our storyboard in motion
+
+#### Creating a Gesture Language
+We explored an array of possible gestures we could implement into our interactive storybook, but decided to make the gestural inputs a supplementary feature and limit them to a selected few to work.
+
+Video prototype of our proposed gestures and storybook activities
+
+#### Visual Communication Design
+To create the a child-like storybook fitting for our target demographic, we analyzed visuals and illustration styles found in popular children’s entertainment.
+
+Video of our proposed visual look and feel
+
+#### Retrospect
+To come...
+
+#### Project Role
+Concept development, graphics production, video production and editing
+
+#### Collaborators
+Daphne Hsu, Kim Lewis, Jillian Moses, Dave Opincarne
+
+#### Advisors
+Kay Hofmeester & Nate Landes

@@ -1,0 +1,10 @@
+Title: Aloha!
+----
+Text:
+## Aloha! Welcome to the online portfolio of (link: /info text: Aaron Calzado). Through this site you can (link: /work text: review projects) I have worked on throughout my design career. The type of projects I work on focus on current issues involving people and their relationship with technology and information.
+
+<div class="homeButton">
+<p>
+(link: email popup: yes text: Email)&nbsp; &nbsp; &nbsp;(link: https://dl.dropbox.com/u/1435588/aaroncalzado.pdf popup: yes text: Résumé)
+</p>
+</div>

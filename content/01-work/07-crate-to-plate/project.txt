@@ -1,0 +1,33 @@
+Title: Crate to Plate
+----
+Date: Fall 2011, 10 weeks
+----
+Text: <div class="bg"><div>(image: 01.jpg class: image)</div></div>
+
+## Crate to Plate is a service that is designed to foster a healthy lifestyle for students, by making local food more convenient. Crate to Plate is an online subscription service that delivers a series of seasonal local ingredients, paired with recipes, making the process of buying and cooking local food more accessible. This cuts down on waste, which saves money, and helps students to learn how to prepare meals for themselves.
+
+<div id="vimeo"><iframe src="//player.vimeo.com/video/33271676?title=0&amp;byline=0&amp;portrait=0" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+### Recipe Cards
+Crate to Plate includes recipe cards that not only show the ingredients with an identifying image, but also incorporate easy-to-follow directions. Each card also explains how long the meal will take to make, so students can plan their meals based upon their busy schedules. These cards come packaged in each Crate and can be kept so students can make their favorite recipes as many times as they want!
+
+### The “Crate”
+Each crate provides every ingredient needed for three distinct meals and multiple servings. It’s delivered in an easily manufactured box that clearly defines which ingredients go with their specific recipe.
+
+### Phone App
+With the Crate to Plate app, users are able to track their next Crate’s arrival, as well as also use all of the functions of the website. Another helpful function that is incorporated into the app, is the shopping list feature. If students decide to try a new recipe they can download the shopping list for that recipe so they are sure to get everything they need at the store!
+
+### Retrospective
+To come...
+
+### Project Role
+Concept development, graphics production, fabrication, research, software coding, video production and editing
+
+### Collaborators
+Carly Cahill, Miles Koons, Bridget Weis
+
+### Advisor
+Tad Hirsch
+
+### Acknowledgement
+UW Today

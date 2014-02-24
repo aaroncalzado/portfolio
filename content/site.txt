@@ -1,0 +1,9 @@
+Title: Aaron Calzado, Designer
+----
+Author: Aaron Calzado
+----
+Description: Aaron Calzado’s Design Portfolio
+----
+Keywords: aaron, calzado, design, interaction, kirby,
+----
+Copyright: © 2008-(date: Year) (link: http://www.aaroncalzado.com text: Aaron Calzado) • Made with <img src="http://aaroncalzado.com/portfolio/assets/images/shaka.svg" height="16px" width="16px"> Aloha
