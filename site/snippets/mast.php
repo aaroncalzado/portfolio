@@ -12,26 +12,6 @@
   <meta name="robots" content="index, follow" />
 
   <?php echo css('assets/styles/styles.css') ?>
-  <!-- <?php $hsl = rand(0, 240) . ',' . rand(50, 80) . '%,60%'; ?>
-
-  <style type="text/css">
-    footer {
-      background-color: hsl(<?php echo $hsl ?>);
-    }
-    .containerWork h6
-    a:hover {
-      color: hsl(<?php echo $hsl ?>);
-    }
-    a:hover.viewProjects {
-      background-color: hsl(<?php echo $hsl ?>);
-    }
-    p
-    a:hover,
-    a:active,
-    a:visited {
-      border-bottom: 1px solid hsl(<?php echo $hsl ?>);
-    }
-  </style> -->
 
 </head>
 
