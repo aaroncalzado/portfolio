@@ -1,6 +1,10 @@
 Title: Hiatus
 ----
-Date: Spring 2012, 10 weeks
+Subtitle: Sitting too long without a standing or walking break can be very hazardous to your long-term health, and is linked to repetitive stress injuries, substantial increased risk of obesity, and poor blood circulation.
+----
+Caption: Spring 2012, 10 weeks
+----
+Credit:
 ----
 Text: <div id="vimeo"><iframe src="//player.vimeo.com/video/43513049?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 

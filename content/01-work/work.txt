@@ -27,11 +27,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 ****
 
-<div id="workCenterImage">(image: throwItBack.jpg)</div>
+<div id="workCenterImage">(image: throwItBack.jpg link: /work/hiatus)</div>
 
 ###### (link: /work/hiatus text: Hiatus)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+Hiatus is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up.
 
 (link: /work/hiatus class: viewProjects text: View Project)
 
