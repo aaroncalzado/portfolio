@@ -79,11 +79,11 @@ header{
   width: 100%;
 }
 .copyMast{
-  position:absolute; 
-  top:40%; 
-  height:10em; 
-  margin-top:-5em; 
-  width:100%;	
+	position:absolute; 
+	top:50%; 
+	height:10em; 
+	margin-top:-5em; 
+	width:100%;
 	vertical-align: middle;
 }
 .copyMast p {
@@ -95,7 +95,7 @@ header{
 }
 .copyMastInfo{
   position:absolute; 
-  top:40%; 
+  top:50%; 
   height:10em; 
   margin-top:-5em; 
   width:100%;	
@@ -192,7 +192,7 @@ footer {
 /* Home typography START */
 h2 {
 	width: 720px;
-	padding-top: 16%;
+	/* padding-top: 25%; */
 	font-size: 148%;
 	line-height: 156%;
 	font-weight: 200;
@@ -251,6 +251,13 @@ a:visited {
 	border-radius: 16px;
 	list-style: none;
 }
+.copyMastHome {
+	position:absolute; 
+	top:50%; 
+	height:10em; 
+	margin-top:-5em; 
+	width:100%;
+}
 /* Home typography END */
 
 /* Typography START */
@@ -289,8 +296,8 @@ h4 {
 	padding-top: 16px;
 	text-align: center;
 	font-weight: 200;
-	font-size: 156%;
-	line-height: 156%;
+	font-size: 132%;
+	line-height: 164%;
 	color: #FFFAFA;
 	border-top: 1px solid #B3B3B3;
 }
@@ -493,6 +500,8 @@ hr {
 	margin: 16px auto 16px auto;
 }
 #profile {
+	width: 240px;
+	height: 240px;
 	text-align: center;
 	margin: 0 auto 0 auto;
 	border-radius: 100%;
