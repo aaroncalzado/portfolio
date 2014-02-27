@@ -34,7 +34,6 @@
           <div class="copyMast">
             <h1><?php echo html($page->title()) ?></h1>
             <h5><?php echo html($page->subtitle()) ?></h5>
-            <p class="caption">- <?php echo html($page->caption()) ?> -</p>
             <p style="text-align: center;"><img src="<?php echo url('assets/images/chevron.svg') ?>" style="width: 32px; height: 32px;"/></p>
           </div>
         </div>
