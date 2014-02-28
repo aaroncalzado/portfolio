@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 ###### (link: /work/lets-get-together text: Let’s Get Together)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+_Let’s Get Together_ is a digital calendar concept for smartphones developed to explore new ways to input data, visualize calendar information, and encourage spontaneous social gatherings with other people.
 
 (link: /work/lets-get-together class: viewProjects text: View Project)
 
@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 ###### (link: /work/design-rome-2012 text: Design Rome 2012)
 
-In the summer of 2012 I had the opportunity to study abroad at the University of Washington Rome Center. During the five week seminar I spent most of my days observing the culture, art, architecture, and design of Italy. For my final project I designed and bound a one-of-a-kind book highlighting my experiences in Italy.
+In the summer of 2012 I had the opportunity to study abroad in Rome. During the five week seminar I spent most of my days observing the culture, art, architecture, and design of Italy. For my final project I designed, printed, and bound a one-off book highlighting my experiences in Italy.
 
 (link: /work/design-rome-2012 class: viewProjects text: View Project)
 

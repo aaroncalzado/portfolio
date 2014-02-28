@@ -4,11 +4,12 @@ Caption: Fall 2011
 ----
 Subtitle: With the rise of smartphones becoming a primary tool for computing and communication, how can we utilize smartphones to help users manage their busy lives, so they can make time for the people and things that matter?
 ----
-Text: _Let’s Get Together_ is a digital calendar concept for smartphones developed to explore new ways to input data, visualize calendar information, and encourage spontaneous social gatherings with other people.
+Text: _Let’s Get Together_ is a digital calendar concept for smartphones developed to explore new ways to input data, visualize calendar information, and encourage spontaneous social gatherings with other people. We created a video prototype showcasing how we envision digital calendar system being used with current (2010) smartphone technology.
+
+<div id="vimeo"><iframe src="//player.vimeo.com/video/33567269?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 #### Why?
 
-<div id="vimeo"><iframe src="//player.vimeo.com/video/33567269?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ****
 
@@ -19,8 +20,7 @@ Text: _Let’s Get Together_ is a digital calendar concept for smartphones devel
 Your browser does not support the video tag.
 </video></div>
 
-View contacts available calendars.
-Call instead of needing to create an event.
+In this interaction, users can peruse through their contact’s public schedule and have the option to call or invite a contact.
 
 <div id="ip4f">(image: ip4v.svg width: 304)</div>
 <div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
@@ -29,7 +29,7 @@ Call instead of needing to create an event.
 Your browser does not support the video tag.
 </video></div>
 
-Click and drag input method.
+Instead of having to set dates and time via pressing keyboard buttons, we tried to explore a different way of setting dates and time by scrubbing through the input section. As a team, we felt that people typically schedule event times in intervals rounding off to the nearest 10th (and if they’re really punctual, 5th) minute.
 
 <div id="ip4f">(image: ip4v.svg width: 304)</div>
 <div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
@@ -38,8 +38,7 @@ Click and drag input method.
 Your browser does not support the video tag.
 </video></div>
 
-geo-location & social features
-responsive search
+When adding locations to events, users can easily search for nearby locations by using the smartphone’s GPS and responsive search.
 
 <div id="ip4f">(image: ip4v.svg width: 304)</div>
 <div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
@@ -48,7 +47,7 @@ responsive search
 Your browser does not support the video tag.
 </video></div>
 
-alarms & reminders
+When a user receives an invite to new events, the user can review these events and have the capability of accepting or declining invitations at a high level. The user can also select an event and view its logistical information in greater detail.
 
 <div id="ip4f">(image: ip4h.svg height: 304)</div>
 <div id="ip4vh"><video height="241" controls autoplay="autoplay" loop="loop">
@@ -57,7 +56,7 @@ alarms & reminders
 Your browser does not support the video tag.
 </video></div>
 
-sync features (e.g. Outlook, Facebook, Cloud, …)
+From the logistical information screen, users can visually compare the event schedule, their own schedule, and the other invitees’ public schedule.
 
 <div id="ip4f">(image: ip4v.svg width: 304)</div>
 <div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
@@ -66,7 +65,7 @@ sync features (e.g. Outlook, Facebook, Cloud, …)
 Your browser does not support the video tag.
 </video></div>
 
-Detailed view of event.
+Despite having multiple levels of information, the user does not need to explore deep into an event to send a response.
 
 ****
 
