@@ -20,7 +20,7 @@ Text: _Let’s Get Together_ is a digital calendar concept for smartphones devel
 Your browser does not support the video tag.
 </video></div>
 
-In this interaction, users can peruse through their contact’s public schedule and have the option to call or invite a contact.
+In this screen, users can peruse through their contact’s public schedule and have the option to call or invite a contact.
 
 <div id="ip4f">(image: ip4v.svg width: 304)</div>
 <div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
