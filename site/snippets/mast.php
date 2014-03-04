@@ -3,7 +3,7 @@
 <head>
 
 	<script type="text/javascript" src="//use.typekit.net/snh4lbu.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>  
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>  
 
   <title><?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
   <meta charset="utf-8" />
@@ -12,6 +12,7 @@
   <meta name="robots" content="index, follow" />
 
   <?php echo css('assets/styles/styles.css') ?>
+  <?php echo css('assets/styles/animate.css') ?>
 
 </head>
 

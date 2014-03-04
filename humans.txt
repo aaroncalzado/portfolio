@@ -1,0 +1,11 @@
+/* DESIGNER */
+	Aaron Calzado
+
+/* SITE */
+	Last update: 2014/03/03
+	Language: English
+	IDE: Adobe CC, Chrome, Sublime Text
+
+/* AWESOME SHIT I DIDN'T DO */
+	http://getkirby.com/
+	https://github.com/daneden/animate.css

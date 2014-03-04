@@ -1,45 +1,63 @@
 Title: Hiatus
 ----
-Subtitle: Sitting too long without a standing or walking break can be very hazardous to your long-term health, and is linked to repetitive stress injuries, substantial increased risk of obesity, and poor blood circulation.
+Subtitle: Sitting too long can be very hazardous to your long-term health and is linked to repetitive stress injuries, substantial increased risk of obesity, poor blood circulation, and other longterm illnesses. However, taking a break from sitting can prevent much of the problems that arise from sitting too long.
 ----
 Caption: Spring 2012, 10 weeks
 ----
 Credit:
 ----
-Text: <div id="vimeo"><iframe src="//player.vimeo.com/video/43513049?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+Text: Hiatus is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up. Made with an Arduino Uno, custom components, and some second-hand hardware, Hiatus converts an average office chair into a gentle reminder that it’s time to get up. Every 20 minutes, Hiatus gives its occupant a nudge that they’ve sat long enough, and becomes more forceful (and harder to ignore) if needed.
 
-Sitting too long can have negative health effects and can lead to serious, long-term health issues like common “office injuries” such as carpal tunnel syndrome. However, even a break of just five minutes every now and then can alleviate much of the problems that arise from sitting.
+<div id="vimeo"><iframe src="//player.vimeo.com/video/43513049?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-Hiatus is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up. Sitting too long without a standing or walking break can be very hazardous to your long-term health, and is linked to repetitive stress injuries and substantial increased risk of obesity, poor circulation, etc. Made with an Arduino Uno, custom components, and some second-hand hardware, Hiatus converts an average office chair into a gentle reminder that it’s time to get up. Every 20 minutes, Hiatus gives its occupant a nudge that they’ve sat long enough, and becomes more forceful (and harder to ignore) if needed.
+#### Why?
 
-### Design Process
+Losing dependence when you get old?
+
+Physical Activity and Health getting 150minutes a week of exercise is important but can’t provide protection like getting off your butt.
+
+Sedentary hours are a good predictor of how you will be able to manage everyday tasks when you get old.
+
+For every hour you sit, there is a significant decrease in the ability to perform everyday tasks in those over 60.
+
+Researchers found male, more educated but less wealthy, smokers, and those who have chronic illnesses.
+
+Their death attribute 5.3 million deaths per year worldwide to sitting.
+
+For every hour of TV watched over the age of 25, 22 minutes are shaved off your lifespan.
+
+Sitting is a huge problem that we don’t talk about nearly as much as diet and exercise.
+
+Extra half-hour can significantly help in your longterm health.
+
+#### Design Process
 We generated a concept diagram of how we envisioned our responsive chair. This diagram allowed us to plan out our next steps, and assess what electrical components and Arduino programming we might need. For the next several weeks, we worked hard to develop a working code that let the Arduino run a timer and activate the appropriate motors and act accordingly when certain microswitches and situations were activated.
 
-### Process Sketches and Ideations
+#### Process Sketches and Ideations
 Despite being illegible outside of the design context at the time, here are excerpt process sketches that were used in the development of the Hiatus Chair.
 
-### Chair “Brain” Development
+#### Chair “Brain” Development
 These are images showcasing the prototyping process and development of the chair brain and its components.
 
-### Hacking the Chair
+#### Hacking the Chair
 Gutting out the chair was a necessary step to provide room for the brain and other moving components.
 
-### Hardware and Software Testing
+#### Hardware and Software Testing
 Vigorous testing of the code was done to prevent the chair from killing itself.
 
-### Retrospect
+#### Retrospect
 The Hiatus chair concept was well received among our peers and was a major feat acomplished by both Kelly and I. Prior to working on this project, neither of us had any experience in developing in the Processing/Arduino environment, nor did we have any experience in deconstructing existing artifacts and cannibalizing them to hack together our own homebrew artifact. In hindsight, we realized the Hiatus chair required a much higher level of skill in construction and engineering.
 
 These were critical things we lacked during the development of the Hiatus chair. Unfortunately, neither of us had sufficient knowledge [at the time] in materials and construction and ended up breaking our chair during testing. Fortunately, we were able to film the chair in action for our video prototype as well as documenting its demise.
 
-### Project Role
+#### Project Role
 Concept development, graphics production, fabrication, research, software coding, video production and editing
 
-### Collaborator
+#### Collaborator
 Kelly Graham
 
-### Advisor
+#### Advisor
 Dominic Muren
 
-### Special Thanks
+#### Special Thanks
 Tom Conroy, John, Sara Jo Kinslow, Dae Kwon
