@@ -1,6 +1,4 @@
-/* Info START
-
-Info END */
+$houseColor: mediumseagreen;
 
 /* Layout */
 *, *:after, *:before {
@@ -176,7 +174,7 @@ footer {
 	min-width: 960px;
 	padding: 32px 0 16px 0;
 	margin: 32px 0 0 0;
-	background-color: mediumseagreen;
+	background-color: $houseColor;
 	text-align: center;
 	color: #FFFAFA;
 }
@@ -321,7 +319,7 @@ a:visited {
 .containerWork h6
 a:hover {
 	font-weight: 600;
-	color: mediumseagreen;
+	color: $houseColor;
 	text-decoration: none;
 	-o-transition: .5s;
 	-ms-transition: .5s;
@@ -351,7 +349,7 @@ a:hover.viewProjects {
 	text-decoration: none;
 	padding: 8px 24px 8px 24px;
 	color: #FFFAFA;
-	background-color: mediumseagreen;
+	background-color: $houseColor;
 	border-radius: 32px;
 	border: none;
 	-o-transition: .5s;
@@ -398,9 +396,9 @@ a:visited {
 	width: 720px;
 	margin: 16px auto 24px auto;
 	font-weight: 300;
-	color: mediumseagreen;
+	color: $houseColor;
 	text-decoration: none;
-	border-bottom: 1px solid mediumseagreen;
+	border-bottom: 1px solid $houseColor;
 	-o-transition: .5s;
 	-ms-transition: .5s;
 	-moz-transition: .5s;
