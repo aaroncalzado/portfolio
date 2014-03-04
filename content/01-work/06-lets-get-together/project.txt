@@ -82,11 +82,11 @@ Total active time spent on this project was ten weeks with heavy emphasis on res
 
 <div id="projectCenterImage">(image: process01.jpg)</div>
 
-<div class="imageCaption">A snapshot of a class-wide whiteboard discussion on calendars.</div>
+<div class="projectImageCaption">A snapshot of a class-wide whiteboard discussion on calendars.</div>
 
 <div id="projectCenterImage">(image: japan-train-schedule.jpg link: http://upload.wikimedia.org/wikipedia/commons/0/0e/Train_schedule_of_Sanin_Line%2C_Japan%2C_1949-09-15.png popup: yes)</div>
 
-<div class="imageCaption">This is one of the many calendar systems we observed. The image is a scan of an old Japanese train schedule. Although there wasn’t a direct application for this in our project, it was examples like this that broadened our views on how to visually represent time and events.</div>
+<div class="projectImageCaption">This is one of the many calendar systems we observed. The image is a scan of an old Japanese train schedule. Although there wasn’t a direct application for this in our project, it was examples like this that broadened our views on how to visually represent time and events.</div>
 
 #### Developing a Model
 
@@ -101,7 +101,7 @@ Once we refined our models a higher fidelity mockup of our model is then created
 
 <div id="projectCenterImage">(image: models-01.png)</div>
 
-<div class="imageCaption">This model in particular is a breakdown of different things one may consider when scheduling an event. This helped us distinguish the differences in scheduling events for work and play and helped narrow down what type of situation we want to design for. As a group we decided to design a calendar that encourages spontaneous meetings among friends with smartphones.</div>
+<div class="projectImageCaption">This model in particular is a breakdown of different things one may consider when scheduling an event. This helped us distinguish the differences in scheduling events for work and play and helped narrow down what type of situation we want to design for. As a group we decided to design a calendar that encourages spontaneous meetings among friends with smartphones.</div>
 
 #### Paper Sketching
 After figuring out our target demographic we want to design for, we began sketching interface designs.
@@ -113,7 +113,7 @@ Here are examples of early digital mockups to test out how our design sketches w
 
 <div id="projectCenterImage">(image: wireframe-compiled.jpg width: 960 link: sketches-compiled.jpg popup: yes)</div>
 
-<div class="imageCaption">We were very interested in the layered timeline representation and pushed it forward to the final design.</div>
+<div class="projectImageCaption">We were very interested in the layered timeline representation and pushed it forward to the final design.</div>
 
 ****
 

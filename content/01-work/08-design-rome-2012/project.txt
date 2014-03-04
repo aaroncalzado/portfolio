@@ -7,8 +7,13 @@ Caption: Summer 2012, 5 weeks
 Credit:
 ----
 Text: 
+<div id="projectCenterImage">(image: physical-01.jpg)</div>
+<div id="projectCenterImage">(image: physical-02.jpg)</div>
+<div id="projectCenterImage">(image: physical-03.jpg)</div>
+<div id="projectCenterImage">(image: physical-04.jpg)</div>
+<div class="projectImageCaption">Rome book photos by Sean Bolan</div>
+****
 <div id="projectCenterImage">(image: 01.png)</div>
-<p></p>
 <div id="projectCenterImage">(image: 02.png)</div>
 <div id="projectCenterImage">(image: 03.png)</div>
 <div id="projectCenterImage">(image: 04.png)</div>

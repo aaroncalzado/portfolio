@@ -487,7 +487,17 @@ hr {
 	margin: 40px auto 32px auto;
 	opacity: 0.56;
 }
-.imageCaption {
+.workImageCaption {
+	width: 720px;
+	margin: -32px auto 32px auto;
+	font-weight: 300;
+	font-size: 96%;
+	font-style: italic;
+	line-height: 164%;
+	color: #333333;
+	opacity: 0.32;
+}
+.projectImageCaption {
 	width: 720px;
 	margin: 0 auto 32px auto;
 	font-weight: 300;
