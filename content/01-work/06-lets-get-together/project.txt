@@ -2,7 +2,7 @@ Title: Let’s Get Together
 ----
 Caption: Fall 2011
 ----
-Subtitle: With the rise of smartphones becoming a primary tool for computing and communication, how can we utilize smartphones to help users manage their busy lives, so they can make time for the people and things that matter?
+Subtitle: With the rise of smartphones becoming a primary tool for computing and communication, how can we utilize smartphones to help users manage their busy lives so they can make time for the people and things that matter?
 ----
 Text: _Let’s Get Together_ is a digital calendar concept for smartphones developed to explore new ways to input data, visualize calendar information, and encourage spontaneous social gatherings with other people. We created a video prototype showcasing how we envision digital calendar system being used with current (2010) smartphone technology.
 
@@ -10,8 +10,15 @@ Text: _Let’s Get Together_ is a digital calendar concept for smartphones devel
 
 #### Why?
 
+While it may be straightforward for a user to use a digital calendar system to organize their own scheduled events, current (2010) smartphone calendar systems are not yet optimized for users coordinating calendar events with other people. Also, many data entry systems on smartphone touch screens are not designed with the small form factor in mind, but rather built to mimic the familiar desktop experience. And finally, feature rich digital calendars allow for information overload.
+
+We wanted to showcase different methods in displaying calendar information optimized for the smartphone form factor.
+
+We also wanted to show that, our calendar system is more than just an organization tool and can be used as a communication tool that will help users coordinate events with other people.
 
 ****
+
+#### Interaction Breakdown
 
 <div id="ip4f">(image: ip4h.svg height: 304)</div>
 <div id="ip4vh"><video height="241" controls autoplay="autoplay" loop="loop">
@@ -20,7 +27,7 @@ Text: _Let’s Get Together_ is a digital calendar concept for smartphones devel
 Your browser does not support the video tag.
 </video></div>
 
-In this screen, users can peruse through their contact’s public schedule and have the option to call or invite a contact.
+In this screen, users can peruse through their contact’s public schedule and invite a contact to a new/existing event. Users can opt to call their contacts directly and skip the entire invite process.
 
 <div id="ip4f">(image: ip4v.svg width: 304)</div>
 <div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
@@ -29,7 +36,7 @@ In this screen, users can peruse through their contact’s public schedule and h
 Your browser does not support the video tag.
 </video></div>
 
-Instead of having to set dates and time via pressing keyboard buttons, we tried to explore a different way of setting dates and time by scrubbing through the input section. As a team, we felt that people typically schedule event times in intervals rounding off to the nearest 10th (and if they’re really punctual, 5th) minute.
+Data entry was an issue in the event creation process. As a team, we thought the different situations users will be in and the numerical ranges people use when scheduling events. Instead of having to set dates and time via pressing keyboard buttons, we explored a different method of setting dates and time by using a scrubbing action in the input section.
 
 <div id="ip4f">(image: ip4v.svg width: 304)</div>
 <div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
@@ -47,7 +54,7 @@ When adding locations to events, users can easily search for nearby locations by
 Your browser does not support the video tag.
 </video></div>
 
-When a user receives an invite to new events, the user can review these events and have the capability of accepting or declining invitations at a high level. The user can also select an event and view its logistical information in greater detail.
+When a users receive an invite to new events, at a high level, they can review events and choose to either accept or decline invitations. Users can also select an event and view its information in greater detail.
 
 <div id="ip4f">(image: ip4h.svg height: 304)</div>
 <div id="ip4vh"><video height="241" controls autoplay="autoplay" loop="loop">
@@ -56,7 +63,7 @@ When a user receives an invite to new events, the user can review these events a
 Your browser does not support the video tag.
 </video></div>
 
-From the logistical information screen, users can visually compare the event schedule, their own schedule, and the other invitees’ public schedule.
+On this screen users can visually compare the event scheduled, their own schedule, and the other invitees’ public schedule.
 
 <div id="ip4f">(image: ip4v.svg width: 304)</div>
 <div id="ip4vv"><video width="240" controls autoplay="autoplay" loop="loop">
@@ -65,33 +72,59 @@ From the logistical information screen, users can visually compare the event sch
 Your browser does not support the video tag.
 </video></div>
 
-Despite having multiple levels of information, the user does not need to explore deep into an event to send a response.
+Despite having multiple levels of information, users do not need to dive deep into an event to send a response.
 
 ****
 
 #### Design Process
-Total active time spent on this project was ten weeks with heavy emphasis on research and development. Much of our meeting times were used to learn about existing calendar systems.
+
+Total active time spent on this project was ten weeks with heavy emphasis on research and development. Much of our research and development was used learning about existing calendar systems from a variety of different time periods and mediums.
+
+<div id="projectCenterImage">(image: process01.jpg)</div>
+
+<div class="imageCaption">A snapshot of a class-wide whiteboard discussion on calendars.</div>
+
+<div id="projectCenterImage">(image: japan-train-schedule.jpg link: http://upload.wikimedia.org/wikipedia/commons/0/0e/Train_schedule_of_Sanin_Line%2C_Japan%2C_1949-09-15.png popup: yes)</div>
+
+<div class="imageCaption">This is one of the many calendar systems we observed. The image is a scan of an old Japanese train schedule. Although there wasn’t a direct application for this in our project, it was examples like this that broadened our views on how to visually represent time and events.</div>
 
 #### Developing a Model
-We prototyped paper models to gain focus on who we want to design for and what issues we’re trying to address.
+
+We prototyped paper models in order to gain focus on who we want to design for and what issues we’re trying to address.
+
+<div id="projectCenterImage">(image: post-it-models-01.png)</div>
+
+<div id="projectCenterImage">(image: post-it-models-02.jpg)</div>
 
 #### Refine the Model
-Once we refined our models a higher fidelity mockup of our model is then created to help solidify the areas we want to design for. This model in particular is a breakdown of different things one may consider when scheduling an event. This helped us distinguish the differences in scheduling events for work and play and helped narrow down what type of situation we want to design for. As a group we decided to design a calendar that encourages spontaneous meetings among friends with smartphones.
+Once we refined our models a higher fidelity mockup of our model is then created to help solidify the areas we want to design for.
+
+<div id="projectCenterImage">(image: models-01.png)</div>
+
+<div class="imageCaption">This model in particular is a breakdown of different things one may consider when scheduling an event. This helped us distinguish the differences in scheduling events for work and play and helped narrow down what type of situation we want to design for. As a group we decided to design a calendar that encourages spontaneous meetings among friends with smartphones.</div>
 
 #### Paper Sketching
-After figuring out our target demographic and scenario we want to design for, we began sketching interface designs for a mobile device (more specifically an iPhone 4). Rapid paper sketchings were utilized to quickly ideate and test our designs.
+After figuring out our target demographic we want to design for, we began sketching interface designs.
+
+<div id="projectCenterImage">(image: sketches-compiled.jpg width: 960 link: sketches-compiled.jpg popup: yes)</div>
 
 #### Digital Wireframing
-Here are examples of early digital mockups to test out how our design sketches would possibly look on screen. Some design elements from these prototypes were later implemented into our final design with updated visual graphics. For example, we were very interested in the layered timeline representation of a calendar and pushed forward with it.
+Here are examples of early digital mockups to test out how our design sketches would possibly look on screen. Some design elements from these prototypes were later implemented into our final design with updated visual graphics.
 
-#### Retrospective
-To come...
+<div id="projectCenterImage">(image: wireframe-compiled.jpg width: 960 link: sketches-compiled.jpg popup: yes)</div>
+
+<div class="imageCaption">We were very interested in the layered timeline representation and pushed it forward to the final design.</div>
+
+****
+
+#### Project Date
+Fall 2011, 10 weeks
 
 #### Project Role
 Concept development, graphics production, video production and editing
 
-#### Collaborators
-Robert Beyer, Kimberley Dietermann, Brian Hsu
+#### Design Team
+(link: http://robertbeyerdesign.com/ text: Robert Beyer popup: yes), (link: http://www.usererrors.com/kimberley/ text: Kimberley Dietermann popup: yes), Brian Hsu
 
 #### Advisor
-Axel Roesler
+(link: http://dub.washington.edu/people/axel-roesler text: Axel Roesler popup: yes)

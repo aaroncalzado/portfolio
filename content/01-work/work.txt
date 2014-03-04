@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 ****
 
-<div id="workCenterImage">(image: throwItBack.jpg)</div>
+<div id="workCenterImage">(image: lets-get-together.jpg link: /work/lets-get-together)</div>
 
 ###### (link: /work/lets-get-together text: Let’s Get Together)
 

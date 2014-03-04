@@ -1,5 +1,8 @@
-/* DESIGNER */
-	Aaron Calzado
+/* WHO? */
+	Designer: Aaron Calzado
+	Contact: heythere[at]aaroncalzado.com
+	Twitter: @aaroncalzado
+	From: Ewa Beach, Hawai‘i
 
 /* SITE */
 	Last update: 2014/03/03
@@ -7,5 +10,5 @@
 	IDE: Adobe CC, Chrome, Sublime Text
 
 /* AWESOME SHIT I DIDN'T DO */
-	http://getkirby.com/
-	https://github.com/daneden/animate.css
+	CMS: http://getkirby.com/
+	Animations: https://github.com/daneden/animate.css
