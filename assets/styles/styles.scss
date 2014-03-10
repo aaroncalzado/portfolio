@@ -69,7 +69,7 @@ html, body {
 	background-color: $colorKnockout;
 	font-family: $houseFont, Helvetica, Arial, sans-serif;
 	font-size: 100%;
-	font-weight: 400;
+	font-weight: 300;
 	height: 100%;
 	line-height: 1.72;
 	margin: 0px;
@@ -413,11 +413,13 @@ h5 {
 	text-align: center;
 	margin: 0 auto 0 auto;
 	padding: 16px 0 0 0;
+	width: 100%;
 }
 .centerImage img,
 .workCenterImage img,
 .projectCenterImage img {
 	border-radius: 2px;
+	width: 100%;
 }
 .centerImageDS img,
 .workCenterImageDS img,
@@ -427,6 +429,7 @@ h5 {
 	box-shadow:
 		rgba(156, 148, 148, 0.32) -6px 6px 8px,
 		rgba(156, 148, 148, 0.08) -2px 2px 25px;
+	width: 100%;
 }
 .infoCenterImage img {
 	background-color: $colorKnockout;

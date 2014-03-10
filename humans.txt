@@ -2,7 +2,7 @@
 	Designer: Aaron Calzado
 	Contact: heythere[at]aaroncalzado.com
 	Twitter: @aaroncalzado
-	From: Ewa Beach, Hawai‘i
+	From: Ewa Beach, Hawai'i
 
 /* SITE */
 	Last update: 2014/03/03
@@ -14,6 +14,6 @@
 	Animations: https://github.com/daneden/animate.css
 
 /* TYPEFACES & FONT DELIVERY */
-Just Another Foundry: http://justanotherfoundry.com/
-JAF Facit Web: https://typekit.com/fonts/jaf-facitweb
-Typekit: http://typekit.com
+	Just Another Foundry: http://justanotherfoundry.com/
+	JAF Facit Web: https://typekit.com/fonts/jaf-facitweb
+	Typekit: http://typekit.com
