@@ -1,0 +1,1907 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "16828",
+"files": {
+	"\/assets\/css\/styles.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/jquery-2.1.0.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery-2.1.0.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery-2.1.0-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/styles\/animate.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/styles\/animate.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/styles\/layout.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/styles\/layout.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/styles\/skeleton.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/styles\/skeleton.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/styles\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/styles\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/styles\/styles.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/styles\/styles.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/styles.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/content\/01-work\/01-throw-it-back\/heroImage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 293914,
+		"inputAbbreviatedPath": "\/content\/01-work\/01-throw-it-back\/heroImage.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/01-throw-it-back\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/chair-brain01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195736,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/chair-brain02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156340,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain02.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/concept-diagram.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65047,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/concept-diagram.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/concept-diagram.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/heroImage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 234253,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/heroImage.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/04-kinect-three-little-pigs\/heroImage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182954,
+		"inputAbbreviatedPath": "\/content\/01-work\/04-kinect-three-little-pigs\/heroImage.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-kinect-three-little-pigs\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/05-scout\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 737975,
+		"inputAbbreviatedPath": "\/content\/01-work\/05-scout\/01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/05-scout\/01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/heroImage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 126884,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/heroImage.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/japan-train-schedule.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154403,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/japan-train-schedule.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/japan-train-schedule.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/models-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130161,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/models-01.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/models-01.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/post-it-models-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 318366,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/post-it-models-01.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/post-it-models-01.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/post-it-models-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 390422,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/post-it-models-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/post-it-models-02.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/process01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115357,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/process01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/process01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/Screenshot 2014-03-03 20.59.42.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.19381e+07,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/Screenshot 2014-03-03 20.59.42.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/Screenshot 2014-03-03 20.59.42.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/sketches-compiled.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 714994,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/sketches-compiled.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/sketches-compiled.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/Train_schedule_of_Sanin_Line,_Japan,_1949-09-15.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.47858e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/Train_schedule_of_Sanin_Line,_Japan,_1949-09-15.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/Train_schedule_of_Sanin_Line,_Japan,_1949-09-15.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/wireframe-compiled.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51876,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/wireframe-compiled.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/wireframe-compiled.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/07-crate-to-plate\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 737975,
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150333,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/01.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/01.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13000,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/02.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/02.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 888455,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/03.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/03.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 638919,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/04.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/04.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/05.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 559836,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/05.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/05.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/06.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 363337,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/06.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/06.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/07.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 246044,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/07.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/07.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/08.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.05889e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/08.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/08.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/09.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 426145,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/09.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/09.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/10.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 624393,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/10.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/10.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/11.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 571145,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/11.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/11.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 438431,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/12.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/12.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/13.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 680137,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/13.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/13.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/14.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 363651,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/14.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/14.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/15.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 376118,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/15.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/15.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/16.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.04485e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/16.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/16.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/17.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233824,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/17.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/17.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/18.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 196178,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/18.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/18.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/19.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 127947,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/19.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/19.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/heroImage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 278498,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/heroImage.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/physical-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60651,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/physical-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/physical-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/physical-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105012,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/physical-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/physical-02.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/physical-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76598,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/physical-03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/physical-03.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/08-design-rome-2012\/physical-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109429,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/physical-04.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-design-rome-2012\/physical-04.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/design-rome-2012.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 278053,
+		"inputAbbreviatedPath": "\/content\/01-work\/design-rome-2012.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/design-rome-2012.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/heroImage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 293914,
+		"inputAbbreviatedPath": "\/content\/01-work\/heroImage.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/hiatus.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215966,
+		"inputAbbreviatedPath": "\/content\/01-work\/hiatus.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/hiatus.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/lets-get-together.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25664,
+		"inputAbbreviatedPath": "\/content\/01-work\/lets-get-together.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/lets-get-together.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/throwItBack.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44094,
+		"inputAbbreviatedPath": "\/content\/01-work\/throwItBack.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/throwItBack.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/01-info-first\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13702,
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/01.jpg",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/01-info-first\/envelope.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1613,
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/envelope.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/envelope.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/01-info-first\/github.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1848,
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/github.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/github.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/01-info-first\/heroImage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107905,
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/heroImage.jpg",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/01-info-first\/instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1789,
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/instagram.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/instagram.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/01-info-first\/linkedin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1423,
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/linkedin.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/linkedin.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/01-info-first\/text.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 908,
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/text.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/text.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/01-info-first\/vimeo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1941,
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/vimeo.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/vimeo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13702,
+		"inputAbbreviatedPath": "\/content\/02-info\/01.jpg",
+		"outputAbbreviatedPath": "\/content\/02-info\/01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/02-info-second\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13702,
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/01.jpg",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/02-info-second\/envelope.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1613,
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/envelope.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/envelope.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/02-info-second\/github.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1848,
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/github.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/github.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/02-info-second\/heroImage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107905,
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/heroImage.jpg",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/02-info-second\/instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1789,
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/instagram.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/instagram.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/02-info-second\/linkedin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1423,
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/linkedin.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/linkedin.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/02-info-second\/text.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 908,
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/text.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/text.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/02-info-second\/vimeo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1941,
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/vimeo.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/vimeo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/bitcoin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1344,
+		"inputAbbreviatedPath": "\/content\/02-info\/bitcoin.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/bitcoin.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/envelope.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1613,
+		"inputAbbreviatedPath": "\/content\/02-info\/envelope.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/envelope.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/github.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1848,
+		"inputAbbreviatedPath": "\/content\/02-info\/github.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/github.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/heroImage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107905,
+		"inputAbbreviatedPath": "\/content\/02-info\/heroImage.jpg",
+		"outputAbbreviatedPath": "\/content\/02-info\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1789,
+		"inputAbbreviatedPath": "\/content\/02-info\/instagram.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/instagram.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/linkedin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1423,
+		"inputAbbreviatedPath": "\/content\/02-info\/linkedin.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/linkedin.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/skype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2145,
+		"inputAbbreviatedPath": "\/content\/02-info\/skype.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/skype.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/text.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 908,
+		"inputAbbreviatedPath": "\/content\/02-info\/text.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/text.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1804,
+		"inputAbbreviatedPath": "\/content\/02-info\/twitter.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/twitter.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-info\/vimeo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1941,
+		"inputAbbreviatedPath": "\/content\/02-info\/vimeo.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/vimeo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/error\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80322,
+		"inputAbbreviatedPath": "\/content\/error\/01.jpg",
+		"outputAbbreviatedPath": "\/content\/error\/01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/home\/heroImage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 462202,
+		"inputAbbreviatedPath": "\/content\/home\/heroImage.jpg",
+		"outputAbbreviatedPath": "\/content\/home\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/defaults.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/defaults.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/cache.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/cache.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/files.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/files.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/helpers.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/helpers.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/kirby.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/kirby.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/load.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/load.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/obj.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/obj.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/pages.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/pages.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/pagination.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/pagination.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/site.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/site.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/uri.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/uri.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/variables.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/variables.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/modals\/mbstring.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/modals\/mbstring.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/modals\/troubleshoot.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/modals\/troubleshoot.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/defaults.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/defaults.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/kirbytext.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/kirbytext.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/markdown.extra.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/markdown.extra.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/markdown.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/markdown.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/smartypants.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/smartypants.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/yaml.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/yaml.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/system.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/system.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/config\/config for web.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/config\/config for web.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/config\/config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/config\/config.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/plugins\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/plugins\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/plugins\/kirbytext.extended.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/plugins\/kirbytext.extended.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/footerHome.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/footerHome.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/head.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/head.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/mast.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/mast.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/mastHome.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/mastHome.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/mastNoTitle.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/mastNoTitle.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/default.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/default.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/home.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/home.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/info.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/info.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/link.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/link.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/project.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/project.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/work.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/work.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Aaron Calzado",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "portfolio",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "compass_orange"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 1,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no-unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptOutputSuffix": "-ck",
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"gcl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onevar": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"smarttabs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"trailing": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 5,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

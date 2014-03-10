@@ -1,3 +1,4 @@
+<?php snippet('head') ?>
 	<?php snippet('mast') ?>
 		<section>
 			<div class="container">

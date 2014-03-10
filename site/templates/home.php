@@ -1,9 +1,10 @@
-<?php snippet('mastHome') ?>
-	<section>
-		<div class="container">
-			<div class="home">
+<?php snippet('head') ?>
+	<?php snippet('mastHome') ?>
+		<section>
+			<div class="container">
+				<div class="home">
+				</div>
 			</div>
-		</div>
-	</section>
+		</section>
 </body>
 </html>

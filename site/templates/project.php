@@ -1,11 +1,12 @@
-<?php snippet('mast') ?>
-	<section class="content">
-		<div class="containerProject">
-			<div class="copyBody">
-				<?php echo kirbytext($page->text()) ?>
-				<?php snippet('footer') ?>				
+<?php snippet('head') ?>
+	<?php snippet('mast') ?>
+		<section class="content">
+			<div class="containerProject">
+				<div class="copyBody">
+					<?php echo kirbytext($page->text()) ?>			
+				</div>
 			</div>
-		</div>
-	</section>
+			<?php snippet('footer') ?>
+		</section>
 </body>
 </html>

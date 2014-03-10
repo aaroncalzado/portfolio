@@ -1,63 +1,66 @@
 Title: Hiatus
 ----
-Subtitle: Sitting too long can be very hazardous to your long-term health and is linked to repetitive stress injuries, substantial increased risk of obesity, poor blood circulation, and other longterm illnesses. However, taking a break from sitting can prevent much of the problems that arise from sitting too long.
+Subtitle: Sitting too long can be very hazardous to your long-term health and is linked to repetitive stress injuries, increased risk of obesity, and other longterm illnesses. However, taking a break from sitting can lower the risks of problems that arise from sitting too long.
 ----
 Caption: Spring 2012, 10 weeks
 ----
 Credit:
 ----
-Text: Hiatus is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up. Made with an Arduino Uno, custom components, and some second-hand hardware, Hiatus converts an average office chair into a gentle reminder that it’s time to get up. Every 20 minutes, Hiatus gives its occupant a nudge that they’ve sat long enough, and becomes more forceful (and harder to ignore) if needed.
+Text: _Hiatus_ is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up. Made with an Arduino Uno, custom components, and some second-hand hardware, _Hiatus_ converts an average office chair into a gentle reminder that it’s time to get up. Every 30 minutes, _Hiatus_ gives its occupant a nudge that they’ve sat long enough, and becomes more forceful (and harder to ignore) if needed.
 
 <div id="vimeo"><iframe src="//player.vimeo.com/video/43513049?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-#### Why?
+##### Why?
 
-Losing dependence when you get old?
+One of the major disadvantages in leading a sedentary lifestyle includes greatly reducing your chances of retaining physical independence when you get old.	 Recent studies show that getting your week’s of exercise is important but it can’t provide protection against sitting disease like taking a break and getting off your butt. Even taking as little as an extra half-hour off your ass can significantly help in your longterm health. Health problems aside, one of the biggest problems of leading a sedentary lifestyle is that we don’t talk or think about it nearly as much as dieting and exercise.
 
-Physical Activity and Health getting 150minutes a week of exercise is important but can’t provide protection like getting off your butt.
+****
 
-Sedentary hours are a good predictor of how you will be able to manage everyday tasks when you get old.
+##### Design Process
+We created a simple diagram outlining the basic functions and materials required for our chair.
 
-For every hour you sit, there is a significant decrease in the ability to perform everyday tasks in those over 60.
+<div id="projectCenterImage">(image: concept-diagram.jpg)</div>
 
-Researchers found male, more educated but less wealthy, smokers, and those who have chronic illnesses.
+<div class="projectImageCaption">This diagram allowed us to plan out our next steps, and assess what electrical components and Arduino programming we might need.</div>
 
-Their death attribute 5.3 million deaths per year worldwide to sitting.
+<div id="projectCenterImage">(image: code.gif)</div>
 
-For every hour of TV watched over the age of 25, 22 minutes are shaved off your lifespan.
+<div class="projectImageCaption">For the next several weeks, we worked hard to develop working code for the Arduino. For this chair we needed the Arduino to keep track of time spent sitting down and time spent taking a break. We also needed to instruct the Arduino to sense and activate the appropriate microswitches for the chair’s motor.</div>
 
-Sitting is a huge problem that we don’t talk about nearly as much as diet and exercise.
+##### Process Sketches and Ideations
 
-Extra half-hour can significantly help in your longterm health.
+Despite being illegible outside of the design context at the time, here are excerpt process sketches that were used in the development of the _Hiatus_ Chair.
 
-#### Design Process
-We generated a concept diagram of how we envisioned our responsive chair. This diagram allowed us to plan out our next steps, and assess what electrical components and Arduino programming we might need. For the next several weeks, we worked hard to develop a working code that let the Arduino run a timer and activate the appropriate motors and act accordingly when certain microswitches and situations were activated.
+##### Chair “Brain” Development
 
-#### Process Sketches and Ideations
-Despite being illegible outside of the design context at the time, here are excerpt process sketches that were used in the development of the Hiatus Chair.
-
-#### Chair “Brain” Development
 These are images showcasing the prototyping process and development of the chair brain and its components.
 
-#### Hacking the Chair
+<div id="projectCenterImage">(image: chair-brain01.jpg)</div>
+
+<div id="projectCenterImage">(image: chair-brain02.jpg)</div>
+
+##### Hacking the Chair
 Gutting out the chair was a necessary step to provide room for the brain and other moving components.
 
-#### Hardware and Software Testing
+##### Hardware and Software Testing
 Vigorous testing of the code was done to prevent the chair from killing itself.
 
-#### Retrospect
-The Hiatus chair concept was well received among our peers and was a major feat acomplished by both Kelly and I. Prior to working on this project, neither of us had any experience in developing in the Processing/Arduino environment, nor did we have any experience in deconstructing existing artifacts and cannibalizing them to hack together our own homebrew artifact. In hindsight, we realized the Hiatus chair required a much higher level of skill in construction and engineering.
+##### Retrospect
+The _Hiatus_ chair concept was well received among our peers and was a major feat acomplished by both Kelly and I. Prior to working on this project, neither of us had any experience in developing in the Processing/Arduino environment, nor did we have any experience in deconstructing existing artifacts and cannibalizing them to hack together our own homebrew artifact. In hindsight, we realized the _Hiatus_ chair required a much higher level of skill in construction and engineering.
 
-These were critical things we lacked during the development of the Hiatus chair. Unfortunately, neither of us had sufficient knowledge [at the time] in materials and construction and ended up breaking our chair during testing. Fortunately, we were able to film the chair in action for our video prototype as well as documenting its demise.
+These were critical things we lacked during the development of the _Hiatus_ chair. Unfortunately, neither of us had sufficient knowledge [at the time] in materials and construction and ended up breaking our chair during testing. Fortunately, we were able to film the chair in action for our video prototype as well as documenting its demise.
 
-#### Project Role
+##### External Links
+(link: http://tangibleinteractionuw.blogspot.com/2012/06/aaron-and-kelly-final-project-hiatus.html text: Tangible Interaction UW: Aaron and Kelly Final Project: The Hiatus Chair)
+
+##### Project Role
 Concept development, graphics production, fabrication, research, software coding, video production and editing
 
-#### Collaborator
+##### Collaborator
 Kelly Graham
 
-#### Advisor
+##### Advisor
 Dominic Muren
 
-#### Special Thanks
+##### Special Thanks
 Tom Conroy, John, Sara Jo Kinslow, Dae Kwon

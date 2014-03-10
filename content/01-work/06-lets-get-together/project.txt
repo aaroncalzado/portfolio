@@ -8,7 +8,7 @@ Text: _Let’s Get Together_ is a digital calendar concept for smartphones devel
 
 <div id="vimeo"><iframe src="//player.vimeo.com/video/33567269?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-#### Why?
+##### Why?
 
 While it may be straightforward for a user to use a digital calendar system to organize their own scheduled events, current (2010) smartphone calendar systems are not yet optimized for users coordinating calendar events with other people. Also, many data entry systems on smartphone touch screens are not designed with the small form factor in mind, but rather built to mimic the familiar desktop experience. And finally, feature rich digital calendars allow for information overload.
 
@@ -18,7 +18,7 @@ We also wanted to show that, our calendar system is more than just an organizati
 
 ****
 
-#### Interaction Breakdown
+##### Interaction Breakdown
 
 <div id="ip4f">(image: ip4h.svg height: 304)</div>
 <div id="ip4vh"><video height="241" controls autoplay="autoplay" loop="loop">
@@ -76,7 +76,7 @@ Despite having multiple levels of information, users do not need to dive deep in
 
 ****
 
-#### Design Process
+##### Design Process
 
 Total active time spent on this project was ten weeks with heavy emphasis on research and development. Much of our research and development was used learning about existing calendar systems from a variety of different time periods and mediums.
 
@@ -88,7 +88,7 @@ Total active time spent on this project was ten weeks with heavy emphasis on res
 
 <div class="projectImageCaption">This is one of the many calendar systems we observed. The image is a scan of an old Japanese train schedule. Although there wasn’t a direct application for this in our project, it was examples like this that broadened our views on how to visually represent time and events.</div>
 
-#### Developing a Model
+##### Developing a Model
 
 We prototyped paper models in order to gain focus on who we want to design for and what issues we’re trying to address.
 
@@ -96,19 +96,20 @@ We prototyped paper models in order to gain focus on who we want to design for a
 
 <div id="projectCenterImage">(image: post-it-models-02.jpg)</div>
 
-#### Refine the Model
+##### Refine the Model
+
 Once we refined our models a higher fidelity mockup of our model is then created to help solidify the areas we want to design for.
 
-<div id="projectCenterImage">(image: models-01.png)</div>
+<div id="projectCenterImage">(image: models-01.png width: 960)</div>
 
 <div class="projectImageCaption">This model in particular is a breakdown of different things one may consider when scheduling an event. This helped us distinguish the differences in scheduling events for work and play and helped narrow down what type of situation we want to design for. As a group we decided to design a calendar that encourages spontaneous meetings among friends with smartphones.</div>
 
-#### Paper Sketching
+##### Paper Sketching
 After figuring out our target demographic we want to design for, we began sketching interface designs.
 
 <div id="projectCenterImage">(image: sketches-compiled.jpg width: 960 link: sketches-compiled.jpg popup: yes)</div>
 
-#### Digital Wireframing
+##### Digital Wireframing
 Here are examples of early digital mockups to test out how our design sketches would possibly look on screen. Some design elements from these prototypes were later implemented into our final design with updated visual graphics.
 
 <div id="projectCenterImage">(image: wireframe-compiled.jpg width: 960 link: sketches-compiled.jpg popup: yes)</div>
@@ -117,14 +118,14 @@ Here are examples of early digital mockups to test out how our design sketches w
 
 ****
 
-#### Project Date
+##### Project Date
 Fall 2011, 10 weeks
 
-#### Project Role
+##### Project Role
 Concept development, graphics production, video production and editing
 
-#### Design Team
+##### Design Team
 (link: http://robertbeyerdesign.com/ text: Robert Beyer popup: yes), (link: http://www.usererrors.com/kimberley/ text: Kimberley Dietermann popup: yes), Brian Hsu
 
-#### Advisor
+##### Advisor
 (link: http://dub.washington.edu/people/axel-roesler text: Axel Roesler popup: yes)

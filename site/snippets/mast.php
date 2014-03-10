@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-	<script type="text/javascript" src="//use.typekit.net/snh4lbu.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>  
-
-  <title><?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
-  <meta charset="utf-8" />
-  <meta name="description" content="<?php echo html($site->description()) ?>" />
-  <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
-  <meta name="robots" content="index, follow" />
-
-  <?php echo css('assets/styles/styles.css') ?>
-  <?php echo css('assets/styles/animate.css') ?>
-
-</head>
-
 <body>
 
   <header>
@@ -34,7 +16,8 @@
         <div class="containerMast">
           <div class="copyMast">
             <h1><?php echo html($page->title()) ?></h1>
-            <h5><?php echo html($page->subtitle()) ?></h5>
+            <hr>
+            <h3><?php echo html($page->subtitle()) ?></h3>
             <p style="text-align: center;"><img src="<?php echo url('assets/images/chevron.svg') ?>" style="width: 32px; height: 32px;"/></p>
           </div>
         </div>

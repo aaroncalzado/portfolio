@@ -1,10 +1,12 @@
+<?php snippet('head') ?>
 	<?php snippet('mastNoTitle') ?>
-		<section>
+		<section class="content">
 			<div class="containerInfo">
-				<?php echo kirbytext($page->text()) ?>
-				<?php snippet('footer') ?>
+				<div class="copyBody">
+					<?php echo kirbytext($page->text()) ?>
+				</div>
 			</div>
+			<?php snippet('footer') ?>
 		</section>
 </body>
-
 </html>

@@ -1,6 +1,6 @@
 Title: Info
 ----
-Credit: Profile photo by Luke Springer • Cover photo by Sarah Churng
+Credit: Profile photo by Luke Springer · Cover photo by Sarah Churng
 ----
 Text: I’m an interaction designer based in Seattle, Washington. Recently, I was the interactive designer at (link: http://www.rimmkaufman.com/ text: Rimm-Kaufman Group popup: yes) from August 2013 until the office closed in November 2013. At RKG I designed user experiences for (link: http://www.ninebyblue.com/ text: Blueprint Search Analytics popup: yes). Before that, I earned my bachelor of design degree in (link: http://art.washington.edu/design/undergraduate/interaction-design/about-interaction-design/ text: Interaction Design popup: yes) from the University of Washington. Way before all of that, I got my associates in (link: http://www2.honolulu.hawaii.edu/?q=node/407 text: Communication Arts popup: yes) at Honolulu Community College in 2007 and worked as a graphic designer in the beautiful state of Hawai‘i.
 
@@ -12,6 +12,8 @@ You can get in touch with or learn more about me via:
 
 <div id="centerImage">(image: envelope.png link: mailto:heythere@aaroncalzado.com height: 24) (image: text.png link: https://dl.dropbox.com/u/1435588/aaroncalzado.pdf height: 24 popup: yes) (image: linkedin.png link: http://www.linkedin.com/in/aaroncalzado/ height: 24 popup: yes) (image: vimeo.png link: http://www.vimeo.com/aaroncalzado height: 24 popup: yes) (image: instagram.png link: http://www.instagram.com/aaroncalzado height: 24 popup: yes) (image: github.png link: http://www.github.com/aaroncalzado height: 24 popup: yes)</div>
 
-#### Site Info
+Read this info page in the (link: /info text: third person) or in the (link: /info/info-second text: self-addressed second person).
 
-This site is built with (link: http://getkirby.com text: Kirby popup: yes) and utilzes (link: https://typekit.com/fonts/jaf-facitweb text: JAF Facit Web popup: yes) from (link: http://justanotherfoundry.com/ text: Just Another Foundry popup: yes) powered by (link: http://typekit.com text: TypeKit popup: yes). Read this info page in the (link: /info text: third person) or in the (link: /info/info-second text: self-addressed second person).
+##### Site Info
+
+This site is built with (link: http://getkirby.com text: Kirby popup: yes) and utilzes (link: https://typekit.com/fonts/jaf-facitweb text: JAF Facit Web popup: yes) from (link: http://justanotherfoundry.com/ text: Just Another Foundry popup: yes) powered by (link: http://typekit.com text: TypeKit popup: yes).

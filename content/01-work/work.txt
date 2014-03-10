@@ -9,9 +9,9 @@ Credit:
 Text:
 <div id="workCenterImage">(image: throwItBack.jpg link: /work/throw-it-back)</div>
 
-###### (link: /work/throw-it-back text: Throw It Back!)
+#### (link: /work/throw-it-back text: Throw It Back!)
 
-Today, radical changes in waste technology and management are happening at a rapid pace, but even with the most current up-to-date technology we still fall short in educating the general public on proper waste management practices. Throw It Back! is a waste management system designed to inform and educate the general public on good waste management practices.
+_Throw It Back!_ is a waste management system designed to inform and educate the general public on good waste management practices.
 
 (link: /work/throw-it-back class: viewProjects text: View Project)
 
@@ -19,19 +19,19 @@ Today, radical changes in waste technology and management are happening at a rap
 
 <div id="workCenterImage">(image: throwItBack.jpg)</div>
 
-###### (link: /work/topicks text: Topicks)
+#### (link: /work/topicks text: Topicks)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+_Topicks_ is a news resource that presents you daily trending news topics from different perspectives. _Topicks_ delivers the whole story by providing perspectives that normally go unseen.
 
 (link: /work/topicks class: viewProjects text: View Project)
 
 ****
 
-<div id="workCenterImage">(image: throwItBack.jpg link: /work/hiatus)</div>
+<div id="workCenterImage">(image: hiatus.png link: /work/hiatus)</div>
 
-###### (link: /work/hiatus text: Hiatus)
+#### (link: /work/hiatus text: Hiatus)
 
-Hiatus is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up.
+_Hiatus_ is a home-brew chair hacked together from used parts and electronics designed to combat sedentary lifestyle diseases.
 
 (link: /work/hiatus class: viewProjects text: View Project)
 
@@ -39,9 +39,9 @@ Hiatus is a concept chair designed to solve the common problem of sitting too lo
 
 <div id="workCenterImage">(image: throwItBack.jpg)</div>
 
-###### (link: /work/kinect-three-little-pigs text: Kinect × Three Little Pigs)
+#### (link: /work/kinect-three-little-pigs text: Kinect × Three Little Pigs)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+The _Kinect × Three Little Pigs_ is a digital storybook designed to reimagine the way children experience art of storytelling.
 
 (link: /work/kinect-three-little-pigs class: viewProjects text: View Project)
 
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 <div id="workCenterImage">(image: throwItBack.jpg)</div>
 
-###### (link: /work/scout text: Scout)
+#### (link: /work/scout text: Scout)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+_Scout_ is the devilishly clever device you can't live without. This subtle little accessory goes where you go, and knows what you know so it can find your perfect match.
 
 (link: /work/scout class: viewProjects text: View Project)
 
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 <div id="workCenterImage">(image: lets-get-together.jpg link: /work/lets-get-together)</div>
 
-###### (link: /work/lets-get-together text: Let’s Get Together)
+#### (link: /work/lets-get-together text: Let’s Get Together)
 
 _Let’s Get Together_ is a digital calendar concept for smartphones developed to explore new ways to input data, visualize calendar information, and encourage spontaneous social gatherings with other people.
 
@@ -69,9 +69,9 @@ _Let’s Get Together_ is a digital calendar concept for smartphones developed t
 
 <div id="workCenterImage">(image: throwItBack.jpg)</div>
 
-###### (link: /work/crate-to-plate text: Crate to Plate)
+#### (link: /work/crate-to-plate text: Crate to Plate)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+_Crate to Plate_ is a food subscription service that delivers a series of seasonal local ingredients paired with original recipes designed to make the process of buying and cooking local food more accessible.
 
 (link: /work/crate-to-plate class: viewProjects text: View Project)
 
@@ -81,14 +81,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 <div class="workImageCaption">Photo by Sean Bolan</div>
 
-###### (link: /work/design-rome-2012 text: Design Rome 2012)
+#### (link: /work/svergognato text: Svergognato)
 
 In the summer of 2012 I had the opportunity to study abroad in Rome. During the five week seminar I spent most of my days observing the culture, art, architecture, and design of Italy. For my final project I designed, printed, and bound a one-off book highlighting my experiences in Italy.
 
-(link: /work/design-rome-2012 class: viewProjects text: View Project)
+(link: /work/svergognato class: viewProjects text: View Project)
 
 ****
 
-#### Personal Explorations
-
-###### (link: /work/printmaking text: Printmaking)
+#### (link: /work/printmaking text: Printmaking)
