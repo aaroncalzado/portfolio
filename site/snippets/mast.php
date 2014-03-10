@@ -4,7 +4,7 @@
     <div class="mastTitle">
       <a href="<?php echo url() ?>">Aaron Calzado, Designer</a>
     </div>
-    <div id="mastNav">
+    <div class="mastNav">
       <ul>
         <?php foreach($pages->visible() AS $p): ?>
           <li><a <?php echo ($p->isOpen()) ? ' class="active"' : '' ?> href="<?php echo $p->url() ?>"><?php echo html($p->title()) ?></a></li>
@@ -12,7 +12,7 @@
       </ul>
     </div>
     </header>
-      <section id="heroImage" class="heroImage" style="background-image: url(<?php echo url('/') ?><?php echo $page->diruri ?>/heroImage.jpg);"/>
+      <section class="heroImage" class="heroImage" style="background-image: url(<?php echo url('/') ?><?php echo $page->diruri ?>/heroImage.jpg);"/>
         <div class="containerMast">
           <div class="copyMast">
             <h1><?php echo html($page->title()) ?></h1>

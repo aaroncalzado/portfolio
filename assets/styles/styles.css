@@ -143,21 +143,21 @@ a:visited {
   /* Lines up title and nav */
   position: relative; }
 
-header #mastNav {
+header .mastNav {
   color: snow;
   float: right;
   font-size: 0.96rem;
   margin: 14px 16px 8px 8px;
   position: relative; }
 
-#mastNav ul li {
+.mastNav ul li {
   color: snow;
   display: inline;
   list-style: none;
   padding-left: 12px;
   /* Adjusts the space between Nav buttons */ }
 
-#mastNav ul li a {
+.mastNav ul li a {
   border: 1px solid snow;
   border-radius: 16px;
   color: snow;
@@ -165,7 +165,7 @@ header #mastNav {
   /* Padding for Nav buttons */
   text-decoration: none; }
 
-#mastNav ul li a.active, #mastNav ul li a:hover {
+.mastNav ul li a.active, .mastNav ul li a:hover {
   border: 1px solid snow;
   background-color: snow;
   color: #303030; }
@@ -205,7 +205,7 @@ hr {
   position: relative;
   width: 100%; }
 
-#heroImageHome, #heroImage {
+.heroImageHome, .heroImage {
   background-attachment: fixed;
   background-position: center center;
   background-size: cover; }
@@ -390,27 +390,27 @@ h5 {
   text-decoration: none; }
 
 /* Images START */
-#centerImage,
-#workCenterImage,
-#projectCenterImage,
-#infoCenterImage {
+.centerImage,
+.workCenterImage,
+.projectCenterImage,
+.infoCenterImage {
   text-align: center;
   margin: 0 auto 0 auto;
   padding: 16px 0 0 0; }
 
-#centerImage img,
-#workCenterImage img,
-#projectCenterImage img {
+.centerImage img,
+.workCenterImage img,
+.projectCenterImage img {
   border-radius: 2px; }
 
-#centerImageDS img,
-#workCenterImageDS img,
-#projectCenterImageDS img {
+.centerImageDS img,
+.workCenterImageDS img,
+.projectCenterImageDS img {
   background-color: snow;
   border-radius: 2px;
   box-shadow: rgba(156, 148, 148, 0.32) -6px 6px 8px, rgba(156, 148, 148, 0.08) -2px 2px 25px; }
 
-#infoCenterImage img {
+.infoCenterImage img {
   background-color: snow;
   border-radius: 2px; }
 
@@ -424,7 +424,7 @@ h5 {
   opacity: 0.32;
   padding: 0 24% 0 24%; }
 
-#profile {
+.profile {
   background: -webkit-linear-gradient(#dbdbdb, snow);
   /* For Safari 5.1 to 6.0 */
   background: -o-linear-gradient(#dbdbdb, snow);
@@ -443,23 +443,23 @@ h5 {
   width: 240px; }
 
 /* Video Stuff */
-#vimeo {
+.vimeo {
   margin: 0 auto 0 auto;
   padding-top: 2.4%;
   text-align: center; }
 
-#ip4f {
+.ip4f {
   position: relative;
   text-align: center;
   z-index: -1; }
 
-#ip4vv {
+.ip4vv {
   margin: 0 0 -405px 0;
   position: relative;
   text-align: center;
   top: -484px; }
 
-#ip4vh {
+.ip4vh {
   margin: 0 0 -284px 0;
   position: relative;
   text-align: center;

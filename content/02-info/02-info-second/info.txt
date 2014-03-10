@@ -10,10 +10,6 @@ Right now, you’re checking out the design scene for a new grind where you can 
 
 People are looking for bad-asses like you, so you better make yourself known:
 
-<div id="infoCenterImage">(image: envelope.png link: mailto:heythere@aaroncalzado.com height: 24) (image: text.png link: https://dl.dropbox.com/u/1435588/aaroncalzado.pdf height: 24 popup: yes) (image: linkedin.png link: http://www.linkedin.com/in/aaroncalzado/ height: 24 popup: yes) (image: vimeo.png link: http://www.vimeo.com/aaroncalzado height: 24 popup: yes) (image: instagram.png link: http://www.instagram.com/aaroncalzado height: 24 popup: yes) (image: github.png link: http://www.github.com/aaroncalzado height: 24 popup: yes)</div>
+<div class="infoCenterImage">(image: envelope.png link: mailto:heythere@aaroncalzado.com height: 24) (image: text.png link: https://dl.dropbox.com/u/1435588/aaroncalzado.pdf height: 24 popup: yes) (image: linkedin.png link: http://www.linkedin.com/in/aaroncalzado/ height: 24 popup: yes) (image: vimeo.png link: http://www.vimeo.com/aaroncalzado height: 24 popup: yes) (image: instagram.png link: http://www.instagram.com/aaroncalzado height: 24 popup: yes) (image: github.png link: http://www.github.com/aaroncalzado height: 24 popup: yes)</div>
 
-Read this info page in the (link: /info/info-first text: first person) or in the (link: /info text: third person).
-
-##### Site Info
-
-This site is rolling with (link: http://getkirby.com text: Kirby popup: yes) all tagged up in (link: https://typekit.com/fonts/jaf-facitweb text: JAF Facit Web popup: yes) from the (link: http://justanotherfoundry.com/ text: Just Another Foundry popup: yes) and delivered fresh from (link: http://typekit.com text: TypeKit popup: yes).
+Read this info page in the (link: /info/info-first text: first person) or in the (link: /info text: third person). For detailed site info, view the (link: http://aaroncalzado.com/portfolio/humans.txt text: humans.txt popup: yes).

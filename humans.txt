@@ -12,3 +12,8 @@
 /* AWESOME SHIT I DIDN'T DO */
 	CMS: http://getkirby.com/
 	Animations: https://github.com/daneden/animate.css
+
+/* TYPEFACES & FONT DELIVERY */
+Just Another Foundry: http://justanotherfoundry.com/
+JAF Facit Web: https://typekit.com/fonts/jaf-facitweb
+Typekit: http://typekit.com
