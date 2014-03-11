@@ -224,8 +224,8 @@ hr {
 	width: 100%;
 }
 .heroImageHome, .heroImage {
-	background-attachment:fixed;
-	background-position:center center;
+	background-attachment: fixed;
+	background-position: center center;
 	background-size: cover;
 }
 .copyMast, .copyMastInfo {
@@ -324,6 +324,7 @@ h3 { /* Subtitle in Mast */
 	font-weight: 200;
 	font-size: 1.32rem;
 	line-height: 1.96rem;
+	margin: auto;
 	-webkit-margin-before: 0px;
 	-webkit-margin-after: 0px;
 	-webkit-margin-start: auto;
