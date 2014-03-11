@@ -16,6 +16,7 @@
         <div class="containerMast">
           <div class="copyMastInfo">
             <p><img src="<?php echo url('/') ?><?php echo $page->diruri ?>/01.jpg" class="profile"/></p>
+            <p></p>
             <p style="text-align: center;"><img src="<?php echo url('assets/images/chevron.svg') ?>" style="width: 32px; height: 32px;"/></p>
           </div>
         </div>

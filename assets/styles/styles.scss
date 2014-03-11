@@ -83,15 +83,14 @@ footer {
 	font-size: $footerFontSize;
 	font-weight: $footerFontWeight;
 	margin: 32px 0 0 0;
-	padding: 28px 0 44px 0;
+	padding: 32px 0 32px 0;
 	position: absolute;
 	text-align: center;
 	width: 100%;
 	min-width: 480px;
 }
 .footerHome,
-.footerHome p,
-.footerHome p a {
+.footerHome a {
 	color: $colorKnockout;
 	font-size: $footerFontSize;
 	font-weight: $footerFontWeight;
@@ -108,31 +107,14 @@ footer {
 	color: $colorKnockout;
 	text-decoration: none;
 }
-.content footer p,
-.content footer p a,
-.content footer p a:active,
-.content footer p a:visited {	
+.content footer a,
+.content footer a:active,
+.content footer a:visited {	
 	border-bottom: none;
 	color: $colorKnockout;
 	text-decoration: none;
 }
-.content footer p a:hover, {
-	border-bottom: 1px solid $colorKnockout;
-	color: $colorKnockout;
-	text-decoration: none;
-}
-.content footer p {	
-	color: $colorKnockout;
-}
-.content footer p a {
-	border-bottom: none;
-	color: $colorKnockout;
-	text-decoration: none;
-}
-.content footer p
-a:hover,
-a:active,
-a:visited {
+.content footer a:hover, {
 	border-bottom: 1px solid $colorKnockout;
 	color: $colorKnockout;
 	text-decoration: none;
@@ -418,10 +400,11 @@ h5 {
 	padding: 16px 0 0 0;
 	width: 100%;
 }
-.centerImage img,
-.projectCenterImage img,
-.workCenterImage img {
+.centerImage,
+.projectCenterImage,
+.workCenterImage {
 	border-radius: 2px;
+	width: 100%;
 }
 img.centerImageDS,
 img.projectCenterImageDS,
@@ -431,15 +414,7 @@ img.workCenterImageDS {
 	box-shadow:
 		rgba(156, 148, 148, 0.32) -6px 6px 8px,
 		rgba(156, 148, 148, 0.08) -2px 2px 25px;
-}
-.centerImageDS img,
-.projectCenterImageDS img,
-.workCenterImageDS img {
-	background-color: $colorKnockout;
-	border-radius: 2px;
-	box-shadow:
-		rgba(156, 148, 148, 0.32) -6px 6px 8px,
-		rgba(156, 148, 148, 0.08) -2px 2px 25px;
+	width: 100%;
 }
 .copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
 .copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,
@@ -448,10 +423,6 @@ img.workCenterImageDS {
 .copyBody p a.workCenterImageDS, .copyBody p a:active.workCenterImageDS, .copyBody p a:hover.workCenterImageDS, .copyBody p a:visited.workCenterImageDS,
 .copyBody p a.workCenterImage, .copyBody p a:active.workCenterImage, .copyBody p a:hover.workCenterImage, .copyBody p a:visited.workCenterImage {
 	border: none;
-}
-.infoCenterImage img {
-	background-color: $colorKnockout;
-	border-radius: 2px;
 }
 .workImageCaption,
 .projectImageCaption {
