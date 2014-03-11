@@ -1,35 +1,60 @@
 Title: Svergognato
 ----
-Subtitle: In the summer of 2012 I had the opportunity to study abroad in Rome. During the five week seminar I spent most of my days observing the culture, art, architecture, and design of Italy. For my final project I designed, printed, and bound a one-off book highlighting my experiences in Italy.
+Subtitle: In the summer of 2012 I had the opportunity to study abroad in Rome. During the five week seminar I spent most of my days observing the culture, art, architecture, and design Italy had to offer. For my final project I designed, printed, and bound a one-off book highlighting my experiences in Italy.
 ----
 Caption: Summer 2012, 5 weeks
 ----
 Credit:
 ----
-Text: The word “svergognato” is an Italian word that roughly translates to “shameless” in English.
+Text:
+(image: physical-01.jpg class: projectCenterImageDS)
 
-<div id="projectCenterImage">(image: physical-01.jpg)</div>
-<div id="projectCenterImage">(image: physical-02.jpg)</div>
-<div id="projectCenterImage">(image: physical-03.jpg)</div>
-<div id="projectCenterImage">(image: physical-04.jpg)</div>
+<div class="projectImageCaption">The word “svergognato” is an Italian word that roughly translates to “shameless” in English.</div>
+
+(image: physical-02.jpg class: projectCenterImageDS)
+
+(image: physical-03.jpg class: projectCenterImageDS)
+
+(image: physical-04.jpg class: projectCenterImageDS)
+
 <div class="projectImageCaption">Rome book photos by Sean Bolan</div>
+
 ****
-<div id="projectCenterImage">(image: 01.png)</div>
-<div id="projectCenterImage">(image: 02.png)</div>
-<div id="projectCenterImage">(image: 03.png)</div>
-<div id="projectCenterImage">(image: 04.png)</div>
-<div id="projectCenterImage">(image: 05.png)</div>
-<div id="projectCenterImage">(image: 06.png)</div>
-<div id="projectCenterImage">(image: 07.png)</div>
-<div id="projectCenterImage">(image: 08.png)</div>
-<div id="projectCenterImage">(image: 09.png)</div>
-<div id="projectCenterImage">(image: 10.png)</div>
-<div id="projectCenterImage">(image: 11.png)</div>
-<div id="projectCenterImage">(image: 12.png)</div>
-<div id="projectCenterImage">(image: 13.png)</div>
-<div id="projectCenterImage">(image: 14.png)</div>
-<div id="projectCenterImage">(image: 15.png)</div>
-<div id="projectCenterImage">(image: 16.png)</div>
-<div id="projectCenterImage">(image: 17.png)</div>
-<div id="projectCenterImage">(image: 18.png)</div>
-<div id="projectCenterImage">(image: 19.png)</div>
+
+(image: 01.png class: projectCenterImageDS)
+
+(image: 02.png class: projectCenterImageDS)
+
+(image: 03.png class: projectCenterImageDS)
+
+(image: 04.png class: projectCenterImageDS)
+
+(image: 05.png class: projectCenterImageDS)
+
+(image: 06.png class: projectCenterImageDS)
+
+(image: 07.png class: projectCenterImageDS)
+
+(image: 08.png class: projectCenterImageDS)
+
+(image: 09.png class: projectCenterImageDS)
+
+(image: 10.png class: projectCenterImageDS)
+
+(image: 11.png class: projectCenterImageDS)
+
+(image: 12.png class: projectCenterImageDS)
+
+(image: 13.png class: projectCenterImageDS)
+
+(image: 14.png class: projectCenterImageDS)
+
+(image: 15.png class: projectCenterImageDS)
+
+(image: 16.png class: projectCenterImageDS)
+
+(image: 17.png class: projectCenterImageDS)
+
+(image: 18.png class: projectCenterImageDS)
+
+(image: 19.png class: projectCenterImageDS)

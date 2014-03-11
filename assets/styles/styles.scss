@@ -10,8 +10,10 @@ $footerFontWeight: 300;
 $color: #333333;
 $colorKnockout: #FFFAFA;
 
-$copyWidth: 960px;
-$copyMargin: 0 160px 0 160px;
+$copyWidth: 720px;
+$copyMargin: 0 0 0 0;
+
+$buttonRadius: 4px;
 
 /* #Reset & Basics (Inspired by E. Meyers) */
 
@@ -176,9 +178,9 @@ header .mastNav {
 }
 .mastNav ul li a {
 	border: 1px solid $colorKnockout;
-	border-radius: 16px;
+	border-radius: $buttonRadius;
 	color: $colorKnockout;	
-	padding: 2px 10px 2px 10px; /* Padding for Nav buttons */
+	padding: 4px 12px 4px 12px; /* Padding for Nav buttons */
 	text-decoration: none;
 }
 .mastNav ul li a.active, .mastNav ul li a:hover {
@@ -279,21 +281,21 @@ a:visited {
 }
 .containerMastHome .copyMastHome .homeButton p a {
 	border: 1px solid $colorKnockout;
-	border-radius: 16px;
+	border-radius: $buttonRadius;
 	color: $colorKnockout;
 	display: inline;
 	list-style: none;
-	padding: 4px 12px 4px 12px;
+	padding: 8px 16px 8px 16px;
 	text-decoration: none;
 }
 .containerMastHome .copyMastHome .homeButton p a:hover {
 	background-color: $colorKnockout;
 	border: 1px solid $colorKnockout;
-	border-radius: 16px;
+	border-radius: $buttonRadius;
 	color: #333332;
 	display: inline;
 	list-style: none;
-	padding: 4px 12px 4px 12px;
+	padding: 8px 16px 8px 16px;
 	text-decoration: none;
 }
 .copyMastHome {
@@ -354,10 +356,10 @@ h4 a:hover {
 .copyBody p a:active.viewProjects,
 .copyBody p a:visited.viewProjects { /* Work page buttons */
 	background-color: #D3D3D3;
-	border-radius: 32px;
+	border-radius: $buttonRadius;
 	border: none;
 	color: $colorKnockout;
-	padding: 8px 24px 8px 24px;
+	padding: 12px 24px 12px 24px;
 	text-align: center;
 	text-decoration: none;
 }
@@ -420,7 +422,15 @@ h5 {
 .projectCenterImage img,
 .workCenterImage img {
 	border-radius: 2px;
-	width: 100%;
+}
+img.centerImageDS,
+img.projectCenterImageDS,
+img.workCenterImageDS {
+	background-color: $colorKnockout;
+	border-radius: 2px;
+	box-shadow:
+		rgba(156, 148, 148, 0.32) -6px 6px 8px,
+		rgba(156, 148, 148, 0.08) -2px 2px 25px;
 }
 .centerImageDS img,
 .projectCenterImageDS img,
@@ -430,7 +440,6 @@ h5 {
 	box-shadow:
 		rgba(156, 148, 148, 0.32) -6px 6px 8px,
 		rgba(156, 148, 148, 0.08) -2px 2px 25px;
-	width: 100%;
 }
 .copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
 .copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,
