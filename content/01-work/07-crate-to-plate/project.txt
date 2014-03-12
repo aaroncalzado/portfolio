@@ -8,16 +8,21 @@ Caption:
 ----
 Credit:
 ----
-Intro: Crate to Plate is a service that is designed to foster a healthy lifestyle for students, by making local food more convenient. Crate to Plate is an online subscription service that delivers a series of seasonal local ingredients, paired with recipes, making the process of buying and cooking local food more accessible. This cuts down on waste, which saves money, and helps students to learn how to prepare meals for themselves.
+Intro: _Crate to Plate_ is a subscription service designed to foster a healthy lifestyle for students, by making local food more convenient. _Crate to Plate_ delivers a series of seasonal local ingredients, paired with recipes, making the process of buying and cooking local food more accessible. This cuts down on waste, which saves money, and helps students to learn how to prepare meals for themselves.
 
-<div id="vimeo"><iframe src="//player.vimeo.com/video/33271676?title=0&amp;byline=0&amp;portrait=0" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+(vimeo: https://vimeo.com/33271676 class: vimeo)
+
+_Crate to Plate_ was inspired by the desire to provide healthy food while saving money and time. This quarter long project started out with the general topic of providing local fresh food to the students at University of Washington. Over the ten weeks _Crate to Plate_ was desigened.
 ----
 Breakdown:
-----
-Guts:
+##### Service Overview
+The _Crate to Plate_ service works alongside current food distribution systems and local farmers in the local food market. It pairs food with specific recipes to maximize the use of all the ingredients delivering “crates”, minimizing waste. Through using this service, students will learn more about local food and hew to cook for themselves.
+
+##### Online Website
+The _Crate to Plate_ website is the digital gateway for students to access local food. Students can manage their subscriptions and confirm their orders prior to delivery. They can also participate in weekly voting for the next week’s crate. This gives students an opportunity to voice their opinions on their likes and dislikes. This allows for a variety of recipes to be explored. Students also have access to _Crate to Plate_’s catalog of recipes and shopping lists for each related recipe.
 
 ##### Recipe Cards
-Crate to Plate includes recipe cards that not only show the ingredients with an identifying image, but also incorporate easy-to-follow directions. Each card also explains how long the meal will take to make, so students can plan their meals based upon their busy schedules. These cards come packaged in each Crate and can be kept so students can make their favorite recipes as many times as they want!
+_Crate to Plate_ includes recipe cards that not only show the ingredients with an identifying image, but also incorporate easy-to-follow directions. Each card also explains how long the meal will take to make, so students can plan their meals based upon their busy schedules. These cards come packaged in each Crate and can be kept so students can make their favorite recipes as many times as they want!
 
 ##### The “Crate”
 Each crate provides every ingredient needed for three distinct meals and multiple servings. It’s delivered in an easily manufactured box that clearly defines which ingredients go with their specific recipe.
@@ -26,10 +31,14 @@ Part of our design was to create a container which would hold the correct amount
 
 ##### Phone App
 
-With the Crate to Plate app, users are able to track their next Crate’s arrival, as well as also use all of the functions of the website. Another helpful function that is incorporated into the app, is the shopping list feature. If students decide to try a new recipe they can download the shopping list for that recipe so they are sure to get everything they need at the store!
+With the _Crate to Plate_ app, users are able to track their next Crate’s arrival, as well as also use all of the functions of the website. Another helpful function that is incorporated into the app, is the shopping list feature. If students decide to try a new recipe they can download the shopping list for that recipe so they are sure to get everything they need at the store!
+----
+Guts:
 
 ##### Retrospective
 To come...
+
+Talk about services like Trunk Club and Blue Apron
 ----
 Ending:
 
@@ -37,10 +46,10 @@ Ending:
 Concept development, graphics production, fabrication, research, software coding, video production and editing
 
 ##### Collaborators
-Carly Cahill, Miles Koons, Bridget Weis
+(link: http://cargocollective.com/ccahill text: Carly Cahill popup: yes), (link: http://mileskoons.com/ text: Miles Koons popup: yes), (link: http://www.bridgetweis.com/ text: Bridget Weis popup: yes)
 
 ##### Advisor
-Tad Hirsch
+(link: http://art.washington.edu/design/design-faculty/tad-hirsch/ text: Tad Hirsch popup: yes)
 
 ##### Acknowledgement
 UW Today
