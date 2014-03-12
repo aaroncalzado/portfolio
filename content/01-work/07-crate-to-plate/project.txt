@@ -10,7 +10,7 @@ Credit:
 ----
 Intro: _Crate to Plate_ is a subscription service designed to foster a healthy lifestyle for students, by making local food more convenient. _Crate to Plate_ delivers a series of seasonal local ingredients, paired with recipes, making the process of buying and cooking local food more accessible. This cuts down on waste, which saves money, and helps students to learn how to prepare meals for themselves.
 
-(vimeo: https://vimeo.com/33271676 class: vimeo)
+(vimeo: https://vimeo.com/33271676)
 
 _Crate to Plate_ was inspired by the desire to provide healthy food while saving money and time. This quarter long project started out with the general topic of providing local fresh food to the students at University of Washington. Over the ten weeks _Crate to Plate_ was desigened.
 ----

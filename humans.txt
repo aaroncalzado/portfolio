@@ -17,3 +17,11 @@
 	Just Another Foundry: http://justanotherfoundry.com/
 	JAF Facit Web: https://typekit.com/fonts/jaf-facitweb
 	Typekit: http://typekit.com
+
+/* HACKS & WEIRD SHIT I HAD TO DO TO MAKE IT WORK */
+	fitvids
+		http://fitvidsjs.com/
+		https://github.com/davatron5000/FitVids.js
+		http://getkirby.com/forum/general/topic:371
+	Unwrapping <p><img></p>
+		http://getkirby.com/forum/issue-tracker/topic:16

@@ -9,7 +9,7 @@
   <script>
     $(document).ready(function(){
     // Target your .container, .wrapper, .post, etc.
-      $("#thing-with-videos").fitVids();
+      $(".video-container").fitVids();
     });
   </script>
   <script type="text/javascript">
