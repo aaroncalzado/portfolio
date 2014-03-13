@@ -10,7 +10,7 @@ $footerFontWeight: 300;
 $color: #333333;
 $colorKnockout: #FFFAFA;
 
-$copyWidth: 720px;
+$copyWidth: 960px;
 $copyMargin: 0 0 0 0;
 
 $buttonRadius: 4px;
@@ -232,6 +232,7 @@ hr {
 .copyBody{ 
 	margin: 0 auto 0 auto;
 	width: $copyWidth;
+	text-align: center;
 }
 
 /* Home typography START */
@@ -296,6 +297,8 @@ p {
 	-webkit-margin-before: 0px;
 	-webkit-margin-after: 0px;
 	padding-top: 16px;
+	text-align: left;
+	width: 720px;
 }
 h1 { /* Title in Mast */
 	color: $colorKnockout;
@@ -314,6 +317,7 @@ h3 { /* Subtitle in Mast */
 	-webkit-margin-start: auto;
 	-webkit-margin-end: auto;
 	padding: 16px 0 0 0;
+	text-align: center;
 	width: 640px;
 }
 h4 { /* Work page Project titles */
@@ -360,6 +364,7 @@ h5 {
 	-webkit-margin-after: 0px;
 	padding-top: 24px;
 	width: $copyWidth;
+	text-align: left;
 }
 .caption {
 	color: $colorKnockout;
@@ -395,16 +400,14 @@ h5 {
 .infoCenterImage,
 .projectCenterImage,
 .workCenterImage {
-	text-align: center;
 	margin: 0 auto 0 auto;
 	padding: 16px 0 0 0;
-	width: 100%;
 }
 .centerImage,
 .projectCenterImage,
 .workCenterImage {
 	border-radius: 2px;
-	width: 100%;
+	margin: 0 auto 0 auto;
 }
 img.centerImageDS,
 img.projectCenterImageDS,
@@ -414,7 +417,7 @@ img.workCenterImageDS {
 	box-shadow:
 		rgba(156, 148, 148, 0.32) -6px 6px 8px,
 		rgba(156, 148, 148, 0.08) -2px 2px 25px;
-	width: 100%;
+	margin: 0 auto 0 auto;
 }
 .copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
 .copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,
