@@ -20,6 +20,16 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/assets\/js\/jquery.fitvids.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.fitvids.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.fitvids-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/assets\/js\/min\/unwrap-ck.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -264,6 +274,16 @@
 		"initialSize": 737975,
 		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/heroImage.jpg",
 		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/heroImage.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-12 17.50.20.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-12 17.50.20.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-12 17.50.20.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
