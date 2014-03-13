@@ -16,7 +16,7 @@ _Crate to Plate_ was inspired by the desire to provide healthy food while saving
 ----
 Breakdown:
 ##### Service Overview
-The _Crate to Plate_ service works alongside current food distribution systems and local farmers in the local food market. It pairs food with specific recipes to maximize the use of all the ingredients delivering “crates”, minimizing waste. Through using this service, students will learn more about local food and hew to cook for themselves.
+The _Crate to Plate_ service works alongside current food distribution systems and local farmers in the local food market. It pairs food with specific recipes to maximize the use of all the ingredients delivering “crates”, minimizing waste. Through using this service, students will learn more about local food and how to cook for themselves.
 
 ##### Online Website
 The _Crate to Plate_ website is the digital gateway for students to access local food. Students can manage their subscriptions and confirm their orders prior to delivery. They can also participate in weekly voting for the next week’s crate. This gives students an opportunity to voice their opinions on their likes and dislikes. This allows for a variety of recipes to be explored. Students also have access to _Crate to Plate_’s catalog of recipes and shopping lists for each related recipe.
@@ -34,6 +34,8 @@ Part of our design was to create a container which would hold the correct amount
 With the _Crate to Plate_ app, users are able to track their next Crate’s arrival, as well as also use all of the functions of the website. Another helpful function that is incorporated into the app, is the shopping list feature. If students decide to try a new recipe they can download the shopping list for that recipe so they are sure to get everything they need at the store!
 ----
 Guts:
+##### Process
+To come...
 
 ##### Retrospective
 To come...
