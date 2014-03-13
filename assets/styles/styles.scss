@@ -232,8 +232,9 @@ hr {
 }
 .copyBody{ 
 	margin: 0 auto 0 auto;
-	width: $contianerWidth;
+	padding-top: 24px;
 	text-align: center;
+	width: $contianerWidth;
 }
 
 /* Home typography START */
@@ -295,10 +296,12 @@ a:visited {
 p {
 	color: $color;
 	margin: $copyMargin;
-	-webkit-margin-before: 0px;
-	-webkit-margin-after: 0px;
-	padding-top: 16px;
+	padding-top: 8px;
 	text-align: left;
+	width: $copyWidth;
+}
+.containerWork .copyBody p {
+	text-align: center;
 	width: $copyWidth;
 }
 h1 { /* Title in Mast */
@@ -361,10 +364,8 @@ h5 {
 	font-weight: 600;
 	font-size: 116%;
 	margin: $copyMargin;
-	-webkit-margin-before: 0px;
-	-webkit-margin-after: 0px;
-	padding-top: 24px;
-	width: $contianerWidth;
+	padding: 32px 0 0 0;
+	width: $copyWidth;
 	text-align: left;
 }
 .caption {
@@ -401,14 +402,13 @@ h5 {
 .infoCenterImage,
 .projectCenterImage,
 .workCenterImage {
-	margin: 0 auto 0 auto;
-	padding: 16px 0 0 0;
+	margin: 24px auto 0 auto;
 }
 .centerImage,
 .projectCenterImage,
 .workCenterImage {
 	border-radius: 2px;
-	margin: 0 auto 0 auto;
+	margin: 24px auto 0 auto;
 }
 img.centerImageDS,
 img.projectCenterImageDS,
@@ -418,7 +418,7 @@ img.workCenterImageDS {
 	box-shadow:
 		rgba(156, 148, 148, 0.32) -6px 6px 8px,
 		rgba(156, 148, 148, 0.08) -2px 2px 25px;
-	margin: 0 auto 0 auto;
+	margin: 24px auto 0 auto;
 }
 .copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
 .copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,
@@ -454,7 +454,7 @@ img.workCenterImageDS {
 
 /* Video Stuff */
 .video-container {
-	margin: 0 auto 0 auto;
+	margin: 24px auto 0 auto;
 	text-align: center;
 }
 .ip4f {
