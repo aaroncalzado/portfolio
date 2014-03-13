@@ -12,7 +12,7 @@ $colorKnockout: #FFFAFA;
 
 $contianerWidth: 960px;
 $copyWidth: 640px;
-$copyMargin: 0 auto 0 auto;
+$copyMargin: 16px auto 0 auto;
 
 $buttonRadius: 4px;
 
@@ -332,6 +332,9 @@ h4 { /* Work page Project titles */
 	padding: 16px 0 0 0;
 	text-align: center;
 }
+h4 + p {
+	margin-top: 0;
+}
 h4 a,
 h4 a:active,
 h4 a:visited {
@@ -342,6 +345,7 @@ h4 a:hover {
 	color: $houseColor;
 	text-decoration: none;
 }
+
 .copyBody p a.viewProjects,
 .copyBody p a:active.viewProjects,
 .copyBody p a:visited.viewProjects { /* Work page buttons */
@@ -353,7 +357,7 @@ h4 a:hover {
 	text-align: center;
 	text-decoration: none;
 }
-.copyBody p a:hover.viewProjects { /* Work page buttons */
+.copyBody p > a:hover.viewProjects { /* Work page buttons */
 	background-color: $houseColor;
 	border: none;
 	color: $colorKnockout;
@@ -367,6 +371,9 @@ h5 {
 	padding: 32px 0 0 0;
 	width: $copyWidth;
 	text-align: left;
+}
+h5 + p {
+	margin-top: 0;
 }
 .caption {
 	color: $colorKnockout;
