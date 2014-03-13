@@ -10,8 +10,9 @@ $footerFontWeight: 300;
 $color: #333333;
 $colorKnockout: #FFFAFA;
 
-$copyWidth: 960px;
-$copyMargin: 0 0 0 0;
+$contianerWidth: 960px;
+$copyWidth: 640px;
+$copyMargin: 0 auto 0 auto;
 
 $buttonRadius: 4px;
 
@@ -231,7 +232,7 @@ hr {
 }
 .copyBody{ 
 	margin: 0 auto 0 auto;
-	width: $copyWidth;
+	width: $contianerWidth;
 	text-align: center;
 }
 
@@ -243,7 +244,7 @@ h2 {
 	line-height: 1.96rem;
 	margin: 0 auto 0 auto;
 	text-align: center;
-	width: 640px;
+	width: $copyWidth;
 }
 h2 a {
 	color: $colorKnockout;
@@ -286,7 +287,7 @@ a:visited {
 	margin: 0 auto 0 auto;
 	position: relative; 
 	top: 25%; 
-	width: $copyWidth;
+	width: $contianerWidth;
 }
 /* Home typography END */
 
@@ -298,7 +299,7 @@ p {
 	-webkit-margin-after: 0px;
 	padding-top: 16px;
 	text-align: left;
-	width: 720px;
+	width: $copyWidth;
 }
 h1 { /* Title in Mast */
 	color: $colorKnockout;
@@ -318,7 +319,7 @@ h3 { /* Subtitle in Mast */
 	-webkit-margin-end: auto;
 	padding: 16px 0 0 0;
 	text-align: center;
-	width: 640px;
+	width: $copyWidth;
 }
 h4 { /* Work page Project titles */
 	color: $color;
@@ -363,7 +364,7 @@ h5 {
 	-webkit-margin-before: 0px;
 	-webkit-margin-after: 0px;
 	padding-top: 24px;
-	width: $copyWidth;
+	width: $contianerWidth;
 	text-align: left;
 }
 .caption {
