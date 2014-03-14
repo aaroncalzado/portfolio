@@ -12,7 +12,7 @@
       </ul>
     </div>
     </header>
-      <section class="heroImageHome" class="heroImageHome" style="background-image: url(<?php echo url('/') ?><?php echo $page->diruri ?>/heroImage.jpg);"/>
+      <section class="heroImageHome" class="heroImageHome" style="background-image: url(<?php echo url('/') ?><?php echo $page->diruri ?>/hero-image.jpg);"/>
         <div class="containerMastHome">
           <div class="copyMastHome">
             <?php echo kirbytext($page->text()) ?>

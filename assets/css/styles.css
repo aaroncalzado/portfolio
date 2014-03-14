@@ -414,7 +414,8 @@ img.workCenterImageDS {
   border: none; }
 
 .workImageCaption,
-.projectImageCaption {
+.projectImageCaption,
+h6 {
   color: #333333;
   font-size: .88rem;
   font-style: italic;

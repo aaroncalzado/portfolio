@@ -12,7 +12,7 @@
       </ul>
     </div>
     </header>
-      <section class="heroImage" class="heroImage" style="background-image: url(<?php echo url('/') ?><?php echo $page->diruri ?>/heroImage.jpg);"/>
+      <section class="heroImage" class="heroImage" style="background-image: url(<?php echo url('/') ?><?php echo $page->diruri ?>/hero-image.jpg);"/>
         <div class="containerMast">
           <div class="copyMastInfo">
             <p><img src="<?php echo url('/') ?><?php echo $page->diruri ?>/01.jpg" class="profile"/></p>
