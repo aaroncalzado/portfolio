@@ -267,23 +267,23 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/heroImage.jpg": {
+	"\/content\/01-work\/07-crate-to-plate\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 737975,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/heroImage.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/heroImage.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-12 17.50.20.png": {
+	"\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-15 00.44.02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-12 17.50.20.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-12 17.50.20.png",
+		"initialSize": 6.68055e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-15 00.44.02.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-15 00.44.02.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -527,23 +527,23 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/design-rome-2012.jpg": {
+	"\/content\/01-work\/crate-to-plate.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 278053,
-		"inputAbbreviatedPath": "\/content\/01-work\/design-rome-2012.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/design-rome-2012.jpg",
+		"initialSize": 224174,
+		"inputAbbreviatedPath": "\/content\/01-work\/crate-to-plate.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/crate-to-plate.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/heroImage.jpg": {
+	"\/content\/01-work\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 293914,
-		"inputAbbreviatedPath": "\/content\/01-work\/heroImage.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/heroImage.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -564,6 +564,16 @@
 		"initialSize": 25664,
 		"inputAbbreviatedPath": "\/content\/01-work\/lets-get-together.jpg",
 		"outputAbbreviatedPath": "\/content\/01-work\/lets-get-together.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/svergognato.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 278053,
+		"inputAbbreviatedPath": "\/content\/01-work\/svergognato.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/svergognato.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -607,13 +617,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/02-info\/01-info-first\/heroImage.jpg": {
+	"\/content\/02-info\/01-info-first\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 107905,
-		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/heroImage.jpg",
-		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/heroImage.jpg",
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -697,13 +707,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/02-info\/02-info-second\/heroImage.jpg": {
+	"\/content\/02-info\/02-info-second\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 107905,
-		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/heroImage.jpg",
-		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/heroImage.jpg",
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -777,13 +787,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/02-info\/heroImage.jpg": {
+	"\/content\/02-info\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 107905,
-		"inputAbbreviatedPath": "\/content\/02-info\/heroImage.jpg",
-		"outputAbbreviatedPath": "\/content\/02-info\/heroImage.jpg",
+		"inputAbbreviatedPath": "\/content\/02-info\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/02-info\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -857,13 +867,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/home\/heroImage.jpg": {
+	"\/content\/home\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 462202,
-		"inputAbbreviatedPath": "\/content\/home\/heroImage.jpg",
-		"outputAbbreviatedPath": "\/content\/home\/heroImage.jpg",
+		"inputAbbreviatedPath": "\/content\/home\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/home\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},

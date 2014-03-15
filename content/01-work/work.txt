@@ -67,7 +67,7 @@ _Let’s Get Together_ is a digital calendar concept for smartphones developed t
 
 ****
 
-(image: throwItBack.jpg class: workCenterImageDS link: /work/crate-to-plate)
+(image: crate-to-plate.jpg class: workCenterImageDS link: /work/crate-to-plate)
 
 #### (link: /work/crate-to-plate text: Crate to Plate)
 
