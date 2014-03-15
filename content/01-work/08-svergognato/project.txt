@@ -21,40 +21,40 @@ Text:
 
 ****
 
-(image: 01.png class: projectCenterImageDS)
+(image: 01.jpg class: projectCenterImageDS width: 50% link: 01.jpg)
 
-(image: 02.png class: projectCenterImageDS)
+(image: 02.jpg class: projectCenterImageDS width: 100% link: 02.jpg)
 
-(image: 03.png class: projectCenterImageDS)
+(image: 03.jpg class: projectCenterImageDS width: 100% link: 03.jpg)
 
-(image: 04.png class: projectCenterImageDS)
+(image: 04.jpg class: projectCenterImageDS width: 100% link: 04.jpg)
 
-(image: 05.png class: projectCenterImageDS)
+(image: 05.jpg class: projectCenterImageDS width: 100% link: 05.jpg)
 
-(image: 06.png class: projectCenterImageDS)
+(image: 06.jpg class: projectCenterImageDS width: 100% link: 06.jpg)
 
-(image: 07.png class: projectCenterImageDS)
+(image: 07.jpg class: projectCenterImageDS width: 100% link: 07.jpg)
 
-(image: 08.png class: projectCenterImageDS)
+(image: 08.jpg class: projectCenterImageDS width: 100% link: 08.jpg)
 
-(image: 09.png class: projectCenterImageDS)
+(image: 09.jpg class: projectCenterImageDS width: 100% link: 09.jpg)
 
-(image: 10.png class: projectCenterImageDS)
+(image: 10.jpg class: projectCenterImageDS width: 100% link: 10.jpg)
 
-(image: 11.png class: projectCenterImageDS)
+(image: 11.jpg class: projectCenterImageDS width: 100% link: 11.jpg)
 
-(image: 12.png class: projectCenterImageDS)
+(image: 12.jpg class: projectCenterImageDS width: 100% link: 12.jpg)
 
-(image: 13.png class: projectCenterImageDS)
+(image: 13.jpg class: projectCenterImageDS width: 100% link: 13.jpg)
 
-(image: 14.png class: projectCenterImageDS)
+(image: 14.jpg class: projectCenterImageDS width: 100% link: 14.jpg)
 
-(image: 15.png class: projectCenterImageDS)
+(image: 15.jpg class: projectCenterImageDS width: 100% link: 15.jpg)
 
-(image: 16.png class: projectCenterImageDS)
+(image: 16.jpg class: projectCenterImageDS width: 100% link: 16.jpg)
 
-(image: 17.png class: projectCenterImageDS)
+(image: 17.jpg class: projectCenterImageDS width: 100% link: 17.jpg)
 
-(image: 18.png class: projectCenterImageDS)
+(image: 18.jpg class: projectCenterImageDS width: 100% link: 18.jpg)
 
-(image: 19.png class: projectCenterImageDS)
+(image: 19.jpg class: projectCenterImageDS width: 100% link: 19.jpg)

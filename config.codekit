@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "16828",
+"creatorBuild": "16844",
 "files": {
 	"\/assets\/css\/styles.css": {
 		"fileType": 16,
@@ -267,6 +267,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62020,
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14115,
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/01-work\/07-crate-to-plate\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -277,213 +297,203 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-15 00.44.02.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/01.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6.68055e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-15 00.44.02.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/Screenshot 2014-03-15 00.44.02.png",
+		"initialSize": 1.28371e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/01.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/02.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 150333,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/01.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/01.png",
+		"initialSize": 58610,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/02.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/02.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/03.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 13000,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/02.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/02.png",
+		"initialSize": 1.43881e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/03.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/03.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/04.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 888455,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/03.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/03.png",
+		"initialSize": 1.35036e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/04.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/04.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/04.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/05.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 638919,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/04.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/04.png",
+		"initialSize": 1.24623e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/05.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/05.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/05.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/06.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 559836,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/05.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/05.png",
+		"initialSize": 716833,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/06.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/06.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/06.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/07.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 363337,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/06.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/06.png",
+		"initialSize": 560505,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/07.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/07.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/07.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/08.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 246044,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/07.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/07.png",
+		"initialSize": 3.2165e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/08.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/08.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/08.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/09.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.05889e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/08.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/08.png",
+		"initialSize": 787696,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/09.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/09.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/09.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/10.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 426145,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/09.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/09.png",
+		"initialSize": 1.41568e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/10.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/10.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/10.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/11.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 624393,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/10.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/10.png",
+		"initialSize": 1.09773e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/11.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/11.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/11.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/12.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 571145,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/11.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/11.png",
+		"initialSize": 965599,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/12.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/12.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/12.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/13.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 438431,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/12.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/12.png",
+		"initialSize": 1.11442e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/13.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/13.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/13.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/14.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 680137,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/13.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/13.png",
+		"initialSize": 810742,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/14.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/14.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/14.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/15.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 363651,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/14.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/14.png",
+		"initialSize": 248426,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/15.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/15.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/15.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/16.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 376118,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/15.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/15.png",
+		"initialSize": 426433,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/16.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/16.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/16.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/17.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.04485e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/16.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/16.png",
+		"initialSize": 346837,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/17.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/17.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/17.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/18.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 233824,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/17.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/17.png",
+		"initialSize": 301958,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/18.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/18.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/18.png": {
-		"fileType": 32768,
+	"\/content\/01-work\/08-svergognato\/19.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 196178,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/18.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/18.png",
+		"initialSize": 144295,
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/19.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/19.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/19.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 127947,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/19.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/19.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/01-work\/08-svergognato\/heroImage.jpg": {
+	"\/content\/01-work\/08-svergognato\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 278498,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/heroImage.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/heroImage.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
