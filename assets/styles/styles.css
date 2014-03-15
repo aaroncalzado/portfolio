@@ -346,14 +346,16 @@ h4 a:hover {
   text-decoration: none; }
 
 h5 {
+  /* Headers for bodies in Project page */
   font-weight: 600;
   font-size: 116%;
   margin: 16px auto 0 auto;
-  padding: 32px 0 0 0;
+  padding: 8px 0 0 0;
   width: 640px;
   text-align: left; }
 
 h5 + p {
+  /* Adjusts the space of the first <p> after h5*/
   margin-top: 0; }
 
 .caption {
