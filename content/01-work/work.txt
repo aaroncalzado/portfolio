@@ -79,7 +79,7 @@ _Crate to Plate_ is a food subscription service that delivers a series of season
 
 (image: svergognato.jpg class: workCenterImageDS link: /work/svergognato)
 
-<div class="workImageCaption">Photo by Sean Bolan</div>
+<div class="workImageCaption">Photo courtesy of Sean Bolan</div>
 
 #### (link: /work/svergognato text: Svergognato)
 

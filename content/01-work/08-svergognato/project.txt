@@ -17,7 +17,7 @@ Text:
 
 (image: physical-04.jpg class: projectCenterImageDS)
 
-<div class="projectImageCaption">Rome book photos by Sean Bolan</div>
+<div class="projectImageCaption">Rome book photos courtesy of Sean Bolan</div>
 
 ****
 
