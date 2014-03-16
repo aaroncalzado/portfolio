@@ -20,7 +20,9 @@ The _Crate to Plate_ service works alongside current food distribution systems a
 
 (image: crate-to-plate-diagram.png class: projectCenterImage width: 100%)
 
-###### 1. Crate to Plate works closely with local farmers around the area to produce quality recipes using crops in season. 2. Crate to Plate will partner up with existing delivery distribution services to take care of delivery so they can work on providing customers with high quality balanced meals.
+###### 1. Crate to Plate works closely with local farmers around the area to produce quality recipes using crops in season.
+###### 2. Crate to Plate will partner up with existing delivery distribution services to take care of delivery so they can work on providing customers with high quality balanced meals.
+###### 3. The local food experience doesn’t end when the food reaches the customer’s doorstep. Crate to Plate requires the feedback from its customers via voting to ensure popular crates to be delivered.
 
 ##### Online Website
 The _Crate to Plate_ website is the digital gateway for students to access local food. Students can manage their subscriptions and confirm their orders prior to delivery. They can also participate in weekly voting for the next week’s crate. This gives students an opportunity to voice their opinions on their likes and dislikes. This allows for a variety of recipes to be explored. Students also have access to _Crate to Plate_’s catalog of recipes and shopping lists for each related recipe.

@@ -442,9 +442,11 @@ h6 {
 	font-size: .88rem;
 	font-style: italic;
 	font-weight: 300;
-	margin: 0 auto 0 auto;
+	margin: $copyMargin;
 	opacity: 0.32;
-	padding: 0 24% 0 24%;
+/*	padding: 0 24% 0 24%; */
+	text-align: left;
+	width: $copyWidth;
 }
 .profile {
 	background: -webkit-linear-gradient(#DBDBDB, $colorKnockout); /* For Safari 5.1 to 6.0 */
