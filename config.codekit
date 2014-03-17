@@ -287,6 +287,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/01-work\/07-crate-to-plate\/crate-to-plate-poster.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-poster.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-poster.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/07-crate-to-plate\/crate.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275762,
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/01-work\/07-crate-to-plate\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -294,6 +314,26 @@
 		"initialSize": 737975,
 		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/hero-image.jpg",
 		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/hero-image.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/07-crate-to-plate\/recipe-card-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 253988,
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/recipe-card-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/recipe-card-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/07-crate-to-plate\/recipe-card-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 350381,
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/recipe-card-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/recipe-card-02.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},

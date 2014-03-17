@@ -211,7 +211,8 @@ hr {
 
 .copyBody {
   margin: 0 auto 0 auto;
-  padding-top: 24px;
+  padding-top: 0;
+  /* The space between the hero-image and copy */
   text-align: center;
   width: 960px; }
 
