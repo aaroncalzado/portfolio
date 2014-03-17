@@ -452,19 +452,36 @@ h6 {
   margin: 24px auto 0 auto;
   text-align: center; }
 
-.ip4f {
-  position: relative;
+.ip4vh {
+  background: url("http://aaroncalzado.com/portfolio/assets/images/ip4h.svg") no-repeat center;
+  background-size: 480px auto;
+  margin: 24px auto 0 auto;
+  padding-top: 22px;
   text-align: center;
-  z-index: -1; }
+  height: 248px; }
 
 .ip4vv {
-  margin: 0 0 -405px 0;
-  position: relative;
+  background: url("http://aaroncalzado.com/portfolio/assets/images/ip4v.svg") no-repeat center;
+  background-size: auto 480px;
+  margin: 24px auto 0 auto;
+  padding-top: 84px;
   text-align: center;
-  top: -484px; }
+  height: 480px; }
 
+/* .ip4f {
+	position: relative;
+	text-align: center;
+	z-index:-1;
+}
+.ip4vv {
+	margin:0 0 -405px 0;
+	position: relative;
+	text-align: center;
+	top:-484px;
+}
 .ip4vh {
-  margin: 0 0 -284px 0;
-  position: relative;
-  text-align: center;
-  top: -311px; }
+	margin:0 0 -284px 0;
+	position: relative;
+	text-align: center;
+	top:-311px;
+} */

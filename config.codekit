@@ -217,13 +217,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/process01.jpg": {
+	"\/content\/01-work\/06-lets-get-together\/process-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 115357,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/process01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/process01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/process-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/process-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -264,6 +264,16 @@
 		"initialSize": 51876,
 		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/wireframe-compiled.jpg",
 		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/wireframe-compiled.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-lets-get-together\/wireframe-compiled.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/wireframe-compiled.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/wireframe-compiled.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},

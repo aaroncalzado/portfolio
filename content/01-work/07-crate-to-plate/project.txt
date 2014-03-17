@@ -4,7 +4,7 @@ Date: Fall 2011, 10 weeks
 ----
 Subtitle: Crate to Plate combines the best parts of local food, cooking and home delivery.
 ----
-Caption:
+Caption: Fall 2011
 ----
 Credit:
 ----
@@ -14,6 +14,7 @@ Intro: _Crate to Plate_ is a subscription service designed to foster a healthy l
 ----
 Breakdown:
 ##### Service Overview
+
 The _Crate to Plate_ service works alongside current food distribution systems and local farmers in the local food market. It pairs food with specific recipes to maximize the use of all the ingredients delivering “crates”, minimizing waste. Through using this service, students will learn more about local food and how to cook for themselves.
 
 (image: crate-to-plate-diagram.png class: projectCenterImage width: 100%)
@@ -46,6 +47,9 @@ Part of our design was to create a container which would hold the correct amount
 ##### Phone App
 
 With the _Crate to Plate_ app, users are able to track their next Crate’s arrival, as well as also use all of the functions of the website. Another helpful function that is incorporated into the app, is the shopping list feature. If students decide to try a new recipe they can download the shopping list for that recipe so they are sure to get everything they need at the store!
+
+****
+
 ----
 Guts:
 ##### Process
