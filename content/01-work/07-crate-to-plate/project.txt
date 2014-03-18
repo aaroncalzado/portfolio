@@ -20,11 +20,35 @@ The _Crate to Plate_ service works alongside current food distribution systems a
 (image: crate-to-plate-diagram.png class: projectCenterImage width: 100%)
 
 ###### 1. Crate to Plate works closely with local farmers around the area to produce quality recipes using crops in season.
-###### 2. Crate to Plate will partner up with existing delivery distribution services to take care of delivery so they can work on providing customers with high quality balanced meals.
-###### 3. The local food experience doesn’t end when food reaches the customer’s doorstep. Valuable feedback from customers via voting will help expand and improve the Crate to Plate catalog.
+###### 2. Crate to Plate will partner up with existing delivery distribution services to take care of delivery so they can work on providing students with high quality balanced meals.
+###### 3. The local food experience doesn’t end when food reaches the student’s doorstep. Valuable feedback from students via voting will help expand and improve the Crate to Plate catalog.
 
 ##### Online Website
-The _Crate to Plate_ website is the digital gateway for students to access local food. Students can manage their subscriptions and confirm their orders prior to delivery. They can also participate in weekly voting for the next week’s crate. This gives students an opportunity to voice their opinions on their likes and dislikes. This allows for a variety of recipes to be explored. Students also have access to _Crate to Plate_’s catalog of recipes and shopping lists for each related recipe.
+The _Crate to Plate_ website is the digital gateway for students to access local food.
+
+<div class="ctpbw"><video width="640px" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/ctp/ctp-01.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/ctp/ctp-01.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+###### Students who subscribe to _Crate to Plate_ will have access to _Crate to Plate_’s catalog of recipes and shopping lists for each related recipe.
+
+<div class="ctpbw"><video width="640px" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/ctp/ctp-02.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/ctp/ctp-02.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+###### Students can participate in a weekly voting for the upcoming week’s crate. This gives students an opportunity to voice their opinions on their likes and dislikes. This data can then be shared with local farmers and distributors on current food trends.
+
+<div class="ctpbw"><video width="640px" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/ctp/ctp-03.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/ctp/ctp-03.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+###### Students can manage their subscriptions and confirm their orders prior to delivery.
 
 ##### Recipe Cards
 _Crate to Plate_ includes recipe cards that not only show the ingredients with an identifying image, but also incorporate easy-to-follow directions so students can make their favorite recipes as many times as they want! Each card explains how long the meal will take to make, so students can plan their meals based upon their busy schedules.
