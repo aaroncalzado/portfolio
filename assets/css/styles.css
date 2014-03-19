@@ -44,7 +44,7 @@ header {
   padding-left: 8px;
   position: fixed;
   width: 100%;
-  min-width: 960px;
+  min-width: 640px;
   z-index: 4; }
 
 html, body {
@@ -67,7 +67,7 @@ footer {
   position: absolute;
   text-align: center;
   width: 100%;
-  min-width: 480px; }
+  min-width: 640px; }
 
 .footerHome,
 .footerHome a {
@@ -78,7 +78,7 @@ footer {
   text-align: center;
   text-decoration: none;
   width: 100%;
-  min-width: 480px; }
+  min-width: 640px; }
 
 .footerHome a:hover,
 .footerHome a:active,
@@ -216,6 +216,27 @@ hr {
   text-align: center;
   width: 960px; }
 
+@media all and (max-width: 959px) {
+  .copyBody {
+    margin: 0 auto 0 auto;
+    padding-top: 0;
+    /* The space between the hero-image and copy */
+    text-align: center;
+    width: 800px; } }
+@media all and (max-width: 799px) {
+  .copyBody {
+    margin: 0 auto 0 auto;
+    padding-top: 0;
+    /* The space between the hero-image and copy */
+    text-align: center;
+    width: 720px; } }
+@media all and (max-width: 767px) {
+  .copyBody {
+    margin: 0 auto 0 auto;
+    padding-top: 0;
+    /* The space between the hero-image and copy */
+    text-align: center;
+    width: 640px; } }
 /* Home typography START */
 h2 {
   color: snow;
@@ -226,6 +247,9 @@ h2 {
   text-align: center;
   width: 640px; }
 
+@media all and (max-width: 767px) and (min-width: 640px) {
+  h2 {
+    padding: 0 68px 0 68px; } }
 h2 a {
   color: snow;
   border-bottom: 1px solid snow;
@@ -269,6 +293,15 @@ a:visited {
   top: 25%;
   width: 960px; }
 
+@media all and (max-width: 959px) and (min-width: 640px) {
+  .copyMastHome {
+    width: 800px; } }
+@media all and (max-width: 799px) and (min-width: 640px) {
+  .copyMastHome {
+    width: 720px; } }
+@media all and (max-width: 767px) and (min-width: 640px) {
+  .copyMastHome {
+    width: 640px; } }
 /* Home typography END */
 /* Typography START */
 p {
@@ -278,6 +311,15 @@ p {
   text-align: left;
   width: 640px; }
 
+@media all and (max-width: 799px) and (min-width: 640px) {
+  p {
+    padding: 8px 16px 0 16px; } }
+@media all and (max-width: 767px) and (min-width: 640px) {
+  p {
+    padding: 8px 16px 0 16px; } }
+@media all and (max-width: 959px) and (min-width: 640px) {
+  p {
+    padding: 8px 16px 0 16px; } }
 .containerWork .copyBody p {
   text-align: center;
   width: 640px; }
@@ -355,6 +397,15 @@ h5 {
   width: 640px;
   text-align: left; }
 
+@media all and (max-width: 799px) and (min-width: 640px) {
+  h5 {
+    padding: 8px 16px 0 16px; } }
+@media all and (max-width: 767px) and (min-width: 640px) {
+  h5 {
+    padding: 8px 16px 0 16px; } }
+@media all and (max-width: 959px) and (min-width: 640px) {
+  h5 {
+    padding: 8px 16px 0 16px; } }
 h5 + p {
   /* Adjusts the space of the first <p> after h5*/
   margin-top: 0; }
@@ -429,6 +480,15 @@ h6 {
   text-align: left;
   width: 640px; }
 
+@media all and (max-width: 799px) and (min-width: 640px) {
+  h6 {
+    padding: 0 16px 0 16px; } }
+@media all and (max-width: 767px) and (min-width: 640px) {
+  h6 {
+    padding: 0 16px 0 16px; } }
+@media all and (max-width: 959px) and (min-width: 640px) {
+  h6 {
+    padding: 0 16px 0 16px; } }
 .profile {
   background: -webkit-linear-gradient(#dbdbdb, snow);
   /* For Safari 5.1 to 6.0 */
@@ -449,7 +509,8 @@ h6 {
 
 /* Video Stuff */
 .video-container {
-  margin: 24px auto 0 auto;
+  margin-top: 24px auto 0 auto;
+  padding-top: 24px;
   text-align: center; }
 
 .ctpbw {

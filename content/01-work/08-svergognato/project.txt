@@ -7,21 +7,23 @@ Caption: Summer 2012, 5 weeks
 Credit:
 ----
 Text:
-(image: physical-01.jpg class: projectCenterImageDS)
+(image: physical-01.jpg width: 75% class: projectCenterImageDS)
 
 <div class="projectImageCaption">The word “svergognato” is an Italian word that roughly translates to “shameless” in English.</div>
 
-(image: physical-02.jpg class: projectCenterImageDS)
+(image: physical-02.jpg width: 75% class: projectCenterImageDS)
 
-(image: physical-03.jpg class: projectCenterImageDS)
+(image: physical-03.jpg width: 75% class: projectCenterImageDS)
 
-(image: physical-04.jpg class: projectCenterImageDS)
+(image: physical-04.jpg width: 75% class: projectCenterImageDS)
 
-<div class="projectImageCaption">Rome book photos courtesy of Sean Bolan</div>
+###### Rome book photos courtesy of Sean Bolan
 
 ****
 
 (image: 01.jpg class: projectCenterImageDS width: 50% link: 01.jpg)
+
+###### Svergognato roughly translates to “shameless” in english
 
 (image: 02.jpg class: projectCenterImageDS width: 100% link: 02.jpg)
 

@@ -5,7 +5,8 @@
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   <script src="<?php echo url('assets/js/jquery-2.1.0.js') ?>" type="text/javascript"></script>
   <script src="<?php echo url('assets/js/unwrap.js') ?>" type="text/javascript"></script>
-  <script src="<?php echo url('assets/js/jquery.fitvids.js') ?>" type="text/javascript">
+  <script src="<?php echo url('assets/js/jquery.fitvids.js') ?>" type="text/javascript"></script>
+  <script type="text/javascript">
     $(document).ready(function(){
     // Target your .container, .wrapper, .post, etc.
       $(".video-container").fitVids();
@@ -29,5 +30,4 @@
   <?php echo css('assets/styles/animate.css') ?>
   <?php echo css('assets/styles/skeleton.css') ?>
   <?php echo css('assets/styles/layout.css') ?>
-  <?php echo css('assets/styles/pesticide.css') ?>
 </head>

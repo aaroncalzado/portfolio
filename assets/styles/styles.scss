@@ -10,9 +10,13 @@ $footerFontWeight: 300;
 $color: #333333;
 $colorKnockout: #FFFAFA;
 
-$contianerWidth: 960px;
+$containerWidthDesktop: 960px;
+$containerWidthTablet: 800px;
+$containerWidthIpad: 720px;
+$containerWidthPhone: 640px;
 $copyWidth: 640px;
-$copyMargin: 16px auto 0 auto;
+$copyMarginDesktop: 16px auto 0 auto;
+$copyMarginPhone: 16px 8px 0 8px;
 
 $buttonRadius: 4px;
 
@@ -65,7 +69,7 @@ header{
 	padding-left: 8px;
 	position:fixed; 
 	width: 100%; 
-  	min-width: 960px;
+  	min-width: 640px;
 	z-index: 4;
 }
 html, body {
@@ -88,7 +92,7 @@ footer {
 	position: absolute;
 	text-align: center;
 	width: 100%;
-	min-width: 480px;
+	min-width: 640px;
 }
 .footerHome,
 .footerHome a {
@@ -99,7 +103,7 @@ footer {
 	text-align: center;
 	text-decoration: none;
 	width: 100%;
-	min-width: 480px;
+	min-width: 640px;
 }
 .footerHome a:hover,
 .footerHome a:active,
@@ -234,9 +238,32 @@ hr {
 	margin: 0 auto 0 auto;
 	padding-top: 0; /* The space between the hero-image and copy */
 	text-align: center;
-	width: $contianerWidth;
+	width: $containerWidthDesktop;
 }
-
+@media all and (max-width: 959px) {
+	.copyBody{ 
+		margin: 0 auto 0 auto;
+		padding-top: 0; /* The space between the hero-image and copy */
+		text-align: center;
+		width: $containerWidthTablet;
+	}
+}
+@media all and (max-width: 799px) {
+	.copyBody{ 
+		margin: 0 auto 0 auto;
+		padding-top: 0; /* The space between the hero-image and copy */
+		text-align: center;
+		width: $containerWidthIpad;
+	}
+}
+@media all and (max-width: 767px) {
+	.copyBody{ 
+		margin: 0 auto 0 auto;
+		padding-top: 0; /* The space between the hero-image and copy */
+		text-align: center;
+		width: $containerWidthPhone;
+	}
+}
 /* Home typography START */
 h2 {
 	color: $colorKnockout;
@@ -246,6 +273,11 @@ h2 {
 	margin: 0 auto 0 auto;
 	text-align: center;
 	width: $copyWidth;
+}
+@media all and (max-width: 767px) and (min-width: 640px) {
+	h2 {
+		padding: 0 68px 0 68px;
+	}
 }
 h2 a {
 	color: $colorKnockout;
@@ -288,17 +320,47 @@ a:visited {
 	margin: 0 auto 0 auto;
 	position: relative; 
 	top: 25%; 
-	width: $contianerWidth;
+	width: $containerWidthDesktop;
+}
+@media all and (max-width: 959px) and (min-width: 640px) {
+	.copyMastHome {
+		width: $containerWidthTablet;
+	}
+}
+@media all and (max-width: 799px) and (min-width: 640px) {
+	.copyMastHome {
+		width: $containerWidthIpad;
+	}
+}
+@media all and (max-width: 767px) and (min-width: 640px) {
+	.copyMastHome {
+		width: $containerWidthPhone;
+	}
 }
 /* Home typography END */
 
 /* Typography START */
 p {
 	color: $color;
-	margin: $copyMargin;
+	margin: $copyMarginDesktop;
 	padding-top: 8px;
 	text-align: left;
 	width: $copyWidth;
+}
+@media all and (max-width: 799px) and (min-width: 640px) {
+	p {
+		padding: 8px 16px 0 16px;
+	}
+}
+@media all and (max-width: 767px) and (min-width: 640px) {
+	p {
+		padding: 8px 16px 0 16px;
+	}
+}
+@media all and (max-width: 959px) and (min-width: 640px) {
+	p {
+		padding: 8px 16px 0 16px;
+	}
 }
 .containerWork .copyBody p {
 	text-align: center;
@@ -367,10 +429,25 @@ h4 a:hover {
 h5 { /* Headers for bodies in Project page */
 	font-weight: 600;
 	font-size: 116%;
-	margin: $copyMargin;
+	margin: $copyMarginDesktop;
 	padding: 8px 0 0 0;
 	width: $copyWidth;
 	text-align: left;
+}
+@media all and (max-width: 799px) and (min-width: 640px) {
+	h5 {
+		padding: 8px 16px 0 16px;
+	}
+}
+@media all and (max-width: 767px) and (min-width: 640px) {
+	h5 {
+		padding: 8px 16px 0 16px;
+	}
+}
+@media all and (max-width: 959px) and (min-width: 640px) {
+	h5 {
+		padding: 8px 16px 0 16px;
+	}
 }
 h5 + p { /* Adjusts the space of the first <p> after h5*/
 	margin-top: 0;
@@ -442,11 +519,26 @@ h6 {
 	font-size: .88rem;
 	font-style: italic;
 	font-weight: 300;
-	margin: $copyMargin;
+	margin: $copyMarginDesktop;
 	opacity: 0.32;
 /*	padding: 0 24% 0 24%; */
 	text-align: left;
 	width: $copyWidth;
+}
+@media all and (max-width: 799px) and (min-width: 640px) {
+	h6 {
+		padding: 0 16px 0 16px;
+	}
+}
+@media all and (max-width: 767px) and (min-width: 640px) {
+	h6 {
+		padding: 0 16px 0 16px;
+	}
+}
+@media all and (max-width: 959px) and (min-width: 640px) {
+	h6 {
+		padding: 0 16px 0 16px;
+	}
 }
 .profile {
 	background: -webkit-linear-gradient(#DBDBDB, $colorKnockout); /* For Safari 5.1 to 6.0 */
@@ -464,7 +556,8 @@ h6 {
 
 /* Video Stuff */
 .video-container {
-	margin: 24px auto 0 auto;
+	margin-top: 24px auto 0 auto;
+	padding-top: 24px;
 	text-align: center;
 }
 .ctpbw {

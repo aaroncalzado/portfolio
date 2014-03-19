@@ -7,7 +7,7 @@ Caption: Selected Works from 2008 – Now
 Credit:
 ----
 Text:
-(image: throwItBack.jpg class: workCenterImageDS link: /work/throw-it-back)
+(image: throwItBack.jpg class: workCenterImageDS width: 75% link: /work/throw-it-back)
 
 #### (link: /work/throw-it-back text: Throw It Back!)
 
@@ -17,7 +17,7 @@ _Throw It Back!_ is a waste management system designed to inform and educate the
 
 ****
 
-(image: throwItBack.jpg class: workCenterImageDS link: /work/topicks)
+(image: throwItBack.jpg class: workCenterImageDS width: 75% link: /work/topicks)
 
 #### (link: /work/topicks text: Topicks)
 
@@ -27,7 +27,7 @@ _Topicks_ is a news resource that presents you daily trending news topics from d
 
 ****
 
-(image: hiatus.png class: workCenterImage link: /work/hiatus)
+(image: hiatus.png class: workCenterImage width: 75% link: /work/hiatus)
 
 #### (link: /work/hiatus text: Hiatus)
 
@@ -37,7 +37,7 @@ _Hiatus_ is a home-brew chair hacked together from used parts and electronics de
 
 ****
 
-(image: throwItBack.jpg class: workCenterImageDS link: /work/kinect-three-little-pigs)
+(image: throwItBack.jpg class: workCenterImageDS width: 75% link: /work/kinect-three-little-pigs)
 
 #### (link: /work/kinect-three-little-pigs text: Kinect × Three Little Pigs)
 
@@ -47,7 +47,7 @@ The _Kinect × Three Little Pigs_ is a digital storybook designed to reimagine t
 
 ****
 
-(image: throwItBack.jpg class: workCenterImageDS link: /work/scout)
+(image: throwItBack.jpg class: workCenterImageDS width: 75% link: /work/scout)
 
 #### (link: /work/scout text: Scout)
 
@@ -57,7 +57,7 @@ _Scout_ is the devilishly clever device you can't live without. This subtle litt
 
 ****
 
-(image: lets-get-together.jpg class: workCenterImageDS link: /work/lets-get-together)
+(image: lets-get-together.jpg class: workCenterImageDS width: 75% link: /work/lets-get-together)
 
 #### (link: /work/lets-get-together text: Let’s Get Together)
 
@@ -67,7 +67,7 @@ _Let’s Get Together_ is a digital calendar concept for smartphones developed t
 
 ****
 
-(image: crate-to-plate.jpg class: workCenterImageDS link: /work/crate-to-plate)
+(image: crate-to-plate.jpg class: workCenterImageDS width: 75% link: /work/crate-to-plate)
 
 #### (link: /work/crate-to-plate text: Crate to Plate)
 
@@ -77,15 +77,15 @@ _Crate to Plate_ is a food subscription service that delivers a series of season
 
 ****
 
-(image: svergognato.jpg class: workCenterImageDS link: /work/svergognato)
+(image: svergognato.jpg class: workCenterImageDS width: 75% link: /work/svergognato)
 
-<div class="workImageCaption">Photo courtesy of Sean Bolan</div>
+###### Photo courtesy of Sean Bolan
 
 #### (link: /work/svergognato text: Svergognato)
 
 In the summer of 2012 I had the opportunity to study abroad in Rome. During the five week seminar I spent most of my days observing the culture, art, architecture, and design Italy had to offer. For my final project I designed, printed, and bound a one-off book highlighting my experiences in Italy.
 
-(link: /work/svergognato class: viewProjects text: View Project)
+(link: /work/svergognato class: viewProjects width: 75% text: View Project)
 
 ****
 

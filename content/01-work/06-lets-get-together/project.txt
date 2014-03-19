@@ -82,7 +82,7 @@ Guts:
 
 Total active time spent on this project was ten weeks with heavy emphasis on research and development. Much of our research and development was used learning about existing calendar systems from a variety of different time periods and mediums.
 
-(image: process-01.jpg class: projectCenterImageDS link: process-01.jpg popup: yes)
+(image: process-01.jpg class: projectCenterImageDS width: 75% link: process-01.jpg popup: yes)
 
 ###### A snapshot of a class-wide whiteboard discussion on calendars.
 
