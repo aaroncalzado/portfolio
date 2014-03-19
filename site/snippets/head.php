@@ -29,4 +29,5 @@
   <?php echo css('assets/styles/animate.css') ?>
   <?php echo css('assets/styles/skeleton.css') ?>
   <?php echo css('assets/styles/layout.css') ?>
+  <?php echo css('assets/styles/pesticide.css') ?>
 </head>

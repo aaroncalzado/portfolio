@@ -64,7 +64,7 @@ _Crate to Plate_ includes recipe cards that not only show the ingredients with a
 ##### The “Crate”
 Each crate provides every ingredient needed for three distinct meals and multiple servings. It’s delivered in an easily manufactured box that clearly defines which ingredients go with their specific recipe.
 
-(image: crate.jpg class: projectCenterImage link: crate.jpg width: 100%)
+(image: crate.jpg class: projectCenterImageDS link: crate.jpg width: 100%)
 
 Part of our design was to create a container which would hold the correct amount of produce along with being able to have sorting areas within and be able to easily stack for transportation and delivery. Towards the end of our project it was decided on to make the following design due to the ability to be either recycled or composted and stored into the typical household refrigerator.
 
