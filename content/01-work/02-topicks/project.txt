@@ -2,21 +2,34 @@ Title: Topicks
 ----
 Date: Winter 2013, 10 weeks
 ----
-Text: News currently focuses on sources rather than the big picture of a topic. It’s time we bring focus to getting the whole story by presenting the many different sides of a story. Topicks is a web and mobile application that offers the ease of going one places to educate yourself on all viewpoints associated with a topic, in order to help you understand the broader circumstances surrounding an issue.
+Subtitle: News currently focuses on sources rather than the big picture of a topic. It’s time we bring focus to getting the whole story by presenting the many different sides of a story.
+----
+Caption: Winter 2013
+----
+Credit:
+----
+Intro: Topicks is a web and mobile application that offers the ease of going one places to educate yourself on all viewpoints associated with a topic, in order to help you understand the broader circumstances surrounding an issue.
 
-### Process Book
+(vimeo: https://vimeo.com/62274512)
 
+##### Why
+
+----
+Breakdown:
+
+----
+Guts:
+
+##### Process Book
 For a better understanding of the thought process and motivation behind the creation of Topicks: Topicks Process Book (PDF)
+----
+Ending:
 
-### Project Role
-
+##### Project Role
 Concept development, graphics production, and motion graphics
 
-### Collaborators
+##### Collaborators
+Carly Cahill, Jolie Chen, Shelby Li, Ryan Sun, Bridget Weis
 
-Carly Cahill, Jolie Chen, Shelby Li, Ryan Sun, Bridet Weis
-
-### Advisor
-
-Axel Roesler
-
+##### Advisor
+(link: http://dub.washington.edu/people/axel-roesler text: Axel Roesler popup: yes)

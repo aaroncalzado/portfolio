@@ -2,13 +2,24 @@ Title: Throw It Back!
 ----
 Subtitle: An observation on waste management. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
 ----
-Text: Today, radical changes in waste technology and management are happening at a rapid pace, but even with the most current up-to-date technology we still fall short in educating the general public on proper waste management practices. *Throw It Back!* is a waste management system designed to inform and educate the general public on good waste management practices through the use of a low-cost interchangeable signage system that adapts to current waste trends.
+Intro: Today, radical changes in waste technology and management are happening at a rapid pace, but even with the most current up-to-date technology we still fall short in educating the general public on proper waste management practices. *Throw It Back!* is a waste management system designed to inform and educate the general public on good waste management practices through the use of a low-cost interchangeable signage system that adapts to current waste trends. By focusing on specific sites with high waste traffic site monitors can follow waste trends and react accordingly to divert recyclable material from our ever growing landfills.
 
-<div id="vimeo"><iframe src="//player.vimeo.com/video/67619202?title=0&amp;byline=0&amp;portrait=0" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></iframe></div>
+(vimeo: https://vimeo.com/67619202)
 
-By focusing on specific sites with high waste traffic site monitors can follow waste trends and react accordingly to divert recyclable material from our evergrowing landfills.
+##### Why?
 
 ****
+----
+Breakdown:
+##### Interaction Breakdown
+
+
+----
+Guts:
+##### Design Process
+
+----
+Ending:
 
 #### References
 
@@ -26,3 +37,9 @@ Articles:
 (link: http://examiner.com/article/should-you-wash-your-recyclables text: Examiner: Should You Wash Your Recyclables? popup: yes)
 (link: http://fastcodesign.com/1672044/the-next-big-ui-idea-gadgets-that-adapt-to-your-skill#1 text: FastCo. Design: The Next Big UI Idea: Gadgets That Adapt to Your Skill popup: yes)
 (link: http://greenliving.nationalgeographic.com/composting-vs-recycling-3060.html text: National Geographic: Composting vs. Recycling popup: yes)
+
+##### Project Date
+Spring 2013, 10 weeks
+
+##### Advisor
+(link: http://dub.washington.edu/people/axel-roesler text: Axel Roesler popup: yes)

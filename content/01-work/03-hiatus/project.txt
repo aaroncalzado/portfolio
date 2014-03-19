@@ -6,9 +6,11 @@ Caption: Spring 2012, 10 weeks
 ----
 Credit:
 ----
-Text: _Hiatus_ is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up. Made with an Arduino Uno, custom components, and some second-hand hardware, _Hiatus_ converts an average office chair into a gentle reminder that it’s time to get up. Every 30 minutes, _Hiatus_ gives its occupant a nudge that they’ve sat long enough, and becomes more forceful (and harder to ignore) if needed.
+Intro:
 
-<div id="vimeo"><iframe src="//player.vimeo.com/video/43513049?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+_Hiatus_ is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up. Made with an Arduino Uno, custom components, and some second-hand hardware, _Hiatus_ converts an average office chair into a gentle reminder that it’s time to get up. Every 30 minutes, _Hiatus_ gives its occupant a nudge that they’ve sat long enough, and becomes more forceful (and harder to ignore) if needed.
+
+(vimeo: https://vimeo.com/43513049)
 
 ##### Why?
 
@@ -16,16 +18,19 @@ One of the major disadvantages in leading a sedentary lifestyle includes greatly
 
 ****
 
+----
+Guts:
+
 ##### Design Process
 We created a simple diagram outlining the basic functions and materials required for our chair.
 
-<div id="projectCenterImage">(image: concept-diagram.jpg)</div>
+(image: concept-diagram.jpg class: projectCenterImageDS width: 100%)
 
-<div class="projectImageCaption">This diagram allowed us to plan out our next steps, and assess what electrical components and Arduino programming we might need.</div>
+###### This diagram allowed us to plan out our next steps, and assess what electrical components and Arduino programming we might need.
 
-<div id="projectCenterImage">(image: code.gif)</div>
+(image: code.gif class: projectCenterImage width: 75%)
 
-<div class="projectImageCaption">For the next several weeks, we worked hard to develop working code for the Arduino. For this chair we needed the Arduino to keep track of time spent sitting down and time spent taking a break. We also needed to instruct the Arduino to sense and activate the appropriate microswitches for the chair’s motor.</div>
+###### For the next several weeks, we worked hard to develop working code for the Arduino. For this chair we needed the Arduino to keep track of time spent sitting down and time spent taking a break. We also needed to instruct the Arduino to sense and activate the appropriate microswitches for the chair’s motor.
 
 ##### Process Sketches and Ideations
 
@@ -35,9 +40,9 @@ Despite being illegible outside of the design context at the time, here are exce
 
 These are images showcasing the prototyping process and development of the chair brain and its components.
 
-<div id="projectCenterImage">(image: chair-brain01.jpg)</div>
+(image: chair-brain01.jpg class: projectCenterImageDS width: 100%)
 
-<div id="projectCenterImage">(image: chair-brain02.jpg)</div>
+(image: chair-brain02.jpg class: projectCenterImageDS width: 100%)
 
 ##### Hacking the Chair
 Gutting out the chair was a necessary step to provide room for the brain and other moving components.
