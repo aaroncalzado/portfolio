@@ -207,7 +207,7 @@ hr {
   background-position: center center;
   background-size: cover; }
 
-@media only screen and (min-width: 641px) {
+@media only screen and (min-width: 1025px) {
   .heroImageHome, .heroImage {
     background-attachment: fixed; } }
 .copyMast, .copyMastInfo {
