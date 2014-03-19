@@ -26,7 +26,7 @@ We also wanted to show that, our calendar system is more than just an organizati
 Breakdown:
 ##### Interaction Breakdown
 
-<div class="ip4vh"><video height="204px" controls autoplay="autoplay" loop="loop">
+<div class="ip4vh"><video width="39%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vh-1-2.webm" type="video/webm">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vh-1-2.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -34,7 +34,7 @@ Your browser does not support the video tag.
 
 In this screen, users can peruse through their contact’s public schedule and invite a contact to a new/existing event. Users can opt to call their contacts directly and skip the entire invite process.
 
-<div class="ip4vv"><video width="204px" controls autoplay="autoplay" loop="loop">
+<div class="ip4vv"><video width="27%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-2-1.webm" type="video/webm">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-2-1.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
 
 Data entry was an issue in the event creation process. As a team, we thought the different situations users will be in and the numerical ranges people use when scheduling events. Instead of having to set dates and time via pressing keyboard buttons, we explored a different method of setting dates and time by using a scrubbing action in the input section.
 
-<div class="ip4vv"><video width="204px" controls autoplay="autoplay" loop="loop">
+<div class="ip4vv"><video width="27%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-2-2.webm" type="video/webm">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-2-2.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -50,7 +50,7 @@ Your browser does not support the video tag.
 
 When adding locations to events, users can easily search for nearby locations by using the smartphone’s GPS and responsive search.
 
-<div class="ip4vv"><video width="204px" controls autoplay="autoplay" loop="loop">
+<div class="ip4vv"><video width="27%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-3-1.webm" type="video/webm">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-3-1.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -58,7 +58,7 @@ Your browser does not support the video tag.
 
 When a users receive an invite to new events, at a high level, they can review events and choose to either accept or decline invitations. Users can also select an event and view its information in greater detail.
 
-<div class="ip4vh"><video height="204px" controls autoplay="autoplay" loop="loop">
+<div class="ip4vh"><video width="39%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vh-3-2.webm" type="video/webm">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vh-3-2.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -66,7 +66,7 @@ Your browser does not support the video tag.
 
 On this screen users can visually compare the event scheduled, their own schedule, and the other invitees’ public schedule.
 
-<div class="ip4vv"><video width="204px" controls autoplay="autoplay" loop="loop">
+<div class="ip4vv"><video width="27%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-4.webm" type="video/webm">
   <source src="http://aaroncalzado.com/media/portfolio/lgt/ip4vv-4.mp4" type="video/mp4">
 Your browser does not support the video tag.

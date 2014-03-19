@@ -44,7 +44,7 @@ header {
   padding-left: 8px;
   position: fixed;
   width: 100%;
-  min-width: 640px;
+  min-width: 320px;
   z-index: 4; }
 
 html, body {
@@ -57,6 +57,10 @@ html, body {
   margin: 0px;
   padding: 0px; }
 
+@media only screen and (max-width: 639px) {
+  html, body {
+    font-size: 72%;
+    height: 72%; } }
 footer {
   background-color: mediumseagreen;
   color: snow;
@@ -67,7 +71,7 @@ footer {
   position: absolute;
   text-align: center;
   width: 100%;
-  min-width: 640px; }
+  min-width: 320px; }
 
 .footerHome,
 .footerHome a {
@@ -78,7 +82,7 @@ footer {
   text-align: center;
   text-decoration: none;
   width: 100%;
-  min-width: 640px; }
+  min-width: 320px; }
 
 .footerHome a:hover,
 .footerHome a:active,
@@ -160,6 +164,9 @@ hr {
   margin: 32px auto 8px auto;
   width: 320px; }
 
+@media only screen and (max-width: 639px) {
+  hr {
+    width: 280px; } }
 .heroImageHome, .containerMastHome {
   /* Home background fullscreen */
   background: rgba(0, 0, 0, 0.4);
@@ -169,6 +176,15 @@ hr {
   position: relative;
   width: 100%; }
 
+@media only screen and (max-width: 639px) {
+  .heroImageHome, .containerMastHome {
+    /* Home background fullscreen */
+    background: rgba(0, 0, 0, 0.4);
+    /* background-image: linear-gradient(to bottom right, #002f4b, #dc4225); Gradient image*/
+    height: 556px;
+    /* opacity: .6; */
+    position: relative;
+    width: 100%; } }
 .containerMast {
   background: rgba(0, 0, 0, 0.4);
   height: auto;
@@ -188,7 +204,6 @@ hr {
   width: 100%; }
 
 .heroImageHome, .heroImage {
-  background-attachment: fixed;
   background-position: center center;
   background-size: cover; }
 
@@ -216,27 +231,34 @@ hr {
   text-align: center;
   width: 960px; }
 
-@media all and (max-width: 959px) {
+@media only screen and (max-width: 959px) {
   .copyBody {
     margin: 0 auto 0 auto;
     padding-top: 0;
     /* The space between the hero-image and copy */
     text-align: center;
     width: 800px; } }
-@media all and (max-width: 799px) {
+@media only screen and (max-width: 799px) {
   .copyBody {
     margin: 0 auto 0 auto;
     padding-top: 0;
     /* The space between the hero-image and copy */
     text-align: center;
     width: 720px; } }
-@media all and (max-width: 767px) {
+@media only screen and (max-width: 767px) {
   .copyBody {
     margin: 0 auto 0 auto;
     padding-top: 0;
     /* The space between the hero-image and copy */
     text-align: center;
     width: 640px; } }
+@media only screen and (max-width: 639px) {
+  .copyBody {
+    margin: 0 auto 0 auto;
+    padding-top: 0;
+    /* The space between the hero-image and copy */
+    text-align: center;
+    width: 320px; } }
 /* Home typography START */
 h2 {
   color: snow;
@@ -247,9 +269,13 @@ h2 {
   text-align: center;
   width: 640px; }
 
-@media all and (max-width: 767px) and (min-width: 640px) {
+@media only screen and (max-width: 767px) {
   h2 {
     padding: 0 68px 0 68px; } }
+@media only screen and (max-width: 639px) {
+  h2 {
+    padding: 0 12px 0 12px;
+    width: 320px; } }
 h2 a {
   color: snow;
   border-bottom: 1px solid snow;
@@ -293,15 +319,19 @@ a:visited {
   top: 25%;
   width: 960px; }
 
-@media all and (max-width: 959px) and (min-width: 640px) {
+@media only screen and (max-width: 959px) {
   .copyMastHome {
     width: 800px; } }
-@media all and (max-width: 799px) and (min-width: 640px) {
+@media only screen and (max-width: 799px) {
   .copyMastHome {
     width: 720px; } }
-@media all and (max-width: 767px) and (min-width: 640px) {
+@media only screen and (max-width: 767px) {
   .copyMastHome {
     width: 640px; } }
+@media only screen and (max-width: 639px) {
+  .copyMastHome {
+    top: 16%;
+    width: 320px; } }
 /* Home typography END */
 /* Typography START */
 p {
@@ -311,19 +341,26 @@ p {
   text-align: left;
   width: 640px; }
 
-@media all and (max-width: 799px) and (min-width: 640px) {
+@media only screen and (max-width: 959px) {
   p {
     padding: 8px 16px 0 16px; } }
-@media all and (max-width: 767px) and (min-width: 640px) {
+@media only screen and (max-width: 799px) {
   p {
     padding: 8px 16px 0 16px; } }
-@media all and (max-width: 959px) and (min-width: 640px) {
+@media only screen and (max-width: 767px) {
   p {
     padding: 8px 16px 0 16px; } }
+@media only screen and (max-width: 639px) {
+  p {
+    padding: 8px 16px 0 16px;
+    width: 320px; } }
 .containerWork .copyBody p {
   text-align: center;
   width: 640px; }
 
+@media only screen and (max-width: 639px) {
+  .containerWork .copyBody p {
+    width: 320px; } }
 h1 {
   /* Title in Mast */
   color: snow;
@@ -346,6 +383,13 @@ h3 {
   text-align: center;
   width: 640px; }
 
+@media only screen and (max-width: 767px) {
+  h3 {
+    padding: 0 68px 0 68px; } }
+@media only screen and (max-width: 639px) {
+  h3 {
+    padding: 0 12px 0 12px;
+    width: 320px; } }
 h4 {
   /* Work page Project titles */
   color: #333333;
@@ -397,15 +441,13 @@ h5 {
   width: 640px;
   text-align: left; }
 
-@media all and (max-width: 799px) and (min-width: 640px) {
+@media only screen and (max-width: 959px) {
   h5 {
     padding: 8px 16px 0 16px; } }
-@media all and (max-width: 767px) and (min-width: 640px) {
+@media only screen and (max-width: 639px) {
   h5 {
-    padding: 8px 16px 0 16px; } }
-@media all and (max-width: 959px) and (min-width: 640px) {
-  h5 {
-    padding: 8px 16px 0 16px; } }
+    padding: 8px 16px 0 16px;
+    width: 320px; } }
 h5 + p {
   /* Adjusts the space of the first <p> after h5*/
   margin-top: 0; }
@@ -480,15 +522,13 @@ h6 {
   text-align: left;
   width: 640px; }
 
-@media all and (max-width: 799px) and (min-width: 640px) {
+@media only screen and (max-width: 959px) {
   h6 {
     padding: 0 16px 0 16px; } }
-@media all and (max-width: 767px) and (min-width: 640px) {
+@media only screen and (max-width: 639px) {
   h6 {
-    padding: 0 16px 0 16px; } }
-@media all and (max-width: 959px) and (min-width: 640px) {
-  h6 {
-    padding: 0 16px 0 16px; } }
+    padding: 0 16px 0 16px;
+    width: 320px; } }
 .profile {
   background: -webkit-linear-gradient(#dbdbdb, snow);
   /* For Safari 5.1 to 6.0 */
@@ -515,28 +555,69 @@ h6 {
 
 .ctpbw {
   background: url("http://aaroncalzado.com/portfolio/assets/images/ctpbw.svg") no-repeat top center;
-  background-size: 640px auto;
+  background-size: 75%;
   margin: 24px auto 0 auto;
-  padding-top: 54px;
+  padding-top: 60px;
   text-align: center;
-  height: 496px; }
+  height: auto; }
 
+@media only screen and (max-width: 959px) {
+  .ctpbw {
+    padding-top: 50px;
+    height: auto; } }
+@media only screen and (max-width: 639px) {
+  .ctpbw {
+    padding-top: 20px;
+    width: 320px;
+    height: auto; } }
 .ip4vh {
   background: url("http://aaroncalzado.com/portfolio/assets/images/ip4h.svg") no-repeat center;
-  background-size: 480px auto;
+  background-size: 62% auto;
   margin: 24px auto 0 auto;
-  padding-top: 22px;
+  padding-top: 32px;
   text-align: center;
-  height: 248px; }
+  height: 316px; }
 
+@media only screen and (max-width: 959px) {
+  .ip4vh {
+    height: 256px;
+    padding-top: 24px; } }
+@media only screen and (max-width: 799px) {
+  .ip4vh {
+    height: 236px;
+    padding-top: 24px; } }
+@media only screen and (max-width: 767px) {
+  .ip4vh {
+    height: 210px;
+    padding-top: 22px; } }
+@media only screen and (max-width: 639px) {
+  .ip4vh {
+    height: 112px;
+    padding-top: 16px; } }
 .ip4vv {
   background: url("http://aaroncalzado.com/portfolio/assets/images/ip4v.svg") no-repeat center;
-  background-size: auto 480px;
+  background-size: 35% auto;
   margin: 24px auto 0 auto;
-  padding-top: 84px;
+  padding-top: 92px;
   text-align: center;
-  height: 480px; }
+  height: 582px; }
 
+@media only screen and (max-width: 959px) {
+  .ip4vv {
+    padding-top: 82px;
+    height: 488px; } }
+@media only screen and (max-width: 799px) {
+  .ip4vv {
+    padding-top: 74px;
+    height: 440px; } }
+@media only screen and (max-width: 767px) {
+  .ip4vv {
+    padding-top: 64px;
+    height: 392px; } }
+@media only screen and (max-width: 639px) {
+  .ip4vv {
+    padding-top: 31px;
+    height: 196px; } }
 /* .ip4f {
 	position: relative;
 	text-align: center;
