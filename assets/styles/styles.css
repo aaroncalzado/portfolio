@@ -505,10 +505,10 @@ img.workCenterImageDS {
   margin: 24px auto 0 auto; }
 
 @media only screen and (min-width: 640px) {
-  img.workCenterImageDS {
+  img.workCenterImageDS, img.workCenterImage {
     width: 75%; } }
 @media only screen and (max-width: 639px) {
-  img.workCenterImageDS {
+  img.workCenterImageDS, img.workCenterImage {
     width: 100%; } }
 .copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
 .copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,

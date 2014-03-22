@@ -637,6 +637,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/01-work\/kinect-three-little-pigs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213119,
+		"inputAbbreviatedPath": "\/content\/01-work\/kinect-three-little-pigs.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/kinect-three-little-pigs.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/01-work\/lets-get-together.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -644,6 +654,16 @@
 		"initialSize": 25664,
 		"inputAbbreviatedPath": "\/content\/01-work\/lets-get-together.jpg",
 		"outputAbbreviatedPath": "\/content\/01-work\/lets-get-together.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/scout.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/01-work\/scout.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/scout.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -657,6 +677,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/01-work\/throw-it-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116651,
+		"inputAbbreviatedPath": "\/content\/01-work\/throw-it-back.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/throw-it-back.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/01-work\/throwItBack.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -664,6 +694,16 @@
 		"initialSize": 44094,
 		"inputAbbreviatedPath": "\/content\/01-work\/throwItBack.jpg",
 		"outputAbbreviatedPath": "\/content\/01-work\/throwItBack.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/topicks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/01-work\/topicks.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/topicks.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
