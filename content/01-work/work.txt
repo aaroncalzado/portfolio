@@ -89,4 +89,8 @@ In the summer of 2012 I had the opportunity to study abroad in Rome. During the 
 
 ****
 
-#### (link: /work/printmaking text: Printmaking)
+#### (link: /work/print-work text: Print Work)
+
+A collection of miscellaneous print work from 2008 to now.
+
+(link: /work/print-work class: viewProjects text: View Project)
