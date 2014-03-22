@@ -77,7 +77,7 @@ With the _Crate to Plate_ app, users are able to track their next Crate’s arri
 ----
 Guts:
 ##### Process
-To come...
+(image: local-food.jpg class: projectCenterImageDS link: local-food.jpg width: 100%)
 
 ##### Retrospective
 To come...

@@ -504,6 +504,12 @@ img.workCenterImageDS {
   box-shadow: rgba(156, 148, 148, 0.32) -6px 6px 8px, rgba(156, 148, 148, 0.08) -2px 2px 25px;
   margin: 24px auto 0 auto; }
 
+@media only screen and (min-width: 640px) {
+  img.workCenterImageDS {
+    width: 75%; } }
+@media only screen and (max-width: 639px) {
+  img.workCenterImageDS {
+    width: 100%; } }
 .copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
 .copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,
 .copyBody p a.projectCenterImageDS, .copyBody p a:active.projectCenterImageDS, .copyBody p a:hover.projectCenterImageDS, .copyBody p a:visited.projectCenterImageDS,

@@ -97,13 +97,23 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/content\/01-work\/01-throw-it-back\/heroImage.jpg": {
+	"\/content\/01-work\/01-throw-it-back\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 293914,
-		"inputAbbreviatedPath": "\/content\/01-work\/01-throw-it-back\/heroImage.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/01-throw-it-back\/heroImage.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/01-throw-it-back\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/01-throw-it-back\/hero-image.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/02-topicks\/hero-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 293914,
+		"inputAbbreviatedPath": "\/content\/01-work\/02-topicks\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/02-topicks\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -137,13 +147,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/heroImage.jpg": {
+	"\/content\/01-work\/03-hiatus\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 234253,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/heroImage.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/heroImage.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -324,6 +334,16 @@
 		"initialSize": 737975,
 		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/hero-image.jpg",
 		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/hero-image.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/07-crate-to-plate\/local-food.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 399392,
+		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/local-food.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/local-food.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
