@@ -89,8 +89,10 @@ In the summer of 2012 I had the opportunity to study abroad in Rome. During the 
 
 ****
 
+(image: print-work.jpg class: workCenterImageDS link: /work/print-work)
+
 #### (link: /work/print-work text: Print Work)
 
-A collection of miscellaneous print work from 2008 to now.
+A collection of personal print work from 2008 to now.
 
 (link: /work/print-work class: viewProjects text: View Project)

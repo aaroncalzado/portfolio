@@ -607,6 +607,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/01-work\/09-print-work\/cifu-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 411722,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/cifu-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/cifu-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/01-work\/09-print-work\/dgc-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -844,6 +854,16 @@
 		"initialSize": 25664,
 		"inputAbbreviatedPath": "\/content\/01-work\/lets-get-together.jpg",
 		"outputAbbreviatedPath": "\/content\/01-work\/lets-get-together.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/print-work.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 746561,
+		"inputAbbreviatedPath": "\/content\/01-work\/print-work.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/print-work.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
