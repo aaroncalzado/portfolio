@@ -511,6 +511,19 @@ h5 { /* Headers for bodies in Project page */
 h5 + p { /* Adjusts the space of the first <p> after h5*/
 	margin-top: 0;
 }
+blockquote p {
+	font-size: 1.32rem;
+	font-weight: 300;
+	line-height: 2.12rem;
+	margin: 24px auto 0 auto;
+	text-align: center;
+	width: 75%;
+}
+@media only screen and (max-width: 959px) {
+	blockquote p {
+		width: 100%;
+	}
+}
 .caption {
 	color: $colorKnockout;
 	opacity: 0.72;

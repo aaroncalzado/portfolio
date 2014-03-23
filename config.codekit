@@ -607,6 +607,196 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/01-work\/09-print-work\/dgc-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 467779,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/dgc-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 422460,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-02.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/dgc-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 477859,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-03.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/dgc-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 307475,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-04.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-04.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/dgc-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317132,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-05.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-05.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/dgc-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 490209,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-06.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-06.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/dgc-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 746561,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-07.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-07.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/dgc-08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 527646,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-08.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-08.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/dgc-09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 357292,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-09.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-09.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/hero-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 746561,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/hero-image.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/ixda-lsp-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 313399,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/ixda-lsp-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 419585,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-02.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/ixda-lsp-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 674717,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-03.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/ixda-lsp-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-04.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-04.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/ixda-lsp-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 367140,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-05.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-05.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/ixda-lsp-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 240527,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-06.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-06.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/ixda-lsp-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118206,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-07.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-07.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/ixda-lsp-08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194949,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-08.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-08.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/09-print-work\/thjp-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 912807,
+		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/thjp-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/thjp-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/01-work\/crate-to-plate.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -684,16 +874,6 @@
 		"initialSize": 116651,
 		"inputAbbreviatedPath": "\/content\/01-work\/throw-it-back.jpg",
 		"outputAbbreviatedPath": "\/content\/01-work\/throw-it-back.jpg",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/01-work\/throwItBack.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 44094,
-		"inputAbbreviatedPath": "\/content\/01-work\/throwItBack.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/throwItBack.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},

@@ -1,27 +1,37 @@
 Title: Throw It Back!
 ----
-Subtitle: An observation on waste management. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
+Subtitle: Today, radical changes in waste technology and management are happening at a rapid pace, but even with the most current up-to-date technology we still fall short in educating the general public on proper waste management practices.
 ----
-Intro: Today, radical changes in waste technology and management are happening at a rapid pace, but even with the most current up-to-date technology we still fall short in educating the general public on proper waste management practices. *Throw It Back!* is a waste management system designed to inform and educate the general public on good waste management practices through the use of a low-cost interchangeable signage system that adapts to current waste trends. By focusing on specific sites with high waste traffic site monitors can follow waste trends and react accordingly to divert recyclable material from our ever growing landfills.
+Intro: _Throw It Back!_ is a waste management system designed to inform and educate the general public on good waste management practices through the use of a low-cost interchangeable signage system that adapts to current waste trends. By focusing on specific sites with high waste traffic site monitors can follow waste trends and react accordingly to divert recyclable material from our ever growing landfills.
 
 (vimeo: https://vimeo.com/67619202)
 
 ##### Why?
 
+In 2011, the University of Washington Recycling & Solid Waste department (link: 2011-Report.pdf text: reported popup: yes) that the University of Washington composted and recycled approximately 57% of its garbage. This effort alone saved the school over $900,000 in spendings. The rest of the 43% of garbage that was not composted or recycled measured up to approximately 5,000 tons of garbage which equaled to about 1.3 million dollars in spending for UW that same year. Despite employing a variety of (link: http://www.washington.edu/facilities/building/recyclingandsolidwaste/index text: waste management initiatives popup: yes), the University of Washington Garbology department (link: jack-johnson-fall-2012-final-report.pdf text: discovered popup: yes) severe garbage contamination between the compost (about 7% contamination), recycling (about 39% contamination), and waste bins (about 88% contamination).
+
+Currently, garbage contamination is a big issue to the waste management (link: http://www.washington.edu/facilities/building/recyclingandsolidwaste/procedures text: efforts made by the UW Recycling & Solid Waste popup: yes). Garbage contamination in terms of waste management is the deciding factor in whether or not garbage can be composted or recycled. Simply throwing away garbage is not good enough in this day and age. In fact, thoughtlessly disposing of garbage is just as bad as littering.
+
+****
+
+> “Trash only becomes trash after it has first served a useful purpose. It becomes litter only after people thoughtlessly discard it.”
+> — Heritage of Splendor, 1963
+
+****
+
+How can we get University of Washington citizens to properly dispose of their trash?
+
+Aside from preserving the environment, tackling this issue can lower spending fees for the University of Washington thus saving money for both taxpayers and student. But most of all, teach UW citizen to become literate in waste management and possibly influence surrounding communities.
+
 ****
 ----
 Breakdown:
-##### Interaction Breakdown
-
-
 ----
 Guts:
-##### Design Process
-
 ----
 Ending:
 
-#### References
+##### References
 
 Articles:
 (link: http://earth911.com/news/2010/10/25/why-people-dont-recycle/ text: Why People Don’t Recycle popup: yes)

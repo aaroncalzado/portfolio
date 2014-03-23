@@ -21,15 +21,15 @@ Breakdown:
 Guts:
 
 ##### Process Book
-For a better understanding of the thought process and motivation behind the creation of Topicks: Topicks Process Book (PDF)
+For a better understanding of the thought process and motivation behind the creation of Topicks: (link: topicks-process-book-web.pdf text: Topicks Process Book [PDF] popup: yes)
 ----
 Ending:
 
 ##### Project Role
-Concept development, graphics production, and motion graphics
+Concept development, graphics production, motion graphics, and on-screen talent
 
 ##### Collaborators
-Carly Cahill, Jolie Chen, Shelby Li, Ryan Sun, Bridget Weis
+(link: http://cargocollective.com/ccahill text: Carly Cahill popup: yes), (link: https://www.behance.net/omjolie Text: Jolie Chen popup: yes), (link: http://shelbyli.com text: Shelby Li popup: yes), (link: http://ryansun.com text: Ryan Sun popup: yes), (link: http://bridgetweis.com text: Bridget Weis popup: yes)
 
 ##### Advisor
 (link: http://dub.washington.edu/people/axel-roesler text: Axel Roesler popup: yes)
