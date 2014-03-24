@@ -117,23 +117,103 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-brain01.jpg": {
+	"\/content\/01-work\/03-hiatus\/chair-brain-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 195736,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain01.jpg",
+		"initialSize": 656645,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-brain02.jpg": {
+	"\/content\/01-work\/03-hiatus\/chair-brain-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 156340,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain02.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain02.jpg",
+		"initialSize": 555214,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain-02.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/chair-guts-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 567025,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/chair-guts-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 559227,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-02.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/chair-guts-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 555758,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-03.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/chair-guts-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 521091,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-04.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-04.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/chair-guts-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 629457,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-05.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-05.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/chair-guts-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 599005,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-06.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-06.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/chair-guts-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 626325,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-07.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-07.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/03-hiatus\/code.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44281,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/code.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/code.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -147,6 +227,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/01-work\/03-hiatus\/hack-chair-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 593479,
+		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/hack-chair-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/hack-chair-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/01-work\/03-hiatus\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -157,13 +247,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/04-kinect-three-little-pigs\/heroImage.jpg": {
+	"\/content\/01-work\/04-kinect-three-little-pigs\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 182954,
-		"inputAbbreviatedPath": "\/content\/01-work\/04-kinect-three-little-pigs\/heroImage.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/04-kinect-three-little-pigs\/heroImage.jpg",
+		"initialSize": 265345,
+		"inputAbbreviatedPath": "\/content\/01-work\/04-kinect-three-little-pigs\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-kinect-three-little-pigs\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},

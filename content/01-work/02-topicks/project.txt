@@ -12,7 +12,7 @@ Intro: Topicks is a web and mobile application that offers the ease of going one
 
 (vimeo: https://vimeo.com/62274512)
 
-##### Why
+<!-- ##### Why -->
 
 ----
 Breakdown:

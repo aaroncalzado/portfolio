@@ -315,12 +315,12 @@ h2 {
 		width: 320px;
 	}
 }
-h2 a {
+.copyMastHome h2 a {
 	color: $colorKnockout;
 	border-bottom: 1px solid $colorKnockout;
 	text-decoration: none;
 }
-h2
+.copyMastHome h2
 a:hover,
 a:active,
 a:visited {
@@ -617,6 +617,18 @@ h6 {
 		padding: 0 16px 0 16px;
 		width: 320px;
 	}
+}
+h6 a,
+a:active,
+a:visited {
+	border-bottom: 1px solid $color;
+	color: $color;
+	text-decoration: none;
+}
+h6 a:hover {
+	border-bottom: 1px solid $houseColor;
+	color: $houseColor;
+	text-decoration: none;
 }
 .profile {
 	background: -webkit-linear-gradient(#DBDBDB, $colorKnockout); /* For Safari 5.1 to 6.0 */

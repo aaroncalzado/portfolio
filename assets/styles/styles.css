@@ -279,12 +279,12 @@ h2 {
   h2 {
     padding: 0 12px 0 12px;
     width: 320px; } }
-h2 a {
+.copyMastHome h2 a {
   color: snow;
   border-bottom: 1px solid snow;
   text-decoration: none; }
 
-h2
+.copyMastHome h2
 a:hover,
 a:active,
 a:visited {
@@ -549,6 +549,18 @@ h6 {
   h6 {
     padding: 0 16px 0 16px;
     width: 320px; } }
+h6 a,
+a:active,
+a:visited {
+  border-bottom: 1px solid #333333;
+  color: #333333;
+  text-decoration: none; }
+
+h6 a:hover {
+  border-bottom: 1px solid mediumseagreen;
+  color: mediumseagreen;
+  text-decoration: none; }
+
 .profile {
   background: -webkit-linear-gradient(#dbdbdb, snow);
   /* For Safari 5.1 to 6.0 */

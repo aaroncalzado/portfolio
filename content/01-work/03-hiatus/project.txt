@@ -24,48 +24,97 @@ Guts:
 ##### Design Process
 We created a simple diagram outlining the basic functions and materials required for our chair.
 
-(image: concept-diagram.jpg class: projectCenterImageDS width: 100%)
+(image: concept-diagram.jpg class: projectCenterImageDS link: concept-diagram.jpg width: 75%)
 
 ###### This diagram allowed us to plan out our next steps, and assess what electrical components and Arduino programming we might need.
 
-(image: code.gif class: projectCenterImage width: 75%)
+(image: code.png class: projectCenterImage width: 75%)
 
-###### For the next several weeks, we worked hard to develop working code for the Arduino. For this chair we needed the Arduino to keep track of time spent sitting down and time spent taking a break. We also needed to instruct the Arduino to sense and activate the appropriate microswitches for the chair’s motor.
+###### For the next several weeks, we worked hard to develop working code for the Arduino. For this chair we needed the Arduino to keep track of time spent sitting down and time spent taking a break. We also needed to instruct the Arduino to sense and activate the appropriate microswitches for the chair’s motor. You can view the source on (link: https://github.com/aaroncalzado/hiatus text: GitHub popup:yes).
+
+****
 
 ##### Process Sketches and Ideations
 
 Despite being illegible outside of the design context at the time, here are excerpt process sketches that were used in the development of the _Hiatus_ Chair.
 
+****
+
 ##### Chair “Brain” Development
 
 These are images showcasing the prototyping process and development of the chair brain and its components.
 
-(image: chair-brain01.jpg class: projectCenterImageDS width: 100%)
+(image: chair-brain-01.jpg class: projectCenterImageDS link: chair-brain-01.jpg width: 75%)
 
-(image: chair-brain02.jpg class: projectCenterImageDS width: 100%)
+(image: chair-brain-02.jpg class: projectCenterImageDS link: chair-brain-02.jpg width: 75%)
+
+****
 
 ##### Hacking the Chair
+
 Gutting out the chair was a necessary step to provide room for the brain and other moving components.
 
+(image: hack-chair-01.jpg class: projectCenterImageDS link: hack-chair-01.jpg width: 75%)
+
+###### Stripped down chair.
+
+(image: chair-guts-02.jpg class: projectCenterImageDS link: chair-guts-02.jpg width: 75%)
+
+###### Planning and layout for the chair’s guts.
+
+(image: chair-guts-03.jpg class: projectCenterImageDS link: chair-guts-03.jpg width: 75%)
+
+###### Creating a template for the motor and mount.
+
+(image: chair-guts-04.jpg class: projectCenterImageDS link: chair-guts-04.jpg width: 75%)
+
+###### Measuring out the motor and mount.
+
+(image: chair-guts-05.jpg class: projectCenterImageDS link: chair-guts-05.jpg width: 75%)
+
+###### Cardboard template of the mount that held the motor. 
+
+(image: chair-guts-06.jpg class: projectCenterImageDS link: chair-guts-06.jpg width: 75%)
+
+###### Wooden base that housed the chair’s guts.
+
+(image: chair-guts-07.jpg class: projectCenterImageDS link: chair-guts-07.jpg width: 75%)
+
+###### Cardboard template of the motorized arm.
+
+****
+
 ##### Hardware and Software Testing
+
 Vigorous testing of the code was done to prevent the chair from killing itself.
 
+(vimeo: https://vimeo.com/43513337)
+
+****
+
 ##### Retrospect
+
 The _Hiatus_ chair concept was well received among our peers and was a major feat acomplished by both Kelly and I. Prior to working on this project, neither of us had any experience in developing in the Processing/Arduino environment, nor did we have any experience in deconstructing existing artifacts and cannibalizing them to hack together our own homebrew artifact. In hindsight, we realized the _Hiatus_ chair required a much higher level of skill in construction and engineering.
 
-These were critical things we lacked during the development of the _Hiatus_ chair. Unfortunately, neither of us had sufficient knowledge [at the time] in materials and construction and ended up breaking our chair during testing. Fortunately, we were able to film the chair in action for our video prototype as well as documenting its demise.
+<!-- (vimeo: https://vimeo.com/43513839) -->
+
+These were critical things we lacked during the development of the _Hiatus_ chair. Unfortunately, neither of us had sufficient knowledge (at the time) in materials and construction and ended up breaking our chair during testing. Fortunately, we were able to film the chair in action for our video prototype as well as documenting its demise.
 
 ##### External Links
+
 (link: http://tangibleinteractionuw.blogspot.com/2012/06/aaron-and-kelly-final-project-hiatus.html text: Tangible Interaction UW: Aaron and Kelly Final Project: The Hiatus Chair)
 
 ##### Project Role
+
 Concept development, graphics production, fabrication, research, software coding, video production and editing
 
 ##### Collaborator
-Kelly Graham
+
+(link: http://www.kellyjeangraham.com/ text: Kelly Graham popup: yes)
 
 ##### Advisor
-Dominic Muren
+
+(link: http://www.dominicmuren.com/ text: Dominic Muren popup: yes)
 
 ##### Special Thanks
-Tom Conroy, John, Sara Jo Kinslow, Dae Kwon
+(link: http://tom.conroy.com.au/ text: Tom Conroy popup: yes), John, (link: http://sjkinslow.com/ text: Sara Jo Kinslow popup: yes), (link: http://www.daeilkwon.com/ text: Dae Kwon popup: yes)
