@@ -8,9 +8,9 @@ Credit:
 ----
 Intro:
 
-_Hiatus_ is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up. Made with an Arduino Uno, custom components, and some second-hand hardware, _Hiatus_ converts an average office chair into a gentle reminder that it’s time to get up. Every 30 minutes, _Hiatus_ gives its occupant a nudge that they’ve sat long enough, and becomes more forceful (and harder to ignore) if needed.
+Hiatus is a concept chair designed to solve the common problem of sitting too long and too frequently without standing up. Made with an Arduino Uno, custom components, and some second-hand hardware, Hiatus converts an average office chair into a gentle reminder that it’s time to get up. Every 30 minutes, Hiatus gives its occupant a nudge that they’ve sat long enough, and becomes more forceful (and harder to ignore) if needed.
 
-(vimeo: https://vimeo.com/43513049)
+(vimeo: https://vimeo.com/43513049 width: 960 height: 540)
 
 ##### Why?
 
@@ -36,7 +36,7 @@ We created a simple diagram outlining the basic functions and materials required
 
 ##### Process Sketches and Ideations
 
-Despite being illegible outside of the design context at the time, here are excerpt process sketches that were used in the development of the _Hiatus_ Chair.
+Despite being illegible outside of the design context at the time, here are excerpt process sketches that were used in the development of the Hiatus Chair.
 
 ****
 
@@ -88,17 +88,19 @@ Gutting out the chair was a necessary step to provide room for the brain and oth
 
 Vigorous testing of the code was done to prevent the chair from killing itself.
 
-(vimeo: https://vimeo.com/43513337)
+(vimeo: https://vimeo.com/43513337 width: 640 height: 480)
 
 ****
 
 ##### Retrospect
 
-The _Hiatus_ chair concept was well received among our peers and was a major feat acomplished by both Kelly and I. Prior to working on this project, neither of us had any experience in developing in the Processing/Arduino environment, nor did we have any experience in deconstructing existing artifacts and cannibalizing them to hack together our own homebrew artifact. In hindsight, we realized the _Hiatus_ chair required a much higher level of skill in construction and engineering.
+The Hiatus chair concept was well received among our peers and was a major feat acomplished by both Kelly and I. Prior to working on this project, neither of us had any experience in developing in the Processing/Arduino environment, nor did we have any experience in deconstructing existing artifacts and cannibalizing them to hack together our own homebrew artifact. In hindsight, we realized the Hiatus chair required a much higher level of skill in construction and engineering.
 
 <!-- (vimeo: https://vimeo.com/43513839) -->
 
-These were critical things we lacked during the development of the _Hiatus_ chair. Unfortunately, neither of us had sufficient knowledge (at the time) in materials and construction and ended up breaking our chair during testing. Fortunately, we were able to film the chair in action for our video prototype as well as documenting its demise.
+These were critical things we lacked during the development of the Hiatus chair. Unfortunately, neither of us had sufficient knowledge (at the time) in materials and construction and ended up breaking our chair during testing. Fortunately, we were able to film the chair in action for our video prototype as well as documenting its demise.
+
+****
 
 ##### External Links
 

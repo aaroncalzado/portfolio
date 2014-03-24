@@ -16,7 +16,7 @@ Intro:
 
 Scout is designed to make appropriate judgments about it’s user by silently collecting data unsoiled by the user’s biases. This way possible relationships could be found based upon how the users really are. Although this information is shared transparently between Scouts, the actual users can only see what is shared.
 
-(vimeo: https://vimeo.com/38439187)
+(vimeo: https://vimeo.com/38439187 width: 960 height: 540)
 
 ##### Why?
 
@@ -31,15 +31,65 @@ Breakdown:
 ##### How Scout Works
 Scout gathers data from what you do, what you say, where you go, what you hear, and anything else it's able to measure with its internal sensors. In addition, it can also communicate with other devices such as smartphones, e-books, computers, and RFID tagged objects to gather more contextual data.
 
-Using speech transcription algorithms already available in many devices, conversations and audio can be logged, time stamped, and located using the GPS to mark where events happened. GPS can be used to recognize when the Scout has entered a restaurant, how far the device has traveled, and many other applications. The Scouts communicate with each other either through Bluetooth when they're within a close enough radius, or through NFC (Near Field Communication) when they're within a few inches away. A match is communicated through the indicator light, which will sync together, as well as with a quick vibration All this data is saved on an internal flash drive and uploaded to the user's online profile through WIFI whenever available.
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-01.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-01.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
 
-Nearby Scouts are always in communication, making the data they have accumulated useful for comparing profiles and finding new people. To formally introduce your Scout to someone else’s, all you need to do is tap them together. When a match has been found based on your combined interests, your Scout pings you with a vibration, and the indicator also syncs with your match’s Scout. As we all know, a computer can’t create love, so the rest is up to you.
+Using speech transcription algorithms already available in many devices, conversations and audio can be logged, time stamped, and located using the GPS to mark where events happened.
+
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-02.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-02.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+GPS can be used to recognize when the Scout has entered a restaurant, how far the device has traveled, and many other applications.
+
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-03.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-03.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+Nearby Scouts are always in communication, making the data they have accumulated useful for comparing profiles and finding new people.
+
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-04.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-04.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+The Scouts communicate with each other either through Bluetooth when they're within a close enough radius, or through NFC (Near Field Communication) when they're within a few inches away. All this data is saved on an internal flash drive and uploaded to the user's online profile through WIFI whenever available.
+
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-05.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-05.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+When a match has been found based on your combined interests, your Scout pings you with a vibration, and the indicator also syncs with your match’s Scout.
+
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-06.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-06.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
+
+To formally introduce your Scout to someone else’s, all you need to do is tap them together. As we all know, a computer can’t create love, so the rest is up to you.
+
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-07.webm" type="video/webm">
+  <source src="http://aaroncalzado.com/media/portfolio/s/s-07.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></div>
 
 ****
 
 ----
 Guts:
-##### Process and Ideation
+<!-- ##### Process and Ideation
 In order to gain a better understanding of our target demographic and market, we investigated and mapped out the common process and practices of speed dating. We also observed other forms of dating and some of the different components involved in the process.
 
 ****
@@ -47,7 +97,7 @@ In order to gain a better understanding of our target demographic and market, we
 ##### System Refinement and Product Development
 While further refining the Scout ecosystem we began to expore the physical design aspect of Scout and its possible uses. We sketched up multiple concepts exploring the shape and form of Scout. We ended up choosing a pedometer/dongle form factor and began physically prototyping with balsa wood and other cheap materials.
 
-****
+**** -->
 
 ----
 Ending:

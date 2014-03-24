@@ -8,9 +8,9 @@ Caption: Fall 2011
 ----
 Credit:
 ----
-Intro: _Let’s Get Together_ is a digital calendar concept for smartphones developed to explore new ways to input data, visualize calendar information, and encourage spontaneous social gatherings with other people. We created a video prototype showcasing how we envision digital calendar system being used with current (2010) smartphone technology.
+Intro: Let’s Get Together is a digital calendar concept for smartphones developed to explore new ways to input data, visualize calendar information, and encourage spontaneous social gatherings with other people. We created a video prototype showcasing how we envision digital calendar system being used with current (2010) smartphone technology.
 
-(vimeo: https://vimeo.com/33567269)
+(vimeo: https://vimeo.com/33567269 width: 960 height: 540)
 
 ##### Why?
 
@@ -86,7 +86,7 @@ Total active time spent on this project was ten weeks with heavy emphasis on res
 
 ###### A snapshot of a class-wide whiteboard discussion on calendars.
 
-(image: japan-train-schedule.jpg class: projectCenterImageDS link: http://upload.wikimedia.org/wikipedia/commons/0/0e/Train_schedule_of_Sanin_Line%2C_Japan%2C_1949-09-15.png popup: yes width: 100%)
+(image: japan-train-schedule.jpg class: projectCenterImageDS link: http://upload.wikimedia.org/wikipedia/commons/0/0e/TrainscheduleofSaninLine%2CJapan%2C1949-09-15.png popup: yes width: 100%)
 
 ###### This is one of the many calendar systems we observed. The image is a scan of an old Japanese train schedule. Although there wasn’t a direct application for this in our project, it was examples like this that broadened our views on how to visually represent time and events.
 

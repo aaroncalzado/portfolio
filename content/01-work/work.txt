@@ -11,7 +11,7 @@ Text:
 
 #### (link: /work/throw-it-back text: Throw It Back!)
 
-_Throw It Back!_ is a waste management system designed to inform and educate the general public on good waste management practices.
+Throw It Back! is a waste management system designed to inform and educate the general public on good waste management practices.
 
 (link: /work/throw-it-back class: viewProjects text: View Project)
 
@@ -21,7 +21,7 @@ _Throw It Back!_ is a waste management system designed to inform and educate the
 
 #### (link: /work/topicks text: Topicks)
 
-_Topicks_ is a news resource that presents you daily trending news topics from different perspectives. _Topicks_ delivers the whole story by providing perspectives that normally go unseen.
+Topicks is a news resource that presents you daily trending news topics from different perspectives. Topicks delivers the whole story by providing perspectives that normally go unseen.
 
 (link: /work/topicks class: viewProjects text: View Project)
 
@@ -31,7 +31,7 @@ _Topicks_ is a news resource that presents you daily trending news topics from d
 
 #### (link: /work/hiatus text: Hiatus)
 
-_Hiatus_ is a home-brew chair hacked together from used parts and electronics designed to combat sedentary lifestyle diseases.
+Hiatus is a home-brew chair hacked together from used parts and electronics designed to combat sedentary lifestyle diseases.
 
 (link: /work/hiatus class: viewProjects text: View Project)
 
@@ -41,7 +41,7 @@ _Hiatus_ is a home-brew chair hacked together from used parts and electronics de
 
 #### (link: /work/kinect-three-little-pigs text: Kinect × Three Little Pigs)
 
-The _Kinect × Three Little Pigs_ is a digital storybook designed to reimagine the way children experience art of storytelling.
+The Kinect × Three Little Pigs is a digital storybook designed to reimagine the way children experience art of storytelling.
 
 (link: /work/kinect-three-little-pigs class: viewProjects text: View Project)
 
@@ -51,7 +51,7 @@ The _Kinect × Three Little Pigs_ is a digital storybook designed to reimagine t
 
 #### (link: /work/scout text: Scout)
 
-_Scout_ is the devilishly clever device you can't live without. This subtle little accessory goes where you go, and knows what you know so it can find your perfect match.
+Scout is the devilishly clever device you can't live without. This subtle little accessory goes where you go, and knows what you know so it can find your perfect match.
 
 (link: /work/scout class: viewProjects text: View Project)
 
@@ -61,7 +61,7 @@ _Scout_ is the devilishly clever device you can't live without. This subtle litt
 
 #### (link: /work/lets-get-together text: Let’s Get Together)
 
-_Let’s Get Together_ is a digital calendar concept for smartphones developed to explore new ways to input data, visualize calendar information, and encourage spontaneous social gatherings with other people.
+Let’s Get Together is a digital calendar concept for smartphones developed to explore new ways to input data, visualize calendar information, and encourage spontaneous social gatherings with other people.
 
 (link: /work/lets-get-together class: viewProjects text: View Project)
 
@@ -71,7 +71,7 @@ _Let’s Get Together_ is a digital calendar concept for smartphones developed t
 
 #### (link: /work/crate-to-plate text: Crate to Plate)
 
-_Crate to Plate_ is a food subscription service that delivers a series of seasonal local ingredients paired with original recipes designed to make the process of buying and cooking local food more accessible.
+Crate to Plate is a food subscription service that delivers a series of seasonal local ingredients paired with original recipes designed to make the process of buying and cooking local food more accessible.
 
 (link: /work/crate-to-plate class: viewProjects text: View Project)
 

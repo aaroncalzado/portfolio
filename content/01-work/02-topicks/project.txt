@@ -10,7 +10,7 @@ Credit:
 ----
 Intro: Topicks is a web and mobile application that offers the ease of going one places to educate yourself on all viewpoints associated with a topic, in order to help you understand the broader circumstances surrounding an issue.
 
-(vimeo: https://vimeo.com/62274512)
+(vimeo: https://vimeo.com/62274512 width: 960 height: 540)
 
 <!-- ##### Why -->
 
@@ -29,7 +29,7 @@ Ending:
 Concept development, graphics production, motion graphics, and on-screen talent
 
 ##### Collaborators
-(link: http://cargocollective.com/ccahill text: Carly Cahill popup: yes), (link: https://www.behance.net/omjolie Text: Jolie Chen popup: yes), (link: http://shelbyli.com text: Shelby Li popup: yes), (link: http://ryansun.com text: Ryan Sun popup: yes), (link: http://bridgetweis.com text: Bridget Weis popup: yes)
+(link: http://cargocollective.com/ccahill text: Carly Cahill popup: yes), (link: https://www.behance.net/omjolie text: Jolie Chen popup: yes), (link: http://shelbyli.com text: Shelby Li popup: yes), (link: http://ryansun.com text: Ryan Sun popup: yes), (link: http://bridgetweis.com text: Bridget Weis popup: yes)
 
 ##### Advisor
 (link: http://dub.washington.edu/people/axel-roesler text: Axel Roesler popup: yes)

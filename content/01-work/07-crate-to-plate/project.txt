@@ -8,14 +8,15 @@ Caption: Fall 2011
 ----
 Credit:
 ----
-Intro: _Crate to Plate_ is a subscription service designed to foster a healthy lifestyle for students, by making local food more convenient. _Crate to Plate_ delivers a series of seasonal local ingredients, paired with recipes, making the process of buying and cooking local food more accessible. This cuts down on waste, which saves money, and helps students to learn how to prepare meals for themselves. _Crate to Plate_ was inspired by our desire to provide healthy local food while saving money and time for University students.
+Intro: Crate to Plate is a subscription service designed to foster a healthy lifestyle for students, by making local food more convenient. Crate to Plate delivers a series of seasonal local ingredients, paired with recipes, making the process of buying and cooking local food more accessible. This cuts down on waste, which saves money, and helps students to learn how to prepare meals for themselves. Crate to Plate was inspired by our desire to provide healthy local food while saving money and time for University students.
 
-(vimeo: https://vimeo.com/33271676)
+(vimeo: https://vimeo.com/33271676 width: 960 height: 540)
 ----
 Breakdown:
+
 ##### Service Overview
 
-The _Crate to Plate_ service works alongside current food distribution systems and local farmers in the local food market. It pairs food with specific recipes to maximize the use of all the ingredients delivering “crates”, minimizing waste. Through using this service, students will learn more about local food and how to cook for themselves.
+The Crate to Plate service works alongside current food distribution systems and local farmers in the local food market. It pairs food with specific recipes to maximize the use of all the ingredients delivering “crates”, minimizing waste. Through using this service, students will learn more about local food and how to cook for themselves.
 
 (image: crate-to-plate-diagram.png class: projectCenterImage width: 100%)
 
@@ -24,7 +25,7 @@ The _Crate to Plate_ service works alongside current food distribution systems a
 ###### 3. The local food experience doesn’t end when food reaches the student’s doorstep. Valuable feedback from students via voting will help expand and improve the Crate to Plate catalog.
 
 ##### Online Website
-The _Crate to Plate_ website is the digital gateway for students to access local food.
+The Crate to Plate website is the digital gateway for students to access local food.
 
 <div class="ctpbw"><video width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/ctp/ctp-01.webm" type="video/webm">
@@ -32,7 +33,7 @@ The _Crate to Plate_ website is the digital gateway for students to access local
 Your browser does not support the video tag.
 </video></div>
 
-###### Students who subscribe to _Crate to Plate_ will have access to _Crate to Plate_’s catalog of recipes and shopping lists for each related recipe.
+###### Students who subscribe to Crate to Plate will have access to Crate to Plate’s catalog of recipes and shopping lists for each related recipe.
 
 <div class="ctpbw"><video width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/ctp/ctp-02.webm" type="video/webm">
@@ -51,7 +52,7 @@ Your browser does not support the video tag.
 ###### Students can manage their subscriptions and confirm their orders prior to delivery.
 
 ##### Recipe Cards
-_Crate to Plate_ includes recipe cards that not only show the ingredients with an identifying image, but also incorporate easy-to-follow directions so students can make their favorite recipes as many times as they want! Each card explains how long the meal will take to make, so students can plan their meals based upon their busy schedules.
+Crate to Plate includes recipe cards that not only show the ingredients with an identifying image, but also incorporate easy-to-follow directions so students can make their favorite recipes as many times as they want! Each card explains how long the meal will take to make, so students can plan their meals based upon their busy schedules.
 
 (image: recipe-card-01.jpg class: projectCenterImageDS link: recipe-card-01.jpg width: 80%)
 
@@ -68,21 +69,21 @@ Each crate provides every ingredient needed for three distinct meals and multipl
 
 Part of our design was to create a container which would hold the correct amount of produce along with being able to have sorting areas within and be able to easily stack for transportation and delivery. Towards the end of our project it was decided on to make the following design due to the ability to be either recycled or composted and stored into the typical household refrigerator.
 
-##### Phone App
+<!-- ##### Phone App
 
-With the _Crate to Plate_ app, users are able to track their next Crate’s arrival, as well as also use all of the functions of the website. Another helpful function that is incorporated into the app, is the shopping list feature. If students decide to try a new recipe they can download the shopping list for that recipe so they are sure to get everything they need at the store!
+With the Crate to Plate app, users are able to track their next Crate’s arrival, as well as also use all of the functions of the website. Another helpful function that is incorporated into the app, is the shopping list feature. If students decide to try a new recipe they can download the shopping list for that recipe so they are sure to get everything they need at the store! -->
 
 ****
 
 ----
 Guts:
-##### Process
+<!-- ##### Process
 (image: local-food.jpg class: projectCenterImageDS link: local-food.jpg width: 100%)
 
 ##### Retrospective
 To come...
 
-Talk about services like Trunk Club and Blue Apron
+Talk about services like Trunk Club and Blue Apron -->
 ----
 Ending:
 

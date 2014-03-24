@@ -11,7 +11,7 @@ Intro:
 
 ****
 
-(vimeo: https://vimeo.com/38066128)
+(vimeo: https://vimeo.com/38066128 width: 960 height: 540)
 
 ****
 

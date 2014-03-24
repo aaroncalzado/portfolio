@@ -10,7 +10,7 @@ Intro:
 
 _Throw It Back!_ is a waste management system designed to inform and educate the general public on good waste management practices through the use of a low-cost interchangeable signage system that adapts to current waste trends. By focusing on specific sites with high waste traffic site monitors can follow waste trends and react accordingly to divert recyclable material from our ever growing landfills.
 
-(vimeo: https://vimeo.com/67619202)
+(vimeo: https://vimeo.com/67619202 width: 960 height: 540)
 
 ##### Why?
 

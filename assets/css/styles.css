@@ -585,6 +585,10 @@ h6 a:hover {
   padding-top: 24px;
   text-align: center; }
 
+.bareVideo {
+  margin: 24px auto 0 auto;
+  text-align: center; }
+
 .ctpbw {
   background: url("http://aaroncalzado.com/portfolio/assets/images/ctpbw.svg") no-repeat top center;
   background-size: 75%;
