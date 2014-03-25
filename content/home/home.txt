@@ -1,6 +1,6 @@
 Title: Aloha!
 ----
-Text: ## Aloha and welcome to the online portfolio of (link: /info text: Aaron Calzado). Through this site you will be able to (link: /work text: review projects) I worked on throughout my design career. The projects I work primarily focuses on current issues involving people’s relationship with new technology and information.
+Text: ## Aloha and welcome to the online portfolio of (link: /info text: Aaron Calzado). Through this site you will be able to (link: /work text: review projects) I worked on throughout my design career. My work primarily focuses on current issues surrounding the way people interact with new technology and information.
 
 <div class="homeButton">
 <p>
