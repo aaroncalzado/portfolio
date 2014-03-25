@@ -97,803 +97,873 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/content\/01-work\/01-throw-it-back\/hero-image.jpg": {
+	"\/content\/01-work\/02-throw-it-back\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 293914,
-		"inputAbbreviatedPath": "\/content\/01-work\/01-throw-it-back\/hero-image.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/01-throw-it-back\/hero-image.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/02-throw-it-back\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/02-throw-it-back\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/02-topicks\/hero-image.jpg": {
+	"\/content\/01-work\/03-topicks\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 293914,
-		"inputAbbreviatedPath": "\/content\/01-work\/02-topicks\/hero-image.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/02-topicks\/hero-image.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/03-topicks\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/03-topicks\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-brain-01.jpg": {
+	"\/content\/01-work\/04-hiatus\/chair-brain-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 656645,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-brain-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-brain-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-brain-02.jpg": {
+	"\/content\/01-work\/04-hiatus\/chair-brain-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 555214,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain-02.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-brain-02.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-brain-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-brain-02.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-guts-01.jpg": {
+	"\/content\/01-work\/04-hiatus\/chair-guts-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 567025,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-guts-02.jpg": {
+	"\/content\/01-work\/04-hiatus\/chair-guts-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 559227,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-02.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-02.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-02.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-guts-03.jpg": {
+	"\/content\/01-work\/04-hiatus\/chair-guts-03.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 555758,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-03.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-03.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-03.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-guts-04.jpg": {
+	"\/content\/01-work\/04-hiatus\/chair-guts-04.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 521091,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-04.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-04.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-04.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-04.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-guts-05.jpg": {
+	"\/content\/01-work\/04-hiatus\/chair-guts-05.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 629457,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-05.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-05.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-05.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-05.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-guts-06.jpg": {
+	"\/content\/01-work\/04-hiatus\/chair-guts-06.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 599005,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-06.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-06.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-06.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-06.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/chair-guts-07.jpg": {
+	"\/content\/01-work\/04-hiatus\/chair-guts-07.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 626325,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-07.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/chair-guts-07.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-07.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/chair-guts-07.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/code.png": {
+	"\/content\/01-work\/04-hiatus\/code.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 44281,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/code.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/code.png",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/code.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/code.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/concept-diagram.jpg": {
+	"\/content\/01-work\/04-hiatus\/concept-diagram.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 65047,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/concept-diagram.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/concept-diagram.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/concept-diagram.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/concept-diagram.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/hack-chair-01.jpg": {
+	"\/content\/01-work\/04-hiatus\/hack-chair-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 593479,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/hack-chair-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/hack-chair-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/hack-chair-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/hack-chair-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/03-hiatus\/hero-image.jpg": {
+	"\/content\/01-work\/04-hiatus\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 234253,
-		"inputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/hero-image.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/03-hiatus\/hero-image.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/04-hiatus\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/04-kinect-three-little-pigs\/hero-image.jpg": {
+	"\/content\/01-work\/05-kinect-three-little-pigs\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 265345,
-		"inputAbbreviatedPath": "\/content\/01-work\/04-kinect-three-little-pigs\/hero-image.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/04-kinect-three-little-pigs\/hero-image.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/05-kinect-three-little-pigs\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/05-kinect-three-little-pigs\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/05-scout\/hero-image.jpg": {
+	"\/content\/01-work\/06-scout\/concept-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.11405e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-scout\/concept-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-scout\/concept-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-scout\/concept-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.47781e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-scout\/concept-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-scout\/concept-02.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-scout\/concept-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.04048e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-scout\/concept-03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-scout\/concept-03.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-scout\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 737975,
-		"inputAbbreviatedPath": "\/content\/01-work\/05-scout\/hero-image.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/05-scout\/hero-image.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/06-scout\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-scout\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/hero-image.jpg": {
+	"\/content\/01-work\/06-scout\/prototype-details.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.90083e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-scout\/prototype-details.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-scout\/prototype-details.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-scout\/prototype-flows-and-uses.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 704519,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-scout\/prototype-flows-and-uses.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-scout\/prototype-flows-and-uses.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-scout\/speed-dating-map-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 376058,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-scout\/speed-dating-map-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-scout\/speed-dating-map-01.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/06-scout\/speed-dating-map-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.14667e+06,
+		"inputAbbreviatedPath": "\/content\/01-work\/06-scout\/speed-dating-map-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/06-scout\/speed-dating-map-02.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-work\/07-lets-get-together\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 126884,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/hero-image.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/hero-image.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/japan-train-schedule.jpg": {
+	"\/content\/01-work\/07-lets-get-together\/japan-train-schedule.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 154403,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/japan-train-schedule.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/japan-train-schedule.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/japan-train-schedule.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/japan-train-schedule.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/models-01.png": {
+	"\/content\/01-work\/07-lets-get-together\/models-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 130161,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/models-01.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/models-01.png",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/models-01.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/models-01.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/post-it-models-01.png": {
+	"\/content\/01-work\/07-lets-get-together\/post-it-models-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 318366,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/post-it-models-01.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/post-it-models-01.png",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/post-it-models-01.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/post-it-models-01.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/post-it-models-02.jpg": {
+	"\/content\/01-work\/07-lets-get-together\/post-it-models-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 390422,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/post-it-models-02.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/post-it-models-02.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/post-it-models-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/post-it-models-02.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/process-01.jpg": {
+	"\/content\/01-work\/07-lets-get-together\/process-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 115357,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/process-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/process-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/process-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/process-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/Screenshot 2014-03-03 20.59.42.png": {
+	"\/content\/01-work\/07-lets-get-together\/Screenshot 2014-03-03 20.59.42.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.19381e+07,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/Screenshot 2014-03-03 20.59.42.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/Screenshot 2014-03-03 20.59.42.png",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/Screenshot 2014-03-03 20.59.42.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/Screenshot 2014-03-03 20.59.42.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/sketches-compiled.jpg": {
+	"\/content\/01-work\/07-lets-get-together\/sketches-compiled.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 714994,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/sketches-compiled.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/sketches-compiled.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/sketches-compiled.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/sketches-compiled.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/Train_schedule_of_Sanin_Line,_Japan,_1949-09-15.png": {
+	"\/content\/01-work\/07-lets-get-together\/Train_schedule_of_Sanin_Line,_Japan,_1949-09-15.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3.47858e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/Train_schedule_of_Sanin_Line,_Japan,_1949-09-15.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/Train_schedule_of_Sanin_Line,_Japan,_1949-09-15.png",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/Train_schedule_of_Sanin_Line,_Japan,_1949-09-15.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/Train_schedule_of_Sanin_Line,_Japan,_1949-09-15.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/06-lets-get-together\/wireframe-compiled.png": {
+	"\/content\/01-work\/07-lets-get-together\/wireframe-compiled.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/wireframe-compiled.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/06-lets-get-together\/wireframe-compiled.png",
+		"inputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/wireframe-compiled.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/07-lets-get-together\/wireframe-compiled.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/crate-01.jpg": {
+	"\/content\/01-work\/08-crate-to-plate\/crate-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 275762,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/crate-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/crate-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.jpg": {
+	"\/content\/01-work\/08-crate-to-plate\/crate-to-plate-diagram.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 62020,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/crate-to-plate-diagram.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/crate-to-plate-diagram.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.png": {
+	"\/content\/01-work\/08-crate-to-plate\/crate-to-plate-diagram.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 14115,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.png",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-diagram.png",
+		"inputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/crate-to-plate-diagram.png",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/crate-to-plate-diagram.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/crate-to-plate-poster.jpg": {
+	"\/content\/01-work\/08-crate-to-plate\/crate-to-plate-poster.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-poster.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate-to-plate-poster.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/crate-to-plate-poster.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/crate-to-plate-poster.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/crate.jpg": {
+	"\/content\/01-work\/08-crate-to-plate\/crate.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 275762,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/crate.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/crate.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/crate.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/hero-image.jpg": {
+	"\/content\/01-work\/08-crate-to-plate\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 737975,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/hero-image.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/hero-image.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/local-food.jpg": {
+	"\/content\/01-work\/08-crate-to-plate\/local-food.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 399392,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/local-food.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/local-food.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/local-food.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/local-food.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/recipe-card-01.jpg": {
+	"\/content\/01-work\/08-crate-to-plate\/recipe-card-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 253988,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/recipe-card-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/recipe-card-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/recipe-card-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/recipe-card-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/07-crate-to-plate\/recipe-card-02.jpg": {
+	"\/content\/01-work\/08-crate-to-plate\/recipe-card-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 350381,
-		"inputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/recipe-card-02.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/07-crate-to-plate\/recipe-card-02.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/recipe-card-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/08-crate-to-plate\/recipe-card-02.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/01.jpg": {
+	"\/content\/01-work\/09-svergognato\/01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.28371e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/02.jpg": {
+	"\/content\/01-work\/09-svergognato\/02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 58610,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/02.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/02.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/02.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/03.jpg": {
+	"\/content\/01-work\/09-svergognato\/03.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.43881e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/03.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/03.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/03.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/04.jpg": {
+	"\/content\/01-work\/09-svergognato\/04.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.35036e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/04.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/04.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/04.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/04.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/05.jpg": {
+	"\/content\/01-work\/09-svergognato\/05.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.24623e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/05.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/05.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/05.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/05.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/06.jpg": {
+	"\/content\/01-work\/09-svergognato\/06.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 716833,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/06.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/06.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/06.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/06.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/07.jpg": {
+	"\/content\/01-work\/09-svergognato\/07.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 560505,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/07.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/07.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/07.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/07.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/08.jpg": {
+	"\/content\/01-work\/09-svergognato\/08.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3.2165e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/08.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/08.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/08.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/08.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/09.jpg": {
+	"\/content\/01-work\/09-svergognato\/09.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 787696,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/09.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/09.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/09.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/09.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/10.jpg": {
+	"\/content\/01-work\/09-svergognato\/10.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.41568e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/10.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/10.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/10.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/10.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/11.jpg": {
+	"\/content\/01-work\/09-svergognato\/11.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.09773e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/11.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/11.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/11.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/11.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/12.jpg": {
+	"\/content\/01-work\/09-svergognato\/12.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 965599,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/12.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/12.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/12.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/12.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/13.jpg": {
+	"\/content\/01-work\/09-svergognato\/13.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.11442e+06,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/13.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/13.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/13.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/13.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/14.jpg": {
+	"\/content\/01-work\/09-svergognato\/14.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 810742,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/14.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/14.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/14.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/14.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/15.jpg": {
+	"\/content\/01-work\/09-svergognato\/15.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 248426,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/15.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/15.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/15.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/15.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/16.jpg": {
+	"\/content\/01-work\/09-svergognato\/16.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 426433,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/16.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/16.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/16.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/16.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/17.jpg": {
+	"\/content\/01-work\/09-svergognato\/17.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 346837,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/17.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/17.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/17.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/17.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/18.jpg": {
+	"\/content\/01-work\/09-svergognato\/18.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 301958,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/18.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/18.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/18.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/18.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/19.jpg": {
+	"\/content\/01-work\/09-svergognato\/19.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 144295,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/19.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/19.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/19.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/19.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/hero-image.jpg": {
+	"\/content\/01-work\/09-svergognato\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 278498,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/hero-image.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/hero-image.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/physical-01.jpg": {
+	"\/content\/01-work\/09-svergognato\/physical-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 60651,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/physical-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/physical-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/physical-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/physical-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/physical-02.jpg": {
+	"\/content\/01-work\/09-svergognato\/physical-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 105012,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/physical-02.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/physical-02.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/physical-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/physical-02.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/physical-03.jpg": {
+	"\/content\/01-work\/09-svergognato\/physical-03.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 76598,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/physical-03.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/physical-03.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/physical-03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/physical-03.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/08-svergognato\/physical-04.jpg": {
+	"\/content\/01-work\/09-svergognato\/physical-04.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 109429,
-		"inputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/physical-04.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/08-svergognato\/physical-04.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/physical-04.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/09-svergognato\/physical-04.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/cifu-01.jpg": {
+	"\/content\/01-work\/10-print-work\/cifu-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 411722,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/cifu-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/cifu-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/cifu-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/cifu-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/dgc-01.jpg": {
+	"\/content\/01-work\/10-print-work\/dgc-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 467779,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/dgc-02.jpg": {
+	"\/content\/01-work\/10-print-work\/dgc-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 422460,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-02.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-02.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-02.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/dgc-03.jpg": {
+	"\/content\/01-work\/10-print-work\/dgc-03.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 477859,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-03.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-03.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-03.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/dgc-04.jpg": {
+	"\/content\/01-work\/10-print-work\/dgc-04.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 307475,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-04.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-04.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-04.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-04.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/dgc-05.jpg": {
+	"\/content\/01-work\/10-print-work\/dgc-05.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 317132,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-05.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-05.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-05.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-05.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/dgc-06.jpg": {
+	"\/content\/01-work\/10-print-work\/dgc-06.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 490209,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-06.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-06.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-06.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-06.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/dgc-07.jpg": {
+	"\/content\/01-work\/10-print-work\/dgc-07.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 746561,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-07.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-07.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-07.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-07.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/dgc-08.jpg": {
+	"\/content\/01-work\/10-print-work\/dgc-08.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 527646,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-08.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-08.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-08.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-08.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/dgc-09.jpg": {
+	"\/content\/01-work\/10-print-work\/dgc-09.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 357292,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-09.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/dgc-09.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-09.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/dgc-09.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/hero-image.jpg": {
+	"\/content\/01-work\/10-print-work\/hero-image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 746561,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/hero-image.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/hero-image.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/hero-image.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/hero-image.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/ixda-lsp-01.jpg": {
+	"\/content\/01-work\/10-print-work\/ixda-lsp-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 313399,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/ixda-lsp-02.jpg": {
+	"\/content\/01-work\/10-print-work\/ixda-lsp-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 419585,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-02.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-02.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-02.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-02.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/ixda-lsp-03.jpg": {
+	"\/content\/01-work\/10-print-work\/ixda-lsp-03.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 674717,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-03.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-03.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-03.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-03.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/ixda-lsp-04.jpg": {
+	"\/content\/01-work\/10-print-work\/ixda-lsp-04.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 0,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-04.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-04.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-04.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-04.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/ixda-lsp-05.jpg": {
+	"\/content\/01-work\/10-print-work\/ixda-lsp-05.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 367140,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-05.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-05.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-05.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-05.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/ixda-lsp-06.jpg": {
+	"\/content\/01-work\/10-print-work\/ixda-lsp-06.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 240527,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-06.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-06.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-06.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-06.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/ixda-lsp-07.jpg": {
+	"\/content\/01-work\/10-print-work\/ixda-lsp-07.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 118206,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-07.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-07.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-07.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-07.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/ixda-lsp-08.jpg": {
+	"\/content\/01-work\/10-print-work\/ixda-lsp-08.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 194949,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-08.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/ixda-lsp-08.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-08.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/ixda-lsp-08.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/01-work\/09-print-work\/thjp-01.jpg": {
+	"\/content\/01-work\/10-print-work\/thjp-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 912807,
-		"inputAbbreviatedPath": "\/content\/01-work\/09-print-work\/thjp-01.jpg",
-		"outputAbbreviatedPath": "\/content\/01-work\/09-print-work\/thjp-01.jpg",
+		"inputAbbreviatedPath": "\/content\/01-work\/10-print-work\/thjp-01.jpg",
+		"outputAbbreviatedPath": "\/content\/01-work\/10-print-work\/thjp-01.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1007,13 +1077,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/02-info\/01-info-first\/envelope.png": {
+	"\/content\/02-info\/01-info-first\/email.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1613,
-		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/envelope.png",
-		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/envelope.png",
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/email.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/email.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1057,13 +1127,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/02-info\/01-info-first\/text.png": {
+	"\/content\/02-info\/01-info-first\/resume.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 908,
-		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/text.png",
-		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/text.png",
+		"inputAbbreviatedPath": "\/content\/02-info\/01-info-first\/resume.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/01-info-first\/resume.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1097,13 +1167,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/02-info\/02-info-second\/envelope.png": {
+	"\/content\/02-info\/02-info-second\/email.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1613,
-		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/envelope.png",
-		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/envelope.png",
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/email.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/email.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1147,13 +1217,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/02-info\/02-info-second\/text.png": {
+	"\/content\/02-info\/02-info-second\/resume.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 908,
-		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/text.png",
-		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/text.png",
+		"inputAbbreviatedPath": "\/content\/02-info\/02-info-second\/resume.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/02-info-second\/resume.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1177,13 +1247,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/02-info\/envelope.png": {
+	"\/content\/02-info\/email.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1613,
-		"inputAbbreviatedPath": "\/content\/02-info\/envelope.png",
-		"outputAbbreviatedPath": "\/content\/02-info\/envelope.png",
+		"inputAbbreviatedPath": "\/content\/02-info\/email.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/email.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1227,6 +1297,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/content\/02-info\/resume.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 908,
+		"inputAbbreviatedPath": "\/content\/02-info\/resume.png",
+		"outputAbbreviatedPath": "\/content\/02-info\/resume.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/02-info\/skype.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1234,16 +1314,6 @@
 		"initialSize": 2145,
 		"inputAbbreviatedPath": "\/content\/02-info\/skype.png",
 		"outputAbbreviatedPath": "\/content\/02-info\/skype.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/content\/02-info\/text.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 908,
-		"inputAbbreviatedPath": "\/content\/02-info\/text.png",
-		"outputAbbreviatedPath": "\/content\/02-info\/text.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},

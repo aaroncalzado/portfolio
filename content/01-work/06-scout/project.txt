@@ -23,6 +23,8 @@ Scout is designed to make appropriate judgments about it’s user by silently co
 We were inspired by the rapid interactions during speed dating, and wondered 
 how could we combine these concepts with technology and apply them to real world situations.
 
+Dating culture in Seattle sucks. Seattle freeze.
+
 ****
 
 ----
@@ -89,26 +91,68 @@ Your browser does not support the video tag.
 
 ----
 Guts:
-<!-- ##### Process and Ideation
-In order to gain a better understanding of our target demographic and market, we investigated and mapped out the common process and practices of speed dating. We also observed other forms of dating and some of the different components involved in the process.
+##### Initial Research
+
+In order to gain a better understanding of the speed dating process we initially mapped out the process based off of secondary research material found on the web.
+
+(image: speed-dating-map-01.jpg class: projectCenterImageDS link: speed-dating-map-01.jpg width: 75%)
 
 ****
 
-##### System Refinement and Product Development
-While further refining the Scout ecosystem we began to expore the physical design aspect of Scout and its possible uses. We sketched up multiple concepts exploring the shape and form of Scout. We ended up choosing a pedometer/dongle form factor and began physically prototyping with balsa wood and other cheap materials.
+##### Concept and Ideations
 
-**** -->
+An early concept on having an interactive table assist speed daters in conveying their personality traits.
+
+(image: concept-01.jpg class: projectCenterImageDS link: concept-01.jpg width: 75%)
+
+This concept people believe they’re what they seem. We wanted a device that could capture data and metrics about the user and compile it into a comprehensive report objectively detailing what the user is really like.
+
+(image: concept-02.jpg class: projectCenterImageDS link: concept-02.jpg width: 75%)
+
+This concept, we wanted to remove speed daters from the speed dating location and put them in a more natural environment.
+
+(image: concept-03.jpg class: projectCenterImageDS link: concept-03.jpg width: 75%)
+
+We also observed other forms of dating and some of the different components involved in the process.
+
+****
+
+##### Infield Research
+
+Subjected myself to an actual speed dating event.
+
+Pros: No need to initiate, meet a ton of people, like-minded people looking for the same thing
+
+Cons: Not enough time, can be disorganized, men rotate while women don’t have to do as much work
+
+(image: speed-dating-map-02.jpg class: projectCenterImageDS link: speed-dating-map-02.jpg width: 75%)
+
+****
+
+##### Product Development
+While further refining the Scout ecosystem we began to explore the physical design aspect of Scout and its possible uses. We sketched up multiple concepts exploring the shape and form of Scout. We ended up choosing a pedometer/dongle form factor and began physically prototyping with balsa wood and other cheap materials. Screen-less etc.
+
+(image: prototype-details.jpg class: projectCenterImageDS link: prototype-details.jpg width: 75%)
+
+In this diagram, we outlined the product specs and technology required to run Scout.
+
+(image: prototype-flows-and-uses.jpg class: projectCenterImageDS link: prototype-flows-and-uses.jpg width: 75%)
+
+****
 
 ----
 Ending:
 <!-- ##### Retrospect
-To come... -->
+It was a challenge to develop something for the dating subculture in Seattle because it is very subjective/organic/not easy to deal with despite already working off of a structured process like speed dating. Would like to possibly elaborate on the Urban Speed Dating concept. Maybe not rely on a single device to rule everything, rather take a MyFitnessPal approach to address this issue. Use a bunch of different services. -->
 
 ##### Project Role
+
 Concept development, graphics production, video production and editing
 
 ##### Collaborator
+
 (link: http://mileskoons.com/ text: Miles Koons popup: yes)
 
 ##### Advisor
+
 (link: http://www.dominicmuren.com/ text: Dominic Muren popup: yes)
