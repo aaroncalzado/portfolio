@@ -1,20 +1,19 @@
-Title: Kinect × Three Little Pigs
+Title: Scout
 ----
 Subtitle: The devilishly clever device you can’t live without. This subtle little accessory goes where you go, and knows what you know so it can find your perfect match.
 ----
-Caption: Spring 2012, 10 weeks
+Caption: Winter 2012, 10 weeks
 ----
 Credit:
 ----
 Intro:
 
-> **Scout’s purpose is to do two things:** Build an accurate profile
-> of it’s owner and find suitable relationship matches
-> based on these profiles.
+> **Scout’s purpose is to do two things:** Build an accurate profile of it’s owner
+> and find suitable relationship matches based on these profiles.
 
 ****
 
-Scout is designed to make appropriate judgments about it’s user by silently collecting data unsoiled by the user’s biases. This way possible relationships could be found based upon how the users really are. Although this information is shared transparently between Scouts, the actual users can only see what is shared.
+Scout is designed to make appropriate judgments about it’s user by silently collecting data unsoiled by the user’s biases. This way possible relationships could be found based upon how the users really are. Although this information is shared transparently between Scout devices in the backend, the actual users can only see what they choose to share publicly.
 
 (vimeo: https://vimeo.com/38439187 width: 960 height: 540)
 
@@ -31,7 +30,6 @@ Dating culture in Seattle sucks. Seattle freeze.
 Breakdown:
 
 ##### How Scout Works
-Scout gathers data from what you do, what you say, where you go, what you hear, and anything else it’s able to measure with its internal sensors. In addition, it can also communicate with other devices such as smartphones, e-books, computers, and RFID tagged objects to gather more contextual data.
 
 <div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/s/s-01.webm" type="video/webm">
@@ -39,7 +37,7 @@ Scout gathers data from what you do, what you say, where you go, what you hear, 
 Your browser does not support the video tag.
 </video></div>
 
-Using speech transcription algorithms already available in many devices, conversations and audio can be logged, time stamped, and located using the GPS to mark where events happened.
+Scout gathers data from what you do, what you say, where you go, what you hear, and anything else it’s able to measure with its internal sensors. In addition, it can also communicate with other devices such as smartphones, e-books, computers, and RFID tagged objects to gather more contextual data.
 
 <div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/s/s-02.webm" type="video/webm">
@@ -47,7 +45,7 @@ Using speech transcription algorithms already available in many devices, convers
 Your browser does not support the video tag.
 </video></div>
 
-GPS can be used to recognize when the Scout has entered a restaurant, how far the device has traveled, and many other applications.
+Using speech transcription algorithms already available in many devices, conversations and audio can be logged, time stamped, and located using the GPS to mark where events happened.
 
 <div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/s/s-03.webm" type="video/webm">
@@ -55,7 +53,7 @@ GPS can be used to recognize when the Scout has entered a restaurant, how far th
 Your browser does not support the video tag.
 </video></div>
 
-Nearby Scouts are always in communication, making the data they have accumulated useful for comparing profiles and finding new people.
+GPS can be used to recognize when the Scout has entered a restaurant, how far the device has traveled, and many other applications.
 
 <div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/s/s-04.webm" type="video/webm">
@@ -63,7 +61,7 @@ Nearby Scouts are always in communication, making the data they have accumulated
 Your browser does not support the video tag.
 </video></div>
 
-The Scouts communicate with each other either through Bluetooth when they’re within a close enough radius, or through NFC (Near Field Communication) when they’re within a few inches away. All this data is saved on an internal flash drive and uploaded to the user’s online profile through WIFI whenever available.
+Nearby Scouts are always in communication, making the data they have accumulated useful for comparing profiles and finding new people.
 
 <div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/s/s-05.webm" type="video/webm">
@@ -71,7 +69,7 @@ The Scouts communicate with each other either through Bluetooth when they’re w
 Your browser does not support the video tag.
 </video></div>
 
-When a match has been found based on your combined interests, your Scout pings you with a vibration, and the indicator also syncs with your match’s Scout.
+The Scouts communicate with each other either through Bluetooth when they’re within a close enough radius, or through NFC (Near Field Communication) when they’re within a few inches away. All this data is saved on an internal flash drive and uploaded to the user’s online profile through WIFI whenever available.
 
 <div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/s/s-06.webm" type="video/webm">
@@ -79,7 +77,7 @@ When a match has been found based on your combined interests, your Scout pings y
 Your browser does not support the video tag.
 </video></div>
 
-To formally introduce your Scout to someone else’s, all you need to do is tap them together. As we all know, a computer can’t create love, so the rest is up to you.
+When a match has been found based on your combined interests, your Scout pings you with a vibration, and the indicator also syncs with your match’s Scout.
 
 <div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/s/s-07.webm" type="video/webm">
@@ -87,13 +85,16 @@ To formally introduce your Scout to someone else’s, all you need to do is tap 
 Your browser does not support the video tag.
 </video></div>
 
+To formally introduce your Scout to someone else’s, all you need to do is tap them together. As we all know, a computer can’t create love, so the rest is up to you.
+
 ****
 
 ----
 Guts:
-##### Initial Research
 
-To gain a better understanding of the speed dating process we initially mapped out the process based off of secondary research material found on the web.
+##### Design Process
+
+To gain a better understanding of the speed dating process we initially mapped out the a speed dating model based off of secondary research material found on the web.
 
 (image: speed-dating-map-01.jpg class: projectCenterImageDS link: speed-dating-map-01.jpg width: 75%)
 
@@ -101,44 +102,80 @@ To gain a better understanding of the speed dating process we initially mapped o
 
 ****
 
-##### Concept and Ideations
+> Aside from our final concept with Scout, we also explored 
+> other design ideas for dating.
 
-Early on, both Miles and I were interested in the (link: http://www.youtube.com/watch?v=SRU3NemA95k text: Microsoft Surface coffee table popup:yes) concept and wanted to involve some playful interactivity in the speed dating process. For most speed dating virgins, meeting new people and having a time constraint can be nerve-wracking. And more often than not speed daters spend a good part of their speed dates warming up rather than really getting to know their partner. With an interactive table, we were thinking up ideas to assist speed daters on how to effectively hold an engaging speed date conversation.
+****
+
+##### Table Landscape of Interests
+
+Striking up an original, interesting conversation can be difficult, especially when you only have a few minutes and have never met the person before. Since a table is such an integral part of speed dating, why can’t it help fond conversation topics based upon the two people’s interests?
 
 (image: concept-01.jpg class: projectCenterImageDS link: concept-01.jpg width: 75%)
 
-This concept people believe they’re what they seem. We wanted a device that could capture data and metrics about the user and compile it into a comprehensive report objectively detailing what the user is really like.
+Early on, both Miles and I were interested in the (link: http://www.youtube.com/watch?v=SRU3NemA95k text: Microsoft Surface coffee table popup:yes) concept and wanted to involve some playful interactivity in the speed dating process. For most speed dating virgins, meeting new people and having a time constraint can be nerve-wracking and more often than not speed daters spend a good part of their speed dates warming up rather than really getting to know their partner. With the use of an interactive Surface coffee table, we wanted to design a product that could coach speed daters on how to effectively hold an engaging speed date conversation.
+
+##### Black Box: The True You
+
+We all perceive ourselves in a unique way, and in this way, we all build mental models of the people we encounter. No one truly has an unbiased version of themselves or of anyone else, so how can really know who we are, and how can we know what someone is telling us is true? Have you ever been surprised what your voice sounds like a phone message? Or your body language and posture when you’re filmed? The black box is a data recording system that keeps track of everything you do to paint a picture of the true you.
 
 (image: concept-02.jpg class: projectCenterImageDS link: concept-02.jpg width: 75%)
 
-This concept, we wanted to remove speed daters from the speed dating location and put them in a more natural environment.
+Through this black box we wanted to design a device that could capture relevant data per the user’s request and compile it into a comprehensive narrative detailing what the user is really like.
+
+##### Urban Speed Dating
+
+The concept of speed dating is quite simple. You stick two people together, they chat, chemistry is formed, or not, and the rest is history. It’s really not that different from everyday life in some cases. Imagine standing in line for coffee next to someone attractive. You strike up a conversation, things seem to be going well, but they grab their drink and walk off, never to be seen again. What a missed opportunity.
 
 (image: concept-03.jpg class: projectCenterImageDS link: concept-03.jpg width: 75%)
 
-We also observed other forms of dating and some of the different components involved in the process.
+Speed dating is a unique experience, a foreign idea that many people do not experience. One of the benefits of speed dating is the rapid low risk and high reward dating model. Despite being a real form of dating, speed dating still a certain negative stigma attached to it. Why are people so apprehensive about signing up to meet other people who are looking for a relationship? Is it because they’re paying someone to buy them time to talk with 15–20 bachelors and or bachelorettes? Or is it the unusual round-robin setting that turns people off? With urban speed dating we wanted to take the best aspects of speed dating and put them in a more natural environment where the speed daters can take the date at their own pace.
 
 ****
 
 ##### Infield Research
 
-Subjected myself to an actual speed dating event.
+(image: speed-dating.jpg class: projectCenterImageDS link: speed-dating.jpg width: 40%)
 
-Pros: No need to initiate, meet a ton of people, like-minded people looking for the same thing
-
-Cons: Not enough time, can be disorganized, men rotate while women don’t have to do as much work
+To gain a better understanding of our speed dating demographic I participated in an actual (link: http://depts.washington.edu/gpss/social/speed-dating text: speed dating event popup: yes) hosted by the University of Washington. I spent the next two hours at the (link: http://www.washington.edu/facilities/uwtower/ text: UW Tower popup: yes) speed dating UW’s eligible bachelorettes.
 
 (image: speed-dating-map-02.jpg class: projectCenterImageDS link: speed-dating-map-02.jpg width: 75%)
+
+###### An updated version of our speed dating map.
+
+##### Pros
+
+- Speed dating provides a safe environment for both parties.
+- There is no need to worry about initiating a face-to-face conversation when speed dating. People participating are generally open to meeting new people.
+- There was an even amount of participants so everyone was assigned a partner. It was nice to see they accommodated the gay and lesbian demographics. 
+- Since this was a UW hosted event, many of the girls I met were like-minded college students that shared similar values.
+- Cost effectiveness. Instead of spending money on a date for one particular girl, I was able to “date” 15 girls in the span of 90 minutes for the price of free. Most speed dating hosts charge between $20 to $40, which can still be cheaper than an actual date.
+
+##### Cons
+
+- Five minutes of conversation is not nearly enough time to build a meaningful conversation with a date.
+- Being in close proximity of other dates and potential partners can be very distracting.
+- Communication beyond the speed date is handled by the speed dating host after you and your date make note of your mutual interest in each other.
+- This event in particular had over 400 participants and at times felt very disorganized.
+- Meeting and talking to 15 girls at the speed dating pace quickly wore me out. It felt very tedious to reintroduce myself every five minutes.
+
+****
+
+> Ultimately, we decided to combine design elements from the black box concept and urban speed dating to create a unique dating experience that encourages people interact with other likeminded individuals.
 
 ****
 
 ##### Product Development
-While further refining the Scout ecosystem we began to explore the physical design aspect of Scout and its possible uses. We sketched up multiple concepts exploring the shape and form of Scout. We ended up choosing a pedometer/dongle form factor and began physically prototyping with balsa wood and other cheap materials. Screen-less etc.
+
+While further refining Scout’s functionality we began to explore the physical design aspect of Scout and its possible uses. We sketched up multiple concepts exploring the shape and form of the Scout device. We decided on a small dongle form factor and began physically prototyping with balsa wood and other cheap materials. Screen-less etc.
 
 (image: prototype-details.jpg class: projectCenterImageDS link: prototype-details.jpg width: 75%)
 
-In this diagram, we outlined the product specs and technology required to run Scout.
+###### In this diagram we showcase early form sketching, a physical prototype, and some of the use cases for the Scout device.
 
 (image: prototype-flows-and-uses.jpg class: projectCenterImageDS link: prototype-flows-and-uses.jpg width: 75%)
+
+###### In this diagram we outlined the device specs and technology used to run Scout.
 
 ****
 
@@ -149,7 +186,7 @@ It was a challenge to develop something for the dating subculture in Seattle bec
 
 ##### Project Date
 
-Spring 2012, 10 weeks
+Winter 2012, 10 weeks
 
 ##### Project Role
 
