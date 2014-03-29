@@ -460,6 +460,7 @@ blockquote p {
   	-webkit-text-fill-color: transparent; */
   opacity: 0.72;
   font-size: 1.32rem;
+  font-style: italic;
   font-weight: 300;
   line-height: 2.12rem;
   margin: 24px auto 0 auto;
@@ -496,6 +497,19 @@ blockquote p {
   border-bottom: 1px solid mediumseagreen;
   color: mediumseagreen;
   text-decoration: none; }
+
+.copyBody ul li {
+  color: #333333;
+  list-style-type: circle;
+  margin: 16px auto 0 auto;
+  text-align: left;
+  width: 640px; }
+
+.copyBody ol li {
+  color: #333333;
+  margin: 16px auto 0 auto;
+  text-align: left;
+  width: 640px; }
 
 /* Images START */
 .centerImage,
@@ -591,6 +605,9 @@ h6 a:hover {
 .bareVideo {
   margin: 24px auto 0 auto;
   text-align: center; }
+
+.bareVideo + p {
+  margin: 0 auto 32px auto; }
 
 .ctpbw {
   background: url("http://aaroncalzado.com/portfolio/assets/images/ctpbw.svg") no-repeat top center;
