@@ -9,7 +9,7 @@ Credit:
 Text:
 (image: physical-01.jpg width: 75% class: projectCenterImageDS)
 
-<div class="projectImageCaption">The word “svergognato” is an Italian word that roughly translates to “shameless” in English.</div>
+###### The word “svergognato” is an Italian word that roughly translates to “shameless” in English.
 
 (image: physical-02.jpg width: 75% class: projectCenterImageDS)
 
