@@ -107,11 +107,13 @@ Once we refined our models a higher fidelity mockup of our model is then created
 ###### This model in particular is a breakdown of different things one may consider when scheduling an event. This helped us distinguish the differences in scheduling events for work and play and helped narrow down what type of situation we want to design for. As a group we decided to design a calendar that encourages spontaneous meetings among friends with smartphones.
 
 ##### Paper Sketching
+
 After figuring out our target demographic we want to design for, we began sketching interface designs.
 
 (image: sketches-compiled.jpg class: projectCenterImageDS link: sketches-compiled.jpg popup: yes width: 100%)
 
 ##### Digital Wireframing
+
 Here are examples of early digital mockups to test out how our design sketches would possibly look on screen. Some design elements from these prototypes were later implemented into our final design with updated visual graphics.
 
 (image: wireframe-compiled.png class: projectCenterImage link: wireframe-compiled.png popup: yes width: 100%)
@@ -128,13 +130,17 @@ Ending:
 http://www.tymelineapp.com/ -->
 
 ##### Project Date
+
 Fall 2011, 10 weeks
 
 ##### Project Role
+
 Concept development, graphics production, video production and editing
 
 ##### Design Team
+
 (link: http://robertbeyerdesign.com/ text: Robert Beyer popup: yes), (link: http://www.usererrors.com/kimberley/ text: Kimberley Dietermann popup: yes), Brian Hsu
 
 ##### Advisor
+
 (link: http://dub.washington.edu/people/axel-roesler text: Axel Roesler popup: yes)
