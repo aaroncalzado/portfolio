@@ -17,12 +17,12 @@ Scout is designed to make appropriate judgments about it’s user by silently co
 
 (vimeo: https://vimeo.com/38439187 width: 960 height: 540)
 
-##### Why?
+<!-- ##### Why?
 
 We were inspired by the rapid interactions during speed dating, and wondered 
 how could we combine these concepts with technology and apply them to real world situations.
 
-Dating culture in Seattle sucks. Seattle freeze.
+Dating culture in Seattle sucks. Seattle freeze. -->
 
 ****
 

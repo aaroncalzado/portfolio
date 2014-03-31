@@ -36,7 +36,23 @@ We created a simple diagram outlining the basic functions and materials required
 
 ##### Process Sketches and Ideations
 
-Despite being illegible outside of the design context at the time, here are excerpt process sketches that were used in the development of the Hiatus Chair.
+<!-- Despite being illegible outside of the design context at the time, here are excerpt process sketches that were used in the development of the Hiatus Chair. -->
+
+(image: sketch-01.jpg class: projectCenterImageDS link: sketch-01.jpg width: 75%)
+
+###### Initial sketches on materials and chair mechanics.
+
+(image: sketch-02.jpg class: projectCenterImageDS link: sketch-02.jpg width: 75%)
+
+###### Early motor arm ideas and code outline.
+
+(image: sketch-03.jpg class: projectCenterImageDS link: sketch-03.jpg width: 75%)
+
+###### Measurements for the chair’s gut.
+
+(image: sketch-04.jpg class: projectCenterImageDS link: sketch-04.jpg width: 75%)
+
+###### Measurements for the chair’s gut and wiring notes.
 
 ****
 
