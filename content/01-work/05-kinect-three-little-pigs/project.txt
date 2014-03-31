@@ -11,7 +11,13 @@ Intro:
 
 ****
 
+Our interactive book project engages young readers in a narrative encounter reminiscent of reading with an adult while offering enhanced avenues of exploration utilizing the Kinect experience.
+
 (vimeo: https://vimeo.com/38066128 width: 960 height: 540)
+
+##### Why?
+
+When an adult reads with a young child, they provide a host of well-documented benefits that support a lifetime of good reading habits and promote early reading. Our design for an interactive book shares a number of behaviors and affordances with this model and is optimized for new and pre-readers. The interactions are designed to mediate and guide young readers through the conventions that determine narrative flow. Narrative structure appeals to young children’s affnity for predictable outcomes, empowering young readers and facilitating immersion. The book is adaptive to the level of involvement exhibited by the child, ranging from continual progression of the story to direct investigation of items and text. In addition, multiple pathways of interaction, including gesture, posture, and voice, enhance the interactive experience and promote kinesthetic learning. In addition to simulating the adult/child reading dynamic, the use of the Kinect aords an additional layer of interaction. Manipulation of the ‘fourth wall’ and characters’ interaction with typography highlights the relationship between the written word, the images and ideas they relate to, and the narrative structure. This enhances word/object correlation.
 
 ****
 
@@ -29,28 +35,144 @@ In contrast to video games or multi-path books our design concept is intended to
 Guts:
 
 ##### Design Process
-Throughout the development process of our interactive storybook we used a variety of methods to prototype and test out our ideas in a low-stakes low-fidelity fashion. We produced concept boards working out the underlying system of how our product works and generated sketches and videos to visualize our concept in use. Alongside the development process, we were learning about the uses of gestural input from Kay Hofmeester and explored the capabilities of the Kinect and how it can supplement our design concept.
 
-****
+Throughout the development process of our interactive storybook we used a variety of methods to prototype and test out our ideas in a low-stakes low-fidelity fashion.
 
-##### Concept Development
+(vimeo: https://vimeo.com/35828775 width: 640 height: 360)
+
+We produced concept boards working out the underlying system of how our product works and generated sketches and videos to visualize our concept in use. Alongside the development process, we were learning about the uses of gestural input from Kay Hofmeester and explored the capabilities of the Kinect and how it can supplement our design concept.
+
+##### Initial Concept
+
+(image: interaction-storyboard-01.jpg class: projectCenterImageDS link: interaction-storyboard-01.jpg width: 66%)
+
+###### Interaction storyboard pages 1–3 by Kim Lewis
+
+(image: interaction-storyboard-02.jpg class: projectCenterImageDS link: interaction-storyboard-02.jpg width: 66%)
+
+###### Interaction storyboard pages 4–6 by Kim Lewis
+
+(image: interaction-storyboard-03.jpg class: projectCenterImageDS link: interaction-storyboard-03.jpg width: 66%)
+
+###### Interaction storyboard pages 7–9 by Kim Lewis
+
+##### Further Concept Development and Video Prototyping
+
 As a group, we found storyboarding and producing rough video cuts to be the most effective way to present and critique our design ideas.
 
-Video prototype of our storyboard in motion
+(image: storyboard-01.jpg class: projectCenterImageDS link: storyboard-01.jpg width: 75%)
+
+###### Passive Interaction storyboard by Jill Moses and video demo by Aaron Calzado
+
+(image: storyboard-02.jpg class: projectCenterImageDS link: storyboard-02.jpg width: 75%)
+
+###### Question Process storyboard by Dave Opincariu
+
+(image: storyboard-03.jpg class: projectCenterImageDS link: storyboard-03.jpg width: 75%)
+
+###### First page of final act storyboard by Kim Lewis and video demo by Aaron Calzado
+
+(image: storyboard-04.jpg class: projectCenterImageDS link: storyboard-04.jpg width: 75%)
+
+###### Second page of final act storyboard by Kim Lewis and video demo by Aaron Calzado
 
 ****
 
 ##### Creating a Gesture Language
+
+(image: gesture-01.jpg class: projectCenterImageDS link: gesture-01.jpg width: 75%)
+
+(image: gesture-02.jpg class: projectCenterImageDS link: gesture-02.jpg width: 75%)
+
 We explored an array of possible gestures we could implement into our interactive storybook, but decided to make the gestural inputs a supplementary feature and limit them to a selected few to work.
 
-Video prototype of our proposed gestures and storybook activities
+(vimeo: https://vimeo.com/36663296 width: 640 height: 360)
 
 ****
 
-##### Visual Communication Design
-To create the a child-like storybook fitting for our target demographic, we analyzed visuals and illustration styles found in popular children’s entertainment.
+##### Visual Style
 
-Video of our proposed visual look and feel
+Our graphic style was inspired by keeping the elements of a storybook, yet embracing the new medium of the Kinect. We wanted young readers to feel connected to the characters and pay attention to the physical act of reading while interacting with our book. To create the a child-like storybook fitting for our target demographic, we analyzed visuals and illustration styles found in popular children’s entertainment.
+
+Some main components of our graphical style include breaking the fourth wall, dynamic and interesting perspectives, playing with typography, and maintaining a simple sketch-like quality to our illustrations. We felt that this style was appropriate for small children because it would keep them interested in the story. We picked up on these techniques by examining several popular children’s books and television shows.
+
+We intend to use a panning effect to navigate through scenes, which creates smooth transitions and allows the reader to get lost in the story without the distraction of “flipping the page.”
+
+(image: moodboard-01.jpg class: projectCenterImageDS link: moodboard-01.jpg width: 75%)
+
+(image: moodboard-02.jpg class: projectCenterImageDS link: moodboard-02.jpg width: 75%)
+
+(image: moodboard-03.jpg class: projectCenterImageDS link: moodboard-03.jpg width: 75%)
+
+##### Color
+
+We chose a few simple, cohesive color palettes for our story. The general background contains a muted texture to imitate the feeling of a storybook and keep an analogous appearance across scenes.
+
+(image: colors.jpg class: projectCenterImage link: colors.jpg width: 100%)
+
+###### Within the palettes that we chose, the colors are warm and inviting, which matches the tone that we are striving for.
+
+Components of a scene that are not key in the current interaction will remain either grey or monochromatic. The eect will be a greater focus on the important content, allowing the child to follow the story and be more aware of the actions that they are prompted to perform.
+
+<!-- (image: of background that is grayed out) -->
+
+##### Gesture Guidance
+
+An important component of the interactions in our storybook are the visual cues presented on screen, which let the child know which actions they must perform. One method we are using to achieve this is a small pig avatar in the lower left corner. This piglet lets the reader know whether they are in sitting or standing mode, as well as helping the child by physically acting out the gestures the child must perform.
+
+##### Type Interactions
+
+Other visual cues provided include a real-time version of the child’s gestures represented in the body of the wolf or pig when an interaction is required. Since the background is fairly muted, color will also be used to indicate which actions need to occur by highlighting what the child should pay attention to.
+
+##### Do You Have A Question?
+
+An interesting component of the interaction in our story includes the ability of the child and characters to interact with the type. An example of this is when the child must pick the word turnip three times to progress the story. If the child decides to ask a question about the content by raising their hand, the screen will grey out except for the content with definitions in the system. The child will then see a blue marker on the screen which allows them to select what they would like to know about. For example, they can highlight a portion of the text to have it read to them, or select the wolf to see what he is called and receive a definition.
+
+****
+
+##### System Typeface & Typography Guidelines
+
+For the typography in our interactive story we chose several different typefaces that would work well together, yet contrast enough for the reader to recognize shifts in dialogue. We chose to display body copy in Archer because it is a friendly slab serif that matches the visual style of a traditional storybook, as well as our visual style.
+
+(image: typography-narrator.png class: projectCenterImage link: typography-narrator.png width: 66%)
+
+##### Little Pig Typeface
+
+For the dialogue of the pigs we selected Gotham Rounded. We felt that it reflected their cheeky personalities, and the roundness emulated the feeling of a pig.
+
+(image: typography-pig.png class: projectCenterImage link: typography-pig.png width: 66%)
+
+##### Big Bad Wolf Typeface
+
+And finally, for the wolf’s dialogue, we chose Tungsten Medium because it reflects his tough exterior and cunning demeanor.
+
+(image: typography-wolf-01.png class: projectCenterImage link: typography-wolf-01.png width: 66%)
+
+In order to keep the child interested in the content of the story and focused on reading, we have added many playful elements to the type. For example, when the wolf comes to blow down the pig’s house, the reader is prompted with repeating the sentence, “Then I’ll huff, and I’ll puff, and I’ll blow your house in.” The type grows larger depending on the child’s volume, adding to the playfulness.
+
+(image: typography-wolf-02.png class: projectCenterImage link: typography-wolf-02.png width: 66%)
+
+(image: typography-wolf-03.png class: projectCenterImage link: typography-wolf-03.png width: 66%)
+
+(image: typography-wolf-04.png class: projectCenterImage link: typography-wolf-04.png width: 66%)
+
+Occasionally, the type also becomes an informative tool for learning about certain objects in the scene. When the reader pulls the turnip out of the ground, the bottom half of the vegetable states, “turnip,” creating a word-to-object association.
+
+****
+
+##### Final Visual Style
+
+(vimeo: https://vimeo.com/60150732 width: 640 height: 360)
+
+****
+
+##### Movie
+
+Putting the concept in context.
+
+(image: movie-storyboard.jpg class: projectCenterImageDS link: movie-storyboard.jpg width: 75%)
+
+###### Movie storyboard drawn up by teammate Kim Lewis.
 
 ****
 
