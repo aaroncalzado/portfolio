@@ -458,7 +458,7 @@ blockquote p {
   /* background: -webkit-gradient(linear,left top,left bottom,from($houseColor),to(#646F5E));
   	-webkit-background-clip: text;
   	-webkit-text-fill-color: transparent; */
-  opacity: 0.72;
+  opacity: 0.80;
   font-size: 1.32rem;
   font-style: italic;
   font-weight: 300;
