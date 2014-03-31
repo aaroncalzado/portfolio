@@ -36,4 +36,4 @@ Thumbs.db
 config.codekit
 config-live.php
 config-local.php
-config.php
+site/config/config.php
