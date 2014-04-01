@@ -11,13 +11,13 @@ Intro:
 
 ****
 
-Our interactive book project engages young readers in a narrative encounter reminiscent of reading with an adult while offering enhanced avenues of exploration utilizing the Kinect experience.
+Our interactive book project engages young readers in a narrative encounter reminiscent of reading with an adult while offering enhanced avenues of exploration utilizing the Kinect experience.
 
 (vimeo: https://vimeo.com/38066128 width: 960 height: 540)
 
 ##### Why?
 
-When an adult reads with a young child, they provide a host of well-documented benefits that support a lifetime of good reading habits and promote early reading. Our design for an interactive book shares a number of behaviors and affordances with this model and is optimized for new and pre-readers. The interactions are designed to mediate and guide young readers through the conventions that determine narrative flow. Narrative structure appeals to young children’s affnity for predictable outcomes, empowering young readers and facilitating immersion. The book is adaptive to the level of involvement exhibited by the child, ranging from continual progression of the story to direct investigation of items and text. In addition, multiple pathways of interaction, including gesture, posture, and voice, enhance the interactive experience and promote kinesthetic learning. In addition to simulating the adult/child reading dynamic, the use of the Kinect aords an additional layer of interaction. Manipulation of the ‘fourth wall’ and characters’ interaction with typography highlights the relationship between the written word, the images and ideas they relate to, and the narrative structure. This enhances word/object correlation.
+When an adult reads with a young child, they provide a host of well-documented benefits that support a lifetime of good reading habits and promote early reading. Our design for an interactive book shares a number of behaviors and affordances with this model and is optimized for new and pre-readers. The interactions are designed to mediate and guide young readers through the conventions that determine narrative flow. Narrative structure appeals to young children’s affinity for predictable outcomes, empowering young readers and facilitating immersion. The book is adaptive to the level of involvement exhibited by the child, ranging from continual progression of the story to direct investigation of items and text. In addition, multiple pathways of interaction, including gesture, posture, and voice, enhance the interactive experience and promote kinesthetic learning. In addition to simulating the adult/child reading dynamic, the use of the Kinect affords an additional layer of interaction. Manipulation of the ‘fourth wall’ and characters’ interaction with typography highlights the relationship between the written word, the images and ideas they relate to, and the narrative structure. This enhances word/object correlation.
 
 ****
 
@@ -25,9 +25,9 @@ When an adult reads with a young child, they provide a host of well-documented b
 Breakdown:
 
 ##### Design Concept
-We crafted a version of The Three Little Pigs that will engage early readers in an interactive experience while maintaining the familiar structure and flow of a traditional narrative. Unlike other interactive experiences, our book maintains the linier structure of conventional storytelling but affords the child an opportunity to immerse themselves in the narrative. At the same time, the child has the opportunity to explore words or images further, thus investing them in the reading experience. Alternatively, should the child desire a more passive experience, the book would sense a lower activity level and continue without waiting for interactions.
+We crafted a version of The Three Little Pigs that will engage early readers in an interactive experience while maintaining the familiar structure and flow of a traditional narrative. Unlike other interactive experiences, our book maintains the linear structure of conventional storytelling but affords the child an opportunity to immerse themselves in the narrative. At the same time, the child has the opportunity to explore words or images further, thus investing them in the reading experience. Alternatively, should the child desire a more passive experience, the book would sense a lower activity level and continue without waiting for interactions.
 
-In contrast to video games or multi-path books our design concept is intended to retain a linier narrative. Young children enjoy predictable outcomes and are willing experiencing the same story over and over. Predicting the flow of the story is empowering for children and aids in the assimilation of reading skills. While the sandbox model may be exciting for an adult to explore, having an ustructured story can cause a child to lose interest. The interactions in the “Three Little Pigs” we developed for the Xbox Kinect is intended to engage children and promote kinesthetic learning.
+In contrast to video games or multi-path books our design concept is intended to retain a linear narrative. Young children enjoy predictable outcomes and are willing experiencing the same story over and over. Predicting the flow of the story is empowering for children and aids in the assimilation of reading skills. While the sandbox model may be exciting for an adult to explore, having an unstructured story can cause a child to lose interest. The interactions in the “Three Little Pigs” we developed for the Xbox Kinect is intended to engage children and promote kinesthetic learning.
 
 ****
 
@@ -112,7 +112,7 @@ We chose a few simple, cohesive color palettes for our story. The general backgr
 
 ###### Within the palettes that we chose, the colors are warm and inviting, which matches the tone that we are striving for.
 
-Components of a scene that are not key in the current interaction will remain either grey or monochromatic. The eect will be a greater focus on the important content, allowing the child to follow the story and be more aware of the actions that they are prompted to perform.
+Components of a scene that are not key in the current interaction will remain either grey or monochromatic. The effect will be a greater focus on the important content, allowing the child to follow the story and be more aware of the actions that they are prompted to perform.
 
 <!-- (image: of background that is grayed out) -->
 
@@ -132,7 +132,7 @@ An interesting component of the interaction in our story includes the ability of
 
 ##### System Typeface & Typography Guidelines
 
-For the typography in our interactive story we chose several different typefaces that would work well together, yet contrast enough for the reader to recognize shifts in dialogue. We chose to display body copy in Archer because it is a friendly slab serif that matches the visual style of a traditional storybook, as well as our visual style.
+For the typography in our interactive story we chose several different typefaces that would work well together, yet contrast enough for the reader to recognize shifts in dialogue. We chose to display body copy in Archer because it is a friendly slab serif that matches the visual style of a traditional storybook, as well as our visual style.
 
 (image: typography-narrator.png class: projectCenterImage link: typography-narrator.png width: 66%)
 
