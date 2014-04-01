@@ -1,4 +1,5 @@
-/* #Reset & Basics (Inspired by E. Meyers) */
+/* #Reset & Basics (Inspired by E. Meyers)
+****************************************/
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   border: 0;
   font-size: 100%;
@@ -28,7 +29,8 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* Layout and Global Shit START */
+/* Layout and Global Shit
+****************************************/
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -160,7 +162,7 @@ hr {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   height: 0;
-  margin: 32px auto 8px auto;
+  margin: 40px auto 8px auto;
   width: 320px; }
 
 @media only screen and (max-width: 639px) {
@@ -261,7 +263,8 @@ hr {
     /* The space between the hero-image and copy */
     text-align: center;
     width: 320px; } }
-/* Home typography START */
+/* Home Typography
+****************************************/
 h2 {
   color: snow;
   font-size: 1.32rem;
@@ -334,11 +337,11 @@ a:visited {
   .copyMastHome {
     top: 16%;
     width: 320px; } }
-/* Home typography END */
-/* Typography START */
+/* Typography
+****************************************/
 p {
   color: #333333;
-  margin: 16px auto 0 auto;
+  margin: 32px auto 0 auto;
   padding-top: 8px;
   text-align: left;
   width: 640px; }
@@ -438,7 +441,7 @@ h5 {
   /* Headers for bodies in Project page */
   font-weight: 600;
   font-size: 116%;
-  margin: 16px auto 0 auto;
+  margin: 32px auto 0 auto;
   padding: 8px 0 0 0;
   width: 640px;
   text-align: left; }
@@ -470,10 +473,6 @@ blockquote p {
 @media only screen and (max-width: 959px) {
   blockquote p {
     width: 100%; } }
-.caption {
-  color: snow;
-  opacity: 0.72; }
-
 .photoCred {
   color: snow;
   font-size: 0.72rem;
@@ -501,17 +500,18 @@ blockquote p {
 .copyBody ul li {
   color: #333333;
   list-style-type: circle;
-  margin: 16px auto 0 auto;
+  margin: 32px auto 0 auto;
   text-align: left;
   width: 640px; }
 
 .copyBody ol li {
   color: #333333;
-  margin: 16px auto 0 auto;
+  margin: 32px auto 0 auto;
   text-align: left;
   width: 640px; }
 
-/* Images START */
+/* Images
+****************************************/
 .centerImage,
 .infoCenterImage,
 .projectCenterImage,
@@ -541,21 +541,17 @@ img.workCenterImageDS {
 .copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
 .copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,
 .copyBody p a.projectCenterImageDS, .copyBody p a:active.projectCenterImageDS, .copyBody p a:hover.projectCenterImageDS, .copyBody p a:visited.projectCenterImageDS,
-.copyBody p a.projectCenterImage, .copyBody p a:active.projectCenterImageDS, .copyBody p a:hover.projectCenterImageDS, .copyBody p a:visited.projectCenterImageDS,
+.copyBody p a.projectCenterImage, .copyBody p a:active.projectCenterImage, .copyBody p a:hover.projectCenterImage, .copyBody p a:visited.projectCenterImage,
 .copyBody p a.workCenterImageDS, .copyBody p a:active.workCenterImageDS, .copyBody p a:hover.workCenterImageDS, .copyBody p a:visited.workCenterImageDS,
 .copyBody p a.workCenterImage, .copyBody p a:active.workCenterImage, .copyBody p a:hover.workCenterImage, .copyBody p a:visited.workCenterImage {
   border: none; }
 
-.workImageCaption,
-.projectImageCaption,
 h6 {
-  color: #333333;
+  color: #999999;
   font-size: .88rem;
   font-style: italic;
   font-weight: 300;
-  margin: 16px auto 0 auto;
-  opacity: 0.32;
-  /*	padding: 0 24% 0 24%; */
+  margin: 0 auto 0 auto;
   text-align: left;
   width: 640px; }
 
@@ -569,8 +565,8 @@ h6 {
 h6 a,
 a:active,
 a:visited {
-  border-bottom: 1px solid #333333;
-  color: #333333;
+  border-bottom: 1px solid #999999;
+  color: #999999;
   text-decoration: none; }
 
 h6 a:hover {
@@ -596,7 +592,8 @@ h6 a:hover {
   text-align: center;
   width: 240px; }
 
-/* Video Stuff */
+/* Video Stuff
+****************************************/
 .video-container {
   margin-top: 24px auto 0 auto;
   padding-top: 24px;
@@ -674,20 +671,3 @@ h6 a:hover {
   .ip4vv {
     padding-top: 31px;
     height: 196px; } }
-/* .ip4f {
-	position: relative;
-	text-align: center;
-	z-index:-1;
-}
-.ip4vv {
-	margin:0 0 -405px 0;
-	position: relative;
-	text-align: center;
-	top:-484px;
-}
-.ip4vh {
-	margin:0 0 -284px 0;
-	position: relative;
-	text-align: center;
-	top:-311px;
-} */
