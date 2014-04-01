@@ -198,25 +198,21 @@ hr {
 	}
 }
 .heroImageHome, .containerMastHome { /* Home background fullscreen */
-	background: rgba(0, 0, 0, 0.4);
-	/* background-image: linear-gradient(to bottom right, #002f4b, #dc4225); Gradient image*/
+	background: rgba(0, 0, 0, 0.48);
 	height: 100%;
-	/* opacity: .6; */
 	position: relative;
 	width: 100%;
 }
 @media only screen and (max-width: 639px) {
 	.heroImageHome, .containerMastHome { /* Home background fullscreen */
-		background: rgba(0, 0, 0, 0.4);
-		/* background-image: linear-gradient(to bottom right, #002f4b, #dc4225); Gradient image*/
+		background: rgba(0, 0, 0, 0.48);
 		height: 556px;
-		/* opacity: .6; */
 		position: relative;
 		width: 100%;
 	}
 }
 .containerMast {
-	background: rgba(0, 0, 0, 0.4);
+	background: rgba(0, 0, 0, 0.48);
 	height: auto;
 	min-height: 480px;
 	position: relative;
