@@ -21,16 +21,13 @@ One of the major disadvantages in leading a sedentary lifestyle includes greatly
 ----
 Guts:
 
-##### Design Process
+##### Initial Design Concept
+
 We created a simple diagram outlining the basic functions and materials required for our chair.
 
 (image: concept-diagram.jpg class: projectCenterImageDS link: concept-diagram.jpg width: 75%)
 
 ###### This diagram allowed us to plan out our next steps, and assess what electrical components and Arduino programming we might need.
-
-(image: code.png class: projectCenterImage width: 75%)
-
-###### For the next several weeks, we worked hard to develop working code for the Arduino. For this chair we needed the Arduino to keep track of time spent sitting down and time spent taking a break. We also needed to instruct the Arduino to sense and activate the appropriate microswitches for the chair’s motor. You can view the source on (link: https://github.com/aaroncalzado/hiatus text: GitHub popup:yes).
 
 ****
 
@@ -53,6 +50,16 @@ We created a simple diagram outlining the basic functions and materials required
 (image: sketch-04.jpg class: projectCenterImageDS link: sketch-04.jpg width: 75%)
 
 ###### Measurements for the chair’s gut and wiring notes.
+
+****
+
+##### Coding
+
+For the next several weeks, we worked hard to develop working code for the Arduino. For this chair we needed the Arduino to keep track of time spent sitting down and time spent taking a break. We also needed to instruct the Arduino to sense and activate the appropriate microswitches for the chair’s motor.
+
+(image: code.png class: projectCenterImage width: 75%)
+
+###### You can view the source on (link: https://github.com/aaroncalzado/hiatus text: GitHub popup:yes).
 
 ****
 
