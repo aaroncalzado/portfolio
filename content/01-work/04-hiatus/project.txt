@@ -53,17 +53,13 @@ We created a simple diagram outlining the basic functions and materials required
 
 ****
 
-##### Coding
+##### Coding and Hiatus “Brain” Development
 
 For the next several weeks, we worked hard to develop working code for the Arduino. For this chair we needed the Arduino to keep track of time spent sitting down and time spent taking a break. We also needed to instruct the Arduino to sense and activate the appropriate microswitches for the chair’s motor.
 
 (image: code.png class: projectCenterImage width: 75%)
 
 ###### You can view the source on (link: https://github.com/aaroncalzado/hiatus text: GitHub popup:yes).
-
-****
-
-##### Chair “Brain” Development
 
 These are images showcasing the prototyping process and development of the chair brain and its components.
 
@@ -128,6 +124,7 @@ These were critical things we lacked during the development of the Hiatus chair.
 ##### External Links
 
 (link: http://tangibleinteractionuw.blogspot.com/2012/06/aaron-and-kelly-final-project-hiatus.html text: Tangible Interaction UW: Aaron and Kelly Final Project: The Hiatus Chair)
+(link: https://github.com/aaroncalzado/hiatus text: Hiatus source code on GitHub popup:yes)
 
 ##### Project Role
 
@@ -141,5 +138,5 @@ Concept development, graphics production, fabrication, research, software coding
 
 (link: http://www.dominicmuren.com/ text: Dominic Muren popup: yes)
 
-##### Special Thanks
-(link: http://tom.conroy.com.au/ text: Tom Conroy popup: yes), John, (link: http://sjkinslow.com/ text: Sara Jo Kinslow popup: yes), (link: http://www.daeilkwon.com/ text: Dae Kwon popup: yes)
+<!-- ##### Special Thanks
+(link: http://tom.conroy.com.au/ text: Tom Conroy popup: yes), John, (link: http://sjkinslow.com/ text: Sara Jo Kinslow popup: yes), (link: http://www.daeilkwon.com/ text: Dae Kwon popup: yes) -->
