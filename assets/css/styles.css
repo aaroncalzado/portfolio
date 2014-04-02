@@ -496,13 +496,13 @@ blockquote p {
 .copyBody ul li {
   color: #333333;
   list-style-type: circle;
-  margin: 32px auto 0 auto;
+  margin: 8px auto 0 auto;
   text-align: left;
   width: 640px; }
 
 .copyBody ol li {
   color: #333333;
-  margin: 32px auto 0 auto;
+  margin: 8px auto 0 auto;
   text-align: left;
   width: 640px; }
 

@@ -18,6 +18,8 @@ $copyMarginDesktop: 32px auto 0 auto;
 $copyMarginPhone: 32px 8px 0 8px;
 $captionMarginDesktop: 0 auto 0 auto;
 $captionMarginPhone: 0 8px 0 8px;
+$listsMarginDesktop: 8px auto 0 auto;
+
 
 $buttonRadius: 4px;
 
@@ -560,13 +562,13 @@ blockquote p {
 .copyBody ul li {
 	color: $color;
 	list-style-type: circle;
-	margin: $copyMarginDesktop;
+	margin: $listsMarginDesktop;
 	text-align: left;
 	width: $copyWidth;
 }
 .copyBody ol li {
 	color: $color;
-	margin: $copyMarginDesktop;
+	margin: $listsMarginDesktop;
 	text-align: left;
 	width: $copyWidth;
 }
