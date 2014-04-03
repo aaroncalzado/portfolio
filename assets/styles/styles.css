@@ -337,7 +337,7 @@ a:visited {
 ****************************************/
 p {
   color: #333333;
-  margin: 32px auto 0 auto;
+  margin: 24px auto 0 auto;
   padding-top: 8px;
   text-align: left;
   width: 640px; }
@@ -437,7 +437,7 @@ h5 {
   /* Headers for bodies in Project page */
   font-weight: 600;
   font-size: 116%;
-  margin: 32px auto 0 auto;
+  margin: 24px auto 0 auto;
   padding: 8px 0 0 0;
   width: 640px;
   text-align: left; }
