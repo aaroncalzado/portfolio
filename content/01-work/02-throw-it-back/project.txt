@@ -1,14 +1,10 @@
 Title: Throw It Back!
 ----
-Subtitle: Today, radical changes in waste technology and management are happening at a rapid pace, but even with the most current up-to-date technology we still fall short in educating the general public on proper waste management practices.
+Subtitle: Radical changes in waste technology and management are happening at a rapid pace, but even with the most current up-to-date technology we still fall short in educating the general public on proper waste management practices. How can we encourage University of Washington citizens to properly dispose of their trash?
 ----
 Intro:
-> How can we get University of Washington citizens to
-> properly dispose of their trash?
 
-****
-
-_Throw It Back!_ is a waste management system designed to inform and educate the general public on good waste management practices through the use of a low-cost interchangeable signage system that adapts to current waste trends. By focusing on specific sites with high waste traffic, site monitors can follow waste trends and react accordingly to divert recyclable material from our ever growing landfills.
+Throw It Back! is a waste management system designed to inform and educate the general public on good waste management practices through the use of a low-cost interchangeable signage system that adapts to current waste trends. By focusing on specific sites with high waste traffic, site monitors can follow waste trends and react accordingly to divert recyclable material from our ever growing landfills.
 
 (vimeo: https://vimeo.com/67619202 width: 960 height: 540)
 

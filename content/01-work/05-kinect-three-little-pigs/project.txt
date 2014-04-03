@@ -1,17 +1,14 @@
 Title: Kinect × Three Little Pigs
 ----
-Subtitle: A new way to experience the traditional art of storytelling.
+Subtitle: Utilizing modern sensors like the Microsoft Kinect, how can we take advantage of its technology to enhance the reading experience between a parent and child?
 ----
 Caption: Winter 2012, 10 weeks
 ----
 Credit:
 ----
 Intro:
-> Sharing a storybook with a child can be one of the most entertaining and rewarding experiences a parent can do for a child. Utilizing modern technology like the Microsoft Kinect, how can we envision a new way of reading a storybook between a parent and child?
 
-****
-
-Our interactive book project engages young readers in a narrative encounter reminiscent of reading with an adult while offering enhanced avenues of exploration utilizing the Kinect experience.
+Sharing a storybook with a child can be one of the most rewarding experiences a parent can do for a child. Kinect × Three Little Pigs is an interactive storybook that explore new ways young readers can experience the traditional art of storytelling. Our interactive book is designed to captivate young readers with a narrative reminiscent of reading with an adult through the use of graphically enhanced visuals and engaging interactions.
 
 (vimeo: https://vimeo.com/38066128 width: 960 height: 540)
 
@@ -55,6 +52,14 @@ We produced concept boards working out the underlying system of how our product 
 (image: interaction-storyboard-03.jpg class: projectCenterImageDS link: interaction-storyboard-03.jpg width: 66%)
 
 ###### Interaction storyboard pages 7–9 by Kim Lewis
+
+##### Interaction Flowchart
+
+Teammate Dave Opincariu drafted up an interaction flowchart based off of our group meetings and discussions. This flowchart was used as a rough outline to plan out the different interactions we thought about including into our interactive story book.
+
+(image: interaction-flow.jpg class: projectCenterImageDS link: interaction-flow.pdf popup: yes width: 40%)
+
+###### (link: interaction-flow.pdf text: Full view of interaction flowchart popup: yes) by Dave Opincariu
 
 ##### Further Concept Development and Video Prototyping
 
