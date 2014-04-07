@@ -99,15 +99,19 @@ We explored an array of possible gestures we could implement into our interactiv
 
 Our graphic style was inspired by keeping the elements of a storybook, yet embracing the new medium of the Kinect. We wanted young readers to feel connected to the characters and pay attention to the physical act of reading while interacting with our book. To create the a child-like storybook fitting for our target demographic, we analyzed visuals and illustration styles found in popular children’s entertainment.
 
+(image: mood-board-01.jpg class: projectCenterImageDS link: mood-board-01.jpg width: 75%)
+
+###### Mood board of visuals.
+
 Some main components of our graphical style include breaking the fourth wall, dynamic and interesting perspectives, playing with typography, and maintaining a simple sketch-like quality to our illustrations. We felt that this style was appropriate for small children because it would keep them interested in the story. We picked up on these techniques by examining several popular children’s books and television shows.
+
+(image: mood-board-02.jpg class: projectCenterImageDS link: mood-board-02.jpg width: 75%)
 
 We intend to use a panning effect to navigate through scenes, which creates smooth transitions and allows the reader to get lost in the story without the distraction of “flipping the page.”
 
-(image: moodboard-01.jpg class: projectCenterImageDS link: moodboard-01.jpg width: 75%)
+(image: mood-board-03.jpg class: projectCenterImageDS link: mood-board-03.jpg width: 75%)
 
-(image: moodboard-02.jpg class: projectCenterImageDS link: moodboard-02.jpg width: 75%)
-
-(image: moodboard-03.jpg class: projectCenterImageDS link: moodboard-03.jpg width: 75%)
+###### Mood board of storybook spreads.
 
 ##### Color
 
