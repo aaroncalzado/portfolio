@@ -14,12 +14,22 @@ Sharing a storybook with a child can be one of the most rewarding experiences a 
 
 ##### Why?
 
-When an adult reads with a young child, they provide a host of well-documented benefits that support a lifetime of good reading habits and promote early reading. Our design for an interactive book shares a number of behaviors and affordances with this model and is optimized for new and pre-readers. The interactions are designed to mediate and guide young readers through the conventions that determine narrative flow. Narrative structure appeals to young children’s affinity for predictable outcomes, empowering young readers and facilitating immersion. The book is adaptive to the level of involvement exhibited by the child, ranging from continual progression of the story to direct investigation of items and text. In addition, multiple pathways of interaction, including gesture, posture, and voice, enhance the interactive experience and promote kinesthetic learning. In addition to simulating the adult/child reading dynamic, the use of the Kinect affords an additional layer of interaction. Manipulation of the ‘fourth wall’ and characters’ interaction with typography highlights the relationship between the written word, the images and ideas they relate to, and the narrative structure. This enhances word/object correlation.
+When an adult reads with a young child, they provide a host of well-documented benefits that support a lifetime of good reading habits and promote early reading.
 
 ****
 
 ----
 Breakdown:
+
+Our design for an interactive book shares a number of behaviors and affordances with this model and is optimized for new and pre-readers.
+
+The interactions are designed to mediate and guide young readers through the conventions that determine narrative flow. Narrative structure appeals to young children’s affinity for predictable outcomes, empowering young readers and facilitating immersion.
+
+The book is adaptive to the level of involvement exhibited by the child, ranging from continual progression of the story to direct investigation of items and text.
+
+In addition, multiple pathways of interaction, including gesture, posture, and voice, enhance the interactive experience and promote kinesthetic learning. In addition to simulating the adult/child reading dynamic, the use of the Kinect affords an additional layer of interaction.
+
+Manipulation of the ‘fourth wall’ and characters’ interaction with typography highlights the relationship between the written word, the images and ideas they relate to, and the narrative structure. This enhances word/object correlation.
 
 ##### Design Concept
 We crafted a version of The Three Little Pigs that will engage early readers in an interactive experience while maintaining the familiar structure and flow of a traditional narrative. Unlike other interactive experiences, our book maintains the linear structure of conventional storytelling but affords the child an opportunity to immerse themselves in the narrative. At the same time, the child has the opportunity to explore words or images further, thus investing them in the reading experience. Alternatively, should the child desire a more passive experience, the book would sense a lower activity level and continue without waiting for interactions.
