@@ -1,6 +1,6 @@
 Title: Kinect × Three Little Pigs
 ----
-Subtitle: Utilizing modern sensors like the Microsoft Kinect, how can we take advantage of its technology to enhance the reading experience between a parent and child?
+Subtitle: Utilizing modern camera sensors like the Kinect, how can we take advantage of its technology to enhance the reading experience between a parent and child?
 ----
 Caption: Winter 2012, 10 weeks
 ----
@@ -8,60 +8,111 @@ Credit:
 ----
 Intro:
 
-Sharing a storybook with a child can be one of the most rewarding experiences a parent can do for a child. Kinect × Three Little Pigs is an interactive storybook that explore new ways young readers can experience the traditional art of storytelling. Our interactive book is designed to captivate young readers with a narrative reminiscent of reading with an adult through the use of graphically enhanced visuals and engaging interactions.
+The Kinect × Three Little Pigs is an interactive storybook that explore new ways young readers can experience the traditional art of storytelling. Our interactive book is designed to captivate young readers through graphically enhanced narratives  and engaging interactions that is reminiscent of reading with an adult.
 
 (vimeo: https://vimeo.com/38066128 width: 960 height: 540)
 
-##### Why?
-
-When an adult reads with a young child, they provide a host of well-documented benefits that support a lifetime of good reading habits and promote early reading.
-
 ****
 
+> Sharing a storybook with a child can be one of the most rewarding experiences a parent can do for a child. When an adult reads with a young child, they provide a host of well-documented benefits that support a lifetime of good reading habits.
+
+****
 ----
 Breakdown:
 
-Our design for an interactive book shares a number of behaviors and affordances with this model and is optimized for new and pre-readers.
+<!-- Our design for an interactive book shares a number of behaviors and affordances with this model and is optimized for new and pre-readers.
 
 The interactions are designed to mediate and guide young readers through the conventions that determine narrative flow. Narrative structure appeals to young children’s affinity for predictable outcomes, empowering young readers and facilitating immersion.
 
-The book is adaptive to the level of involvement exhibited by the child, ranging from continual progression of the story to direct investigation of items and text.
-
-In addition, multiple pathways of interaction, including gesture, posture, and voice, enhance the interactive experience and promote kinesthetic learning. In addition to simulating the adult/child reading dynamic, the use of the Kinect affords an additional layer of interaction.
-
-Manipulation of the ‘fourth wall’ and characters’ interaction with typography highlights the relationship between the written word, the images and ideas they relate to, and the narrative structure. This enhances word/object correlation.
+In addition, multiple pathways of interaction, including gesture, posture, and voice, enhance the interactive experience and promote kinesthetic learning. In addition to simulating the adult/child reading dynamic, the use of the Kinect affords an additional layer of interaction. -->
 
 ##### Design Concept
-We crafted a version of The Three Little Pigs that will engage early readers in an interactive experience while maintaining the familiar structure and flow of a traditional narrative. Unlike other interactive experiences, our book maintains the linear structure of conventional storytelling but affords the child an opportunity to immerse themselves in the narrative. At the same time, the child has the opportunity to explore words or images further, thus investing them in the reading experience. Alternatively, should the child desire a more passive experience, the book would sense a lower activity level and continue without waiting for interactions.
 
-In contrast to video games or multi-path books our design concept is intended to retain a linear narrative. Young children enjoy predictable outcomes and are willing experiencing the same story over and over. Predicting the flow of the story is empowering for children and aids in the assimilation of reading skills. While the sandbox model may be exciting for an adult to explore, having an unstructured story can cause a child to lose interest. The interactions in the “Three Little Pigs” we developed for the Xbox Kinect is intended to engage children and promote kinesthetic learning.
+<!-- We crafted a version of The Three Little Pigs that will engage early readers in an interactive experience while maintaining the familiar structure and flow of a traditional narrative. Unlike other interactive experiences, our book maintains the linear structure of conventional storytelling but affords the child an opportunity to immerse themselves in the narrative. At the same time, the child has the opportunity to explore words or images further, thus investing them in the reading experience. Alternatively, should the child desire a more passive experience, the book would sense a lower activity level and continue without waiting for interactions.
+
+In contrast to video games or multi-path books our design concept is intended to retain a linear narrative. Young children enjoy predictable outcomes and are willing experiencing the same story over and over. Predicting the flow of the story is empowering for children and aids in the assimilation of reading skills. While the sandbox model may be exciting for an adult to explore, having an unstructured story can cause a child to lose interest. The interactions in the “Three Little Pigs” we developed for the Xbox Kinect is intended to engage children and promote kinesthetic learning. -->
+
+We crafted a version of The Three Little Pigs that will engage early readers in an interactive experience while maintaining the familiar structure and flow of a traditional narrative. Unlike other interactive experiences, our book maintains the linear structure of conventional storytelling but affords the child an opportunity to immerse themselves in the narrative.
+
+****
+
+##### Engaging Visuals
+
+<div class="bareVideo"><video controls muted width="648" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-01.mp4" type="video/mp4">
+  <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-01.webm" type="video/webm">
+Your browser does not support the video tag.
+</video></div>
+
+We decided early on as a team to not create a full blow animated game. As much as possible, we wanted to keep the look and feel of a traditional storybook but with a twist. We tastefully added dynamic content to specific elements in the storybook to enhance the storytelling experience without downplaying the reader’s use of their imagination.
+
+##### Read at Your Own Pace
+
+<div class="bareVideo"><video controls muted width="648" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-02.mp4" type="video/mp4">
+  <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-02.webm" type="video/webm">
+Your browser does not support the video tag.
+</video></div>
+
+Paired with the Kinect, our interactive storybook is adaptive to the level of involvement exhibited by the reader. The reader has the ability stand up and take control of the story exploring words and objects. This causes them to really invest themselves in the interactive reading experience. Alternatively, should the reader desire a more passive experience, the Kinect can sense the lower activity level and continue the story.
+
+##### Gesture Guidance
+
+<div class="bareVideo"><video controls muted width="648" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-03.mp4" type="video/mp4">
+  <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-03.webm" type="video/webm">
+Your browser does not support the video tag.
+</video></div>
+
+An important component of our interactive storybook are the visual cues that prompts our readers to perform specific functions. One method we are using to achieve this is a small pig avatar in the lower left corner. In this particular example, the pig prompts the reader by acting out the gestures the child must perform.
+
+##### Do You Have A Question?
+
+<div class="bareVideo"><video controls muted width="648" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-04.mp4" type="video/mp4">
+  <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-04.webm" type="video/webm">
+Your browser does not support the video tag.
+</video></div>
+
+If a reader decides to ask a question about the content by raising their hand, the screen will grey out except for the content with definitions in the system. For example, they can highlight a portion of the text to have it read to them, or select an object to see what it is called and receive a definition.
+
+##### Breaking the Fourth Wall
+
+<div class="bareVideo"><video controls muted width="648" controls autoplay="autoplay" loop="loop">
+  <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-05.mp4" type="video/mp4">
+  <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-05.webm" type="video/webm">
+Your browser does not support the video tag.
+</video></div>
+
+Manipulation of the ‘fourth wall’ and characters’ interaction with typography highlights the relationship between the written word, the images and ideas they relate to, and the narrative structure. This enhances word/object correlation.
 
 ****
 
 ----
 Guts:
 
-##### Design Process
+> Throughout the design process we used a variety of methods
+> to prototype our interactive storybook.
 
-Throughout the development process of our interactive storybook we used a variety of methods to prototype and test out our ideas in a low-stakes low-fidelity fashion.
-
-(vimeo: https://vimeo.com/35828775 width: 640 height: 360)
-
-We produced concept boards working out the underlying system of how our product works and generated sketches and videos to visualize our concept in use. Alongside the development process, we were learning about the uses of gestural input from Kay Hofmeester and explored the capabilities of the Kinect and how it can supplement our design concept.
+****
 
 ##### Initial Concept
 
+We mapped out core functions through storyboarding and produced lo-fi video mockups to visualize and critique our ideas. At the same time we learned the history and basic fundamentals of gestural input under Kay Hofmeester.
+
+<!-- We also explored the Kinect’s technical capabilities and began outlining its possible uses in our interactive storybook. -->
+
 (image: interaction-storyboard-01.jpg class: projectCenterImageDS link: interaction-storyboard-01.jpg width: 66%)
 
-###### Interaction storyboard pages 1–3 by Kim Lewis
+###### Interaction storyboard pages 1–3 by Kim Lewis.
 
 (image: interaction-storyboard-02.jpg class: projectCenterImageDS link: interaction-storyboard-02.jpg width: 66%)
 
-###### Interaction storyboard pages 4–6 by Kim Lewis
+###### Interaction storyboard pages 4–6 by Kim Lewis.
 
 (image: interaction-storyboard-03.jpg class: projectCenterImageDS link: interaction-storyboard-03.jpg width: 66%)
 
-###### Interaction storyboard pages 7–9 by Kim Lewis
+###### Interaction storyboard pages 7–9 by Kim Lewis.
 
 ##### Interaction Flowchart
 
@@ -69,87 +120,108 @@ Teammate Dave Opincariu drafted up an interaction flowchart based off of our gro
 
 (image: interaction-flow.jpg class: projectCenterImageDS link: interaction-flow.pdf popup: yes width: 40%)
 
-###### (link: interaction-flow.pdf text: Full view of interaction flowchart popup: yes) by Dave Opincariu
+###### (link: interaction-flow.pdf text: Full view of interaction flowchart popup: yes) by Dave Opincariu.
 
-##### Further Concept Development and Video Prototyping
+##### Concept Development and Video Prototyping
 
-As a group, we found storyboarding and producing rough video cuts to be the most effective way to present and critique our design ideas.
+In the early stages of concept development, we drafted storyboards and produced rough video cuts to quickly present our design ideas. Instead of illustrating diagrams, we found that filming ourselves was a great way to prototype gestures.
 
 (image: storyboard-01.jpg class: projectCenterImageDS link: storyboard-01.jpg width: 75%)
 
-###### Passive Interaction storyboard by Jill Moses and video demo by Aaron Calzado
+###### Passive Interaction storyboard by Jill Moses and video demo by Aaron Calzado.
 
 (image: storyboard-02.jpg class: projectCenterImageDS link: storyboard-02.jpg width: 75%)
 
-###### Question Process storyboard by Dave Opincariu
+###### Question Process storyboard by Dave Opincariu.
 
 (image: storyboard-03.jpg class: projectCenterImageDS link: storyboard-03.jpg width: 75%)
 
-###### First page of final act storyboard by Kim Lewis and video demo by Aaron Calzado
+###### First page of final act storyboard by Kim Lewis and video demo by Aaron Calzado.
 
 (image: storyboard-04.jpg class: projectCenterImageDS link: storyboard-04.jpg width: 75%)
 
-###### Second page of final act storyboard by Kim Lewis and video demo by Aaron Calzado
+###### Second page of final act storyboard by Kim Lewis and video demo by Aaron Calzado.
+
+(vimeo: https://vimeo.com/35828775 width: 640 height: 360)
 
 ****
 
-##### Creating a Gesture Language
+##### Developing a Gesture Language
+
+We explored an array of possible gestures we could use in our interactive storybook and decided to make the gestural inputs a supplementary feature that give children the option to either read passively or actively interact with the storybook.
 
 (image: gesture-01.jpg class: projectCenterImageDS link: gesture-01.jpg width: 75%)
 
+###### First page of the Gesture Spec Sheet produced by teammate Jill Moses.
+
 (image: gesture-02.jpg class: projectCenterImageDS link: gesture-02.jpg width: 75%)
 
-We explored an array of possible gestures we could implement into our interactive storybook, but decided to make the gestural inputs a supplementary feature and limit them to a selected few to work.
+###### Second page of the Gesture Spec Sheet produced by teammate Jill Moses.
 
 (vimeo: https://vimeo.com/36663296 width: 640 height: 360)
 
+Ultimately, not every gesture shown in this section made it to our final design. We narrowed it down by removing gestures like “Hug” and “Hold (Items from Falling)” because these gestures were either being occupied by more important functions that played a bigger role in progressing the story.
+
 ****
 
-##### Visual Style
+> Our graphic style was inspired by keeping the elements of a storybook, yet embracing the new visual capabilities of the Xbox 360 and Kinect.
 
-Our graphic style was inspired by keeping the elements of a storybook, yet embracing the new medium of the Kinect. We wanted young readers to feel connected to the characters and pay attention to the physical act of reading while interacting with our book. To create the a child-like storybook fitting for our target demographic, we analyzed visuals and illustration styles found in popular children’s entertainment.
+****
+
+##### Developing a Visual Style
+
+We wanted young readers to feel connected to the characters and pay attention to the physical act of reading while interacting with our book. To create the a child-like storybook fitting for our target demographic, we analyzed visuals and illustration styles found in popular children’s entertainment.
 
 (image: mood-board-01.jpg class: projectCenterImageDS link: mood-board-01.jpg width: 75%)
 
-###### Mood board of visuals.
+###### Mood board of visual styles we wanted to emulate in our storybook.
+
+##### Developing a Typographic Style
 
 Some main components of our graphical style include breaking the fourth wall, dynamic and interesting perspectives, playing with typography, and maintaining a simple sketch-like quality to our illustrations. We felt that this style was appropriate for small children because it would keep them interested in the story. We picked up on these techniques by examining several popular children’s books and television shows.
 
 (image: mood-board-02.jpg class: projectCenterImageDS link: mood-board-02.jpg width: 75%)
 
-We intend to use a panning effect to navigate through scenes, which creates smooth transitions and allows the reader to get lost in the story without the distraction of “flipping the page.”
-
-(image: mood-board-03.jpg class: projectCenterImageDS link: mood-board-03.jpg width: 75%)
-
-###### Mood board of storybook spreads.
-
-##### Color
-
-We chose a few simple, cohesive color palettes for our story. The general background contains a muted texture to imitate the feeling of a storybook and keep an analogous appearance across scenes.
-
-(image: colors.jpg class: projectCenterImage link: colors.jpg width: 100%)
-
-###### Within the palettes that we chose, the colors are warm and inviting, which matches the tone that we are striving for.
-
-Components of a scene that are not key in the current interaction will remain either grey or monochromatic. The effect will be a greater focus on the important content, allowing the child to follow the story and be more aware of the actions that they are prompted to perform.
-
-<!-- (image: of background that is grayed out) -->
-
-##### Gesture Guidance
-
-An important component of the interactions in our storybook are the visual cues presented on screen, which let the child know which actions they must perform. One method we are using to achieve this is a small pig avatar in the lower left corner. This piglet lets the reader know whether they are in sitting or standing mode, as well as helping the child by physically acting out the gestures the child must perform.
-
-##### Type Interactions
-
-Other visual cues provided include a real-time version of the child’s gestures represented in the body of the wolf or pig when an interaction is required. Since the background is fairly muted, color will also be used to indicate which actions need to occur by highlighting what the child should pay attention to.
-
-##### Do You Have A Question?
-
-An interesting component of the interaction in our story includes the ability of the child and characters to interact with the type. An example of this is when the child must pick the word turnip three times to progress the story. If the child decides to ask a question about the content by raising their hand, the screen will grey out except for the content with definitions in the system. The child will then see a blue marker on the screen which allows them to select what they would like to know about. For example, they can highlight a portion of the text to have it read to them, or select the wolf to see what he is called and receive a definition.
+###### Mood board of typographic styles we wanted to emulate in our storybook.
 
 ****
 
-##### System Typeface & Typography Guidelines
+> A video of (link: https://www.youtube.com/watch?v=zSU-z-t9Ku4 text: Wario Land: Shake It! popup: yes) was an excellent example of the effect
+> we were trying to achieve with our own design.
+
+****
+
+##### Translating the Storybook Experience for the Digital Age
+
+<!-- Edit the wording in this paragraph. -->
+
+Children storybooks are built on rich visual spreads that demands attention from its viewers. In our storybook, we intended to create wide landscaping visuals that children can explore. In any given scene children will be able to pan through the spread and examine page and its objects in detail.
+
+(image: mood-board-03.jpg class: projectCenterImageDS link: mood-board-03.jpg width: 75%)
+
+###### Mood board of elaborate storybook spreads.
+
+##### Setting the Mood with Color
+
+We chose a few simple, cohesive color palettes for our story. The general background contains a muted texture to imitate the feeling of a storybook and keep an analogous appearance across scenes.
+
+(image: colors.jpg class: projectCenterImageDS link: colors.jpg width: 75%)
+
+
+###### Within the palettes that we chose, the colors are warm and inviting, which matches the tone that we are striving for.
+
+(image: colors-muted.jpg class: projectCenterImageDS link: colors-muted.jpg width: 75%)
+
+
+###### Components of a scene that are not key in the current interaction will appear muted to bring greater focus on the important content.
+
+<!-- , allowing the child to follow the story and be more aware of the actions that they are prompted to perform. -->
+
+<!-- (image: of background that is grayed out) -->
+
+****
+
+##### System Typefaces and Typography Guidelines
 
 For the typography in our interactive story we chose several different typefaces that would work well together, yet contrast enough for the reader to recognize shifts in dialogue. We chose to display body copy in Archer because it is a friendly slab serif that matches the visual style of a traditional storybook, as well as our visual style.
 
@@ -175,23 +247,29 @@ In order to keep the child interested in the content of the story and focused on
 
 (image: typography-wolf-04.png class: projectCenterImage link: typography-wolf-04.png width: 66%)
 
-Occasionally, the type also becomes an informative tool for learning about certain objects in the scene. When the reader pulls the turnip out of the ground, the bottom half of the vegetable states, “turnip,” creating a word-to-object association.
+##### Other Uses of Type
+
+Occasionally, words and type also becomes an informative tool for learning about certain objects in a scene. For example, when young readers pull a turnip out of the ground, the bottom half of the vegetable reads, “turnip,” creating a word-to-object association.
+
+(image: typography-turnip.jpg class: projectCenterImageDS link: typography-turnip.jpg width: 75%)
 
 ****
 
-##### Final Visual Style
+##### Finalized Visual Style
+
+This is a sample clip of our proposed visual style.
 
 (vimeo: https://vimeo.com/60150732 width: 640 height: 360)
 
 ****
 
-##### Movie
+##### Putting It All Together
 
-Putting the concept in context.
+Producing a concept video for our interactive storybook was necessary to demonstrate our design in context and to showcase the value of the product to our audience.
 
 (image: movie-storyboard.jpg class: projectCenterImageDS link: movie-storyboard.jpg width: 75%)
 
-###### Movie storyboard drawn up by teammate Kim Lewis.
+###### Concept video storyboard drawn up by teammate Kim Lewis.
 
 ****
 
