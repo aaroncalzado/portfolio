@@ -38,7 +38,7 @@ We crafted a version of The Three Little Pigs that will engage early readers in 
 
 ##### Engaging Visuals
 
-<div class="bareVideo"><video controls muted width="648" controls autoplay="autoplay" loop="loop">
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-01.mp4" type="video/mp4">
   <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-01.webm" type="video/webm">
 Your browser does not support the video tag.
@@ -48,7 +48,7 @@ We decided early on as a team to not create a full blow animated game. As much a
 
 ##### Read at Your Own Pace
 
-<div class="bareVideo"><video controls muted width="648" controls autoplay="autoplay" loop="loop">
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-02.mp4" type="video/mp4">
   <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-02.webm" type="video/webm">
 Your browser does not support the video tag.
@@ -58,7 +58,7 @@ Paired with the Kinect, our interactive storybook is adaptive to the level of in
 
 ##### Gesture Guidance
 
-<div class="bareVideo"><video controls muted width="648" controls autoplay="autoplay" loop="loop">
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-03.mp4" type="video/mp4">
   <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-03.webm" type="video/webm">
 Your browser does not support the video tag.
@@ -68,7 +68,7 @@ An important component of our interactive storybook are the visual cues that pro
 
 ##### Do You Have A Question?
 
-<div class="bareVideo"><video controls muted width="648" controls autoplay="autoplay" loop="loop">
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-04.mp4" type="video/mp4">
   <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-04.webm" type="video/webm">
 Your browser does not support the video tag.
@@ -78,7 +78,7 @@ If a reader decides to ask a question about the content by raising their hand, t
 
 ##### Breaking the Fourth Wall
 
-<div class="bareVideo"><video controls muted width="648" controls autoplay="autoplay" loop="loop">
+<div class="bareVideo"><video controls muted width="75%" controls autoplay="autoplay" loop="loop">
   <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-05.mp4" type="video/mp4">
   <source src="http://aaroncalzado.com/media/portfolio/ktlp/ktlp-05.webm" type="video/webm">
 Your browser does not support the video tag.
@@ -102,15 +102,15 @@ We mapped out core functions through storyboarding and produced lo-fi video mock
 
 <!-- We also explored the Kinect’s technical capabilities and began outlining its possible uses in our interactive storybook. -->
 
-(image: interaction-storyboard-01.jpg class: projectCenterImageDS link: interaction-storyboard-01.jpg width: 66%)
+(image: interaction-storyboard-01.jpg class: projectCenterImageDS link: interaction-storyboard-01.jpg width: 75%)
 
 ###### Interaction storyboard pages 1–3 by Kim Lewis.
 
-(image: interaction-storyboard-02.jpg class: projectCenterImageDS link: interaction-storyboard-02.jpg width: 66%)
+(image: interaction-storyboard-02.jpg class: projectCenterImageDS link: interaction-storyboard-02.jpg width: 75%)
 
 ###### Interaction storyboard pages 4–6 by Kim Lewis.
 
-(image: interaction-storyboard-03.jpg class: projectCenterImageDS link: interaction-storyboard-03.jpg width: 66%)
+(image: interaction-storyboard-03.jpg class: projectCenterImageDS link: interaction-storyboard-03.jpg width: 75%)
 
 ###### Interaction storyboard pages 7–9 by Kim Lewis.
 
@@ -186,8 +186,7 @@ Some main components of our graphical style include breaking the fourth wall, dy
 
 ****
 
-> A video of (link: https://www.youtube.com/watch?v=zSU-z-t9Ku4 text: Wario Land: Shake It! popup: yes) was an excellent example of the effect
-> we were trying to achieve with our own design.
+> A video of (link: https://www.youtube.com/watch?v=zSU-z-t9Ku4 text: Wario Land: Shake It! popup: yes) was an excellent example of the effect we were trying to achieve with our own design.
 
 ****
 

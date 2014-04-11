@@ -63,9 +63,4 @@ Text:
 
 (image: 19.jpg class: projectCenterImageDS width: 100% link: 19.jpg)
 
-****
-
-> I also took a ton of photos in Italy that didn’t make it into my book.
-> (link: http://aaroncalzado.com/gallery/#4 class: viewExternal text: Feel free to peruse!)
-
-****
+> I also took a (link: http://aaroncalzado.com/gallery/#4 class: viewExternal text: ton of photos) in Italy that didn’t make it into my book.
