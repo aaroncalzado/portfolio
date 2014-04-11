@@ -48,11 +48,20 @@ header {
   min-width: 320px;
   z-index: 4; }
 
+@media only screen and (max-width: 639px) {
+  header {
+    height: 44px;
+    padding-right: 0;
+    padding-left: 0;
+    position: fixed;
+    width: 100%;
+    min-width: 320px;
+    z-index: 4; } }
 html, body {
   background-color: snow;
   font-family: "jaf-facitweb", Helvetica, Arial, sans-serif;
-  font-size: 100%;
-  font-weight: 300;
+  font-size: 96%;
+  font-weight: 400;
   height: 100%;
   line-height: 1.72;
   margin: 0px;
@@ -130,6 +139,12 @@ a:visited {
   /* Lines up title and nav */
   position: relative; }
 
+/* @media only screen and (max-width: 639px) {
+	.mastTitle {
+		float: none;
+		text-align: center;
+	}
+} */
 header .mastNav {
   color: snow;
   float: right;
@@ -137,6 +152,12 @@ header .mastNav {
   margin: 14px 16px 8px 8px;
   position: relative; }
 
+/* @media only screen and (max-width: 639px) {
+	header .mastNav {
+		float: none;
+		text-align: center;
+	}
+} */
 .mastNav ul li {
   color: snow;
   display: inline;
@@ -159,8 +180,8 @@ header .mastNav {
 
 hr {
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(0, 0, 0, 0.16);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.32);
   height: 0;
   margin: 40px auto 8px auto;
   width: 320px; }
@@ -254,6 +275,7 @@ hr {
     width: 640px; } }
 @media only screen and (max-width: 639px) {
   .copyBody {
+    font-size: 132%;
     margin: 0 auto 0 auto;
     padding-top: 0;
     /* The space between the hero-image and copy */
@@ -264,7 +286,7 @@ hr {
 h2 {
   color: snow;
   font-size: 1.32rem;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.96rem;
   margin: 0 auto 0 auto;
   text-align: center;
@@ -361,6 +383,7 @@ p {
 
 @media only screen and (max-width: 639px) {
   .containerWork .copyBody p {
+    font-size: 132%;
     width: 320px; } }
 h1 {
   /* Title in Mast */
@@ -372,7 +395,7 @@ h1 {
 
 h3 {
   /* Subtitle in Mast */
-  font-weight: 200;
+  font-weight: 300;
   font-size: 1.32rem;
   line-height: 1.96rem;
   margin: auto;
@@ -458,10 +481,10 @@ blockquote p {
   	-webkit-background-clip: text;
   	-webkit-text-fill-color: transparent; */
   opacity: 0.80;
-  font-size: 1.32rem;
+  font-size: 1.56rem;
+  font-weight: 400;
   font-style: italic;
-  font-weight: 300;
-  line-height: 2.12rem;
+  line-height: 2.40rem;
   margin: 24px auto 0 auto;
   text-align: center;
   width: 75%; }
@@ -547,7 +570,7 @@ h6 {
   font-size: .88rem;
   font-style: italic;
   font-weight: 300;
-  margin: 0 auto 0 auto;
+  margin: 0 auto 8px auto;
   text-align: left;
   width: 640px; }
 

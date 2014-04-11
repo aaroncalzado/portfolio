@@ -1,6 +1,7 @@
 $houseColor: mediumseagreen;
 
-$houseFont: "jaf-facitweb";
+$houseBodyFont: "jaf-facitweb";
+$houseDisplayFont: "jaf-domus-titling-web";
 $headerFontSize: 0.96rem;
 $footerFontSize: 0.8rem;
 $footerFontWeight: 300;
@@ -16,7 +17,7 @@ $containerWidthPhone: 640px;
 $copyWidth: 640px;
 $copyMarginDesktop: 24px auto 0 auto;
 $copyMarginPhone: 24px 8px 0 8px;
-$captionMarginDesktop: 0 auto 0 auto;
+$captionMarginDesktop: 0 auto 8px auto;
 $captionMarginPhone: 0 8px 0 8px;
 $listsMarginDesktop: 8px auto 0 auto;
 
@@ -77,11 +78,22 @@ header{
   	min-width: 320px;
 	z-index: 4;
 }
+@media only screen and (max-width: 639px) {
+	header{
+		height: 44px;
+		padding-right: 0;
+		padding-left: 0;
+		position:fixed; 
+		width: 100%; 
+	  	min-width: 320px;
+		z-index: 4;
+	}
+}
 html, body {
 	background-color: $colorKnockout;
-	font-family: $houseFont, Helvetica, Arial, sans-serif;
-	font-size: 100%;
-	font-weight: 300;
+	font-family: $houseBodyFont, Helvetica, Arial, sans-serif;
+	font-size: 96%;
+	font-weight: 400;
 	height: 100%;
 	line-height: 1.72;
 	margin: 0px;
@@ -161,6 +173,12 @@ a:visited {
 	margin: 14px 8px 8px 16px; /* Lines up title and nav */
 	position: relative;
 }
+/* @media only screen and (max-width: 639px) {
+	.mastTitle {
+		float: none;
+		text-align: center;
+	}
+} */
 header .mastNav {
 	color: $colorKnockout;
 	float: right;
@@ -168,6 +186,12 @@ header .mastNav {
 	margin: 14px 16px 8px 8px;
 	position: relative;
 }
+/* @media only screen and (max-width: 639px) {
+	header .mastNav {
+		float: none;
+		text-align: center;
+	}
+} */
 .mastNav ul li {
 	color: $colorKnockout;
 	display: inline;
@@ -188,8 +212,8 @@ header .mastNav {
 }
 hr {
 	border: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-top: 1px solid rgba(0, 0, 0, 0.16);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.32);
 	height: 0;
 	margin: 40px auto 8px auto;
 	width: 320px;
@@ -288,7 +312,8 @@ hr {
 	}
 }
 @media only screen and (max-width: 639px) {
-	.copyBody{ 
+	.copyBody{
+		font-size: 132%;
 		margin: 0 auto 0 auto;
 		padding-top: 0; /* The space between the hero-image and copy */
 		text-align: center;
@@ -302,7 +327,7 @@ hr {
 h2 {
 	color: $colorKnockout;
 	font-size: 1.32rem;
-	font-weight: 200;
+	font-weight: 300;
 	line-height: 1.96rem;
 	margin: 0 auto 0 auto;
 	text-align: center;
@@ -422,6 +447,7 @@ p {
 }
 @media only screen and (max-width: 639px) {
 .containerWork .copyBody p  {
+		font-size: 132%;
 		width: 320px;
 	}
 }
@@ -433,7 +459,7 @@ h1 { /* Title in Mast */
 	text-align: center;
 }
 h3 { /* Subtitle in Mast */
-	font-weight: 200;
+	font-weight: 300;
 	font-size: 1.32rem;
 	line-height: 1.96rem;
 	margin: auto;
@@ -522,10 +548,10 @@ blockquote p {
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent; */
 	opacity: 0.80;	
-	font-size: 1.32rem;
+	font-size: 1.56rem;
+	font-weight: 400;
 	font-style: italic;
-	font-weight: 300;
-	line-height: 2.12rem;
+	line-height: 2.40rem;
 	margin: 24px auto 0 auto;
 	text-align: center;
 	width: 75%;
