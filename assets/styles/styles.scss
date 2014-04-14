@@ -82,7 +82,7 @@ header{
 @media only screen and (max-width: 639px) {
 	header{
 		font-size: 1rem;
-		height: 80px;
+		height: 88px;
 		padding-right: 0;
 		padding-left: 0;
 		position:fixed; 
@@ -130,12 +130,20 @@ footer {
 .footerHome a {
 	color: $colorKnockout;
 	font-size: $footerFontSize;
-	font-weight: $footerFontWeight;
+	letter-spacing: 2px;
 	margin: 32px 0 0 0;
 	text-align: center;
 	text-decoration: none;
+	text-transform: uppercase;
 	width: 100%;
 	min-width: 320px;
+}
+@media only screen and (max-width: 639px) {
+	.footerHome,
+	.footerHome a {
+		font-size: 100%;
+		letter-spacing: 1px;
+	}
 }
 .footerHome a:hover,
 .footerHome a:active,
@@ -187,6 +195,7 @@ a:visited {
 @media only screen and (max-width: 639px) {
 	.mastTitle {
 		letter-spacing: 4px;
+		margin-top: 16px;
 		float: none;
 		text-align: center;
 	}
@@ -200,14 +209,14 @@ header .mastNav {
 @media only screen and (max-width: 639px) {
 	header .mastNav {
 		float: none;
-		margin-top: 10px;
+		margin-top: 14px;
 		text-align: center;
 	}
 }
 .mastNav ul li {
 	color: $colorKnockout;
 	display: inline;
-	letter-spacing: 2px;
+	letter-spacing: 4px;
 	list-style: none;
 	padding-left: 12px; /* Adjusts the space between Nav buttons */
 	text-transform: uppercase;
@@ -549,12 +558,14 @@ h4 a:hover {
 	text-decoration: none;
 }
 h5 { /* Headers for bodies in Project page */
-	font-weight: 600;
-	font-size: 116%;
+	font-weight: 700;
+	font-size: 1rem;
+	letter-spacing: 2px;
 	margin: $copyMarginDesktop;
 	padding: 8px 0 0 0;
 	width: $copyWidth;
 	text-align: left;
+	text-transform: uppercase;
 }
 @media only screen and (max-width: 959px) {
 	h5 {
