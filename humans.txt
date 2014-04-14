@@ -26,7 +26,7 @@
 	Unwrapping <p><img></p>
 		http://getkirby.com/forum/issue-tracker/topic:16
 
-/* ASCII Picture of me */
+/* ASCII PICTURE OF ME */
 	ASCII Webcam
 		http://grumdrig.com/asciicam.html
 
