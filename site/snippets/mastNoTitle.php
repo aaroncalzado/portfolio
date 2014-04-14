@@ -2,7 +2,7 @@
 
   <header>
     <div class="mastTitle">
-      <a href="<?php echo url() ?>">Aaron Calzado • Designer</a>
+      <a href="<?php echo url() ?>"><strong>Aaron Calzado</strong> • Designer</a>
     </div>
     <div class="mastNav">
       <ul>
