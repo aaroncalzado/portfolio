@@ -44,7 +44,7 @@ c::set('url', '/');
  
 */
 
-c::set('url', 'http://aaroncalzado.com/portfolio');
+c::set('url', 'http://localhost:8888/portfolio');
 
 
 /* 
@@ -135,8 +135,8 @@ embedded flash videos from youtube or vimeo
 
 */
 
-c::set('kirbytext.video.width', 480); 
-c::set('kirbytext.video.height', 358); 
+c::set('kirbytext.video.width', 960); 
+c::set('kirbytext.video.height', 540); 
 
 
 /* 
