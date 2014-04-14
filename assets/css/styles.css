@@ -39,7 +39,7 @@ table {
 header {
   background: black;
   background: rgba(0, 0, 0, 0.72);
-  font-size: 0.96rem;
+  font-size: 0.8rem;
   height: 56px;
   padding-right: 8px;
   padding-left: 8px;
@@ -50,7 +50,8 @@ header {
 
 @media only screen and (max-width: 639px) {
   header {
-    height: 44px;
+    font-size: 1rem;
+    height: 80px;
     padding-right: 0;
     padding-left: 0;
     position: fixed;
@@ -74,19 +75,24 @@ html, body {
 footer {
   background-color: mediumseagreen;
   color: snow;
-  font-size: 0.8rem;
-  font-weight: 300;
+  font-size: 0.64rem;
+  letter-spacing: 2px;
   margin: 32px 0 0 0;
   padding: 32px 0 32px 0;
   position: absolute;
   text-align: center;
+  text-transform: uppercase;
   width: 100%;
   min-width: 320px; }
 
+@media only screen and (max-width: 639px) {
+  footer {
+    font-size: 100%;
+    letter-spacing: 1px; } }
 .footerHome,
 .footerHome a {
   color: snow;
-  font-size: 0.8rem;
+  font-size: 0.64rem;
   font-weight: 300;
   margin: 32px 0 0 0;
   text-align: center;
@@ -135,41 +141,42 @@ a:visited {
 .mastTitle {
   color: snow;
   float: left;
-  margin: 14px 8px 8px 16px;
+  letter-spacing: 4px;
+  margin: 18px 8px 8px 16px;
   /* Lines up title and nav */
-  position: relative; }
+  position: relative;
+  text-transform: uppercase; }
 
-/* @media only screen and (max-width: 639px) {
-	.mastTitle {
-		float: none;
-		text-align: center;
-	}
-} */
+@media only screen and (max-width: 639px) {
+  .mastTitle {
+    letter-spacing: 4px;
+    float: none;
+    text-align: center; } }
 header .mastNav {
   color: snow;
   float: right;
-  font-size: 0.96rem;
-  margin: 14px 16px 8px 8px;
+  margin: 18px 16px 8px 8px;
   position: relative; }
 
-/* @media only screen and (max-width: 639px) {
-	header .mastNav {
-		float: none;
-		text-align: center;
-	}
-} */
+@media only screen and (max-width: 639px) {
+  header .mastNav {
+    float: none;
+    margin-top: 10px;
+    text-align: center; } }
 .mastNav ul li {
   color: snow;
   display: inline;
+  letter-spacing: 2px;
   list-style: none;
   padding-left: 12px;
-  /* Adjusts the space between Nav buttons */ }
+  /* Adjusts the space between Nav buttons */
+  text-transform: uppercase; }
 
 .mastNav ul li a {
   border: 1px solid snow;
   border-radius: 4px;
   color: snow;
-  padding: 4px 12px 4px 12px;
+  padding: 4px 8px 4px 12px;
   /* Padding for Nav buttons */
   text-decoration: none; }
 
@@ -313,8 +320,11 @@ a:visited {
   text-decoration: none; }
 
 .containerMastHome .copyMastHome .homeButton p {
+  font-size: 0.8rem;
+  letter-spacing: 4px;
   margin: 32px auto 0 auto;
-  text-align: center; }
+  text-align: center;
+  text-transform: uppercase; }
 
 .containerMastHome .copyMastHome .homeButton p a {
   border: 1px solid snow;
@@ -322,7 +332,7 @@ a:visited {
   color: snow;
   display: inline;
   list-style: none;
-  padding: 8px 16px 8px 16px;
+  padding: 8px 12px 8px 16px;
   text-decoration: none; }
 
 .containerMastHome .copyMastHome .homeButton p a:hover {
@@ -332,7 +342,7 @@ a:visited {
   color: #333332;
   display: inline;
   list-style: none;
-  padding: 8px 16px 8px 16px;
+  padding: 8px 12px 8px 16px;
   text-decoration: none; }
 
 .copyMastHome {
@@ -353,7 +363,7 @@ a:visited {
     width: 640px; } }
 @media only screen and (max-width: 639px) {
   .copyMastHome {
-    top: 16%;
+    top: 24%;
     width: 320px; } }
 /* Typography
 ****************************************/
@@ -440,18 +450,27 @@ h4 a:hover {
 .copyBody p a:active.viewProjects,
 .copyBody p a:visited.viewProjects {
   /* Work page buttons */
-  background-color: #D3D3D3;
+  background-color: mediumseagreen;
   border-radius: 4px;
-  border: none;
+  border-bottom: 2px solid mediumseagreen;
   color: snow;
-  padding: 12px 24px 12px 24px;
+  font-size: 0.8rem;
+  letter-spacing: 4px;
+  padding: 12px 20px 12px 24px;
   text-align: center;
-  text-decoration: none; }
+  text-decoration: none;
+  text-transform: uppercase; }
 
+@media only screen and (max-width: 639px) {
+  .copyBody p a.viewProjects,
+  .copyBody p a:active.viewProjects,
+  .copyBody p a:visited.viewProjects {
+    /* Work page buttons */
+    font-size: 1rem; } }
 .copyBody p > a:hover.viewProjects {
   /* Work page buttons */
   background-color: mediumseagreen;
-  border: none;
+  border-bottom: 2px solid seagreen;
   color: snow;
   text-align: center;
   text-decoration: none; }

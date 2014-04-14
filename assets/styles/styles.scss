@@ -1,9 +1,10 @@
 $houseColor: mediumseagreen;
+$houseShade: seagreen;
 
 $houseBodyFont: "jaf-facitweb";
 $houseDisplayFont: "jaf-domus-titling-web";
-$headerFontSize: 0.96rem;
-$footerFontSize: 0.8rem;
+$headerFontSize: 0.8rem;
+$footerFontSize: 0.64rem;
 $footerFontWeight: 300;
 
 $color: #333333;
@@ -80,7 +81,8 @@ header{
 }
 @media only screen and (max-width: 639px) {
 	header{
-		height: 44px;
+		font-size: 1rem;
+		height: 80px;
 		padding-right: 0;
 		padding-left: 0;
 		position:fixed; 
@@ -109,13 +111,20 @@ footer {
 	background-color: $houseColor;
 	color: $colorKnockout;
 	font-size: $footerFontSize;
-	font-weight: $footerFontWeight;
+	letter-spacing: 2px;
 	margin: 32px 0 0 0;
 	padding: 32px 0 32px 0;
 	position: absolute;
 	text-align: center;
+	text-transform: uppercase;
 	width: 100%;
 	min-width: 320px;
+}
+@media only screen and (max-width: 639px) {
+	footer {
+		font-size: 100%;
+		letter-spacing: 1px;
+	}
 }
 .footerHome,
 .footerHome a {
@@ -170,39 +179,44 @@ a:visited {
 .mastTitle {
 	color: $colorKnockout;
 	float: left;
-	margin: 14px 8px 8px 16px; /* Lines up title and nav */
+	letter-spacing: 4px;
+	margin: 18px 8px 8px 16px; /* Lines up title and nav */
 	position: relative;
+	text-transform: uppercase;
 }
-/* @media only screen and (max-width: 639px) {
+@media only screen and (max-width: 639px) {
 	.mastTitle {
+		letter-spacing: 4px;
 		float: none;
 		text-align: center;
 	}
-} */
+}
 header .mastNav {
 	color: $colorKnockout;
 	float: right;
-	font-size: $headerFontSize;
-	margin: 14px 16px 8px 8px;
+	margin: 18px 16px 8px 8px;
 	position: relative;
 }
-/* @media only screen and (max-width: 639px) {
+@media only screen and (max-width: 639px) {
 	header .mastNav {
 		float: none;
+		margin-top: 10px;
 		text-align: center;
 	}
-} */
+}
 .mastNav ul li {
 	color: $colorKnockout;
 	display: inline;
+	letter-spacing: 2px;
 	list-style: none;
 	padding-left: 12px; /* Adjusts the space between Nav buttons */
+	text-transform: uppercase;
 }
 .mastNav ul li a {
 	border: 1px solid $colorKnockout;
 	border-radius: $buttonRadius;
 	color: $colorKnockout;	
-	padding: 4px 12px 4px 12px; /* Padding for Nav buttons */
+	padding: 4px 8px 4px 12px; /* Padding for Nav buttons */
 	text-decoration: none;
 }
 .mastNav ul li a.active, .mastNav ul li a:hover {
@@ -358,8 +372,11 @@ a:visited {
 	text-decoration: none;
 }
 .containerMastHome .copyMastHome .homeButton p {
+	font-size: $headerFontSize;
+	letter-spacing: 4px;
 	margin: 32px auto 0 auto;
 	text-align: center;
+	text-transform: uppercase;
 }
 .containerMastHome .copyMastHome .homeButton p a {
 	border: 1px solid $colorKnockout;
@@ -367,7 +384,7 @@ a:visited {
 	color: $colorKnockout;
 	display: inline;
 	list-style: none;
-	padding: 8px 16px 8px 16px;
+	padding: 8px 12px 8px 16px;
 	text-decoration: none;
 }
 .containerMastHome .copyMastHome .homeButton p a:hover {
@@ -377,7 +394,7 @@ a:visited {
 	color: #333332;
 	display: inline;
 	list-style: none;
-	padding: 8px 16px 8px 16px;
+	padding: 8px 12px 8px 16px;
 	text-decoration: none;
 }
 .copyMastHome {
@@ -404,7 +421,7 @@ a:visited {
 }
 @media only screen and (max-width: 639px) {
 	.copyMastHome {
-		top: 16%;
+		top: 24%;
 		width: 320px;
 	}
 }
@@ -506,17 +523,27 @@ h4 a:hover {
 .copyBody p a.viewProjects,
 .copyBody p a:active.viewProjects,
 .copyBody p a:visited.viewProjects { /* Work page buttons */
-	background-color: #D3D3D3;
+	background-color: $houseColor;
 	border-radius: $buttonRadius;
-	border: none;
+	border-bottom: 2px solid $houseColor;
 	color: $colorKnockout;
-	padding: 12px 24px 12px 24px;
+	font-size: $headerFontSize;
+	letter-spacing: 4px;
+	padding: 12px 20px 12px 24px;
 	text-align: center;
 	text-decoration: none;
+	text-transform: uppercase;
+}
+@media only screen and (max-width: 639px) {
+	.copyBody p a.viewProjects,
+	.copyBody p a:active.viewProjects,
+	.copyBody p a:visited.viewProjects { /* Work page buttons */
+		font-size: 1rem;
+	}
 }
 .copyBody p > a:hover.viewProjects { /* Work page buttons */
 	background-color: $houseColor;
-	border: none;
+	border-bottom: 2px solid $houseShade;
 	color: $colorKnockout;
 	text-align: center;
 	text-decoration: none;

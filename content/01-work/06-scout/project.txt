@@ -8,8 +8,9 @@ Credit:
 ----
 Intro:
 
-> **Scout’s purpose is to do two things:** Build an accurate profile of it’s owner
-> and find suitable relationship matches based on these profiles.
+> **Scout’s purpose is to do two things:**
+> Build an accurate profile of it’s owner and find suitable
+> relationship matches based on these profiles.
 
 ****
 

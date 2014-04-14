@@ -77,6 +77,11 @@ Crate to Plate is a food subscription service that delivers a series of seasonal
 
 ****
 
+> When I’m not designing things for other people
+> I mess around with personal side projects.
+
+****
+
 (image: svergognato.jpg class: workCenterImageDS link: /work/svergognato)
 
 ###### Photo courtesy of Sean Bolan
