@@ -77,11 +77,6 @@ Crate to Plate is a food subscription service that delivers a series of seasonal
 
 ****
 
-> When I’m not designing things for other people
-> I mess around with personal side projects.
-
-****
-
 (image: svergognato.jpg class: workCenterImageDS link: /work/svergognato)
 
 ###### Photo courtesy of Sean Bolan
@@ -94,10 +89,14 @@ In the summer of 2012 I had the opportunity to study abroad in Rome. During the 
 
 ****
 
-(image: print-work.jpg class: workCenterImageDS link: /work/print-work)
+> When I’m not designing things for other people I mess around with personal side projects.
 
-#### (link: /work/print-work text: Print Work)
+****
 
-A collection of print work I did at my leisure from 2008 to now.
+(image: side-projects.jpg class: workCenterImageDS link: /work/side-projects)
 
-(link: /work/print-work class: viewProjects text: View Project)
+#### (link: /work/side-projects text: Side Projects)
+
+A collection of projects I’ve personally worked on for myself or for other people at my leisure. Most of the projects in this section are created for fun with the intent of learning something new or making something cool. Enjoy!
+
+(link: /work/side-projects class: viewProjects text: View Projects)

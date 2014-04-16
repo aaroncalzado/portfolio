@@ -78,12 +78,22 @@ With the Crate to Plate app, users are able to track their next Crate’s arriva
 ----
 Guts:
 <!-- ##### Process
-(image: local-food.jpg class: projectCenterImageDS link: local-food.jpg width: 100%)
+(image: local-food.jpg class: projectCenterImageDS link: local-food.jpg width: 100%) -->
 
+##### Crate to Plate at DUB
+
+We were invited by the Interaction Design faculty to showcase Crate to Plate at the monthly DUB talks hosted by the University of Washington. Below is a poster I designed for our group’s participation in the monthly DUB talks held at the University of Washington. DUB provides a platform to facilitate the convergence between Design and Human-computer Interaction pools of expertise to pioneer cross-disciplinary education for future human-computer interaction design professionals.
+
+(image: crate-to-plate-poster.jpg link: crate-to-plate-poster.jpg class: projectCenterImageDS width: 50% popup:yes)
+
+<!--
 ##### Retrospective
 To come...
 
 Talk about services like Trunk Club and Blue Apron -->
+
+****
+
 ----
 Ending:
 
