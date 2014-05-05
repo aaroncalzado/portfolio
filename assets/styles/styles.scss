@@ -79,18 +79,14 @@ header{
   	min-width: 320px;
 	z-index: 4;
 }
-@media only screen and (max-width: 639px) {
-	header{
-		font-size: 1rem;
-		height: 88px;
-		padding-right: 0;
-		padding-left: 0;
-		position:fixed; 
-		width: 100%; 
-	  	min-width: 320px;
-		z-index: 4;
+	@media only screen and (max-width: 639px) {
+		header{
+			font-size: 1rem;
+			height: 88px;
+			padding-right: 0;
+			padding-left: 0;
+		}
 	}
-}
 html, body {
 	background-color: $colorKnockout;
 	font-family: $houseBodyFont, Helvetica, Arial, sans-serif;
@@ -101,12 +97,12 @@ html, body {
 	margin: 0px;
 	padding: 0px;
 }
-@media only screen and (max-width: 639px) {
-	html, body {
-		font-size: 72%;
-		height: 72%;
+	@media only screen and (max-width: 639px) {
+		html, body {
+			font-size: 72%;
+			height: 72%;
+		}
 	}
-}
 footer {
 	background-color: $houseColor;
 	color: $colorKnockout;
@@ -120,12 +116,12 @@ footer {
 	width: 100%;
 	min-width: 320px;
 }
-@media only screen and (max-width: 639px) {
-	footer {
-		font-size: 100%;
-		letter-spacing: 1px;
+	@media only screen and (max-width: 639px) {
+		footer {
+			font-size: 100%;
+			letter-spacing: 1px;
+		}
 	}
-}
 .footerHome,
 .footerHome a {
 	color: $colorKnockout;
@@ -138,13 +134,13 @@ footer {
 	width: 100%;
 	min-width: 320px;
 }
-@media only screen and (max-width: 639px) {
-	.footerHome,
-	.footerHome a {
-		font-size: 100%;
-		letter-spacing: 1px;
+	@media only screen and (max-width: 639px) {
+		.footerHome,
+		.footerHome a {
+			font-size: 100%;
+			letter-spacing: 1px;
+		}
 	}
-}
 .footerHome a:hover,
 .footerHome a:active,
 .footerHome a:visited {
@@ -192,27 +188,26 @@ a:visited {
 	position: relative;
 	text-transform: uppercase;
 }
-@media only screen and (max-width: 639px) {
-	.mastTitle {
-		letter-spacing: 4px;
-		margin-top: 16px;
-		float: none;
-		text-align: center;
+	@media only screen and (max-width: 639px) {
+		.mastTitle {
+			margin-top: 16px;
+			float: none;
+			text-align: center;
+		}
 	}
-}
 header .mastNav {
 	color: $colorKnockout;
 	float: right;
 	margin: 18px 16px 8px 8px;
 	position: relative;
 }
-@media only screen and (max-width: 639px) {
-	header .mastNav {
-		float: none;
-		margin-top: 14px;
-		text-align: center;
+	@media only screen and (max-width: 639px) {
+		header .mastNav {
+			float: none;
+			margin-top: 14px;
+			text-align: center;
+		}
 	}
-}
 .mastNav ul li {
 	color: $colorKnockout;
 	display: inline;
@@ -241,25 +236,22 @@ hr {
 	margin: 40px auto 8px auto;
 	width: 320px;
 }
-@media only screen and (max-width: 639px) {
-	hr {
-		width: 280px;
+	@media only screen and (max-width: 639px) {
+		hr {
+			width: 280px;
+		}
 	}
-}
 .heroImageHome, .containerMastHome { /* Home background fullscreen */
 	background: rgba(0, 0, 0, 0.48);
 	height: 100%;
 	position: relative;
 	width: 100%;
 }
-@media only screen and (max-width: 639px) {
-	.heroImageHome, .containerMastHome { /* Home background fullscreen */
-		background: rgba(0, 0, 0, 0.48);
-		height: 556px;
-		position: relative;
-		width: 100%;
+	@media only screen and (max-width: 639px) {
+		.heroImageHome, .containerMastHome { /* Home background fullscreen */
+			height: 556px;
+		}
 	}
-}
 .containerMast {
 	background: rgba(0, 0, 0, 0.48);
 	height: auto;
@@ -282,11 +274,11 @@ hr {
 	background-position: center center;
 	background-size: cover;
 }
-@media only screen and (min-width: 1025px) {
-	.heroImageHome, .heroImage {
-	background-attachment: fixed;
+	@media only screen and (min-width: 1025px) {
+		.heroImageHome, .heroImage {
+		background-attachment: fixed;
+		}
 	}
-}
 .copyMast, .copyMastInfo {
 	color: $colorKnockout;
 	min-height: 480px; 
@@ -310,39 +302,27 @@ hr {
 	text-align: center;
 	width: $containerWidthDesktop;
 }
-@media only screen and (max-width: 959px) {
-	.copyBody{ 
-		margin: 0 auto 0 auto;
-		padding-top: 0; /* The space between the hero-image and copy */
-		text-align: center;
-		width: $containerWidthTablet;
+	@media only screen and (max-width: 959px) {
+		.copyBody{ 
+			width: $containerWidthTablet;
+		}
 	}
-}
-@media only screen and (max-width: 799px) {
-	.copyBody{ 
-		margin: 0 auto 0 auto;
-		padding-top: 0; /* The space between the hero-image and copy */
-		text-align: center;
-		width: $containerWidthIpad;
+	@media only screen and (max-width: 799px) {
+		.copyBody{ 
+			width: $containerWidthIpad;
+		}
 	}
-}
-@media only screen and (max-width: 767px) {
-	.copyBody{ 
-		margin: 0 auto 0 auto;
-		padding-top: 0; /* The space between the hero-image and copy */
-		text-align: center;
-		width: $containerWidthPhone;
+	@media only screen and (max-width: 767px) {
+		.copyBody{ 
+			width: $containerWidthPhone;
+		}
 	}
-}
-@media only screen and (max-width: 639px) {
-	.copyBody{
-		font-size: 132%;
-		margin: 0 auto 0 auto;
-		padding-top: 0; /* The space between the hero-image and copy */
-		text-align: center;
-		width: 320px;
+	@media only screen and (max-width: 639px) {
+		.copyBody{
+			font-size: 132%;
+			width: 320px;
+		}
 	}
-}
 
 
 /* Home Typography
@@ -356,17 +336,17 @@ h2 {
 	text-align: center;
 	width: $copyWidth;
 }
-@media only screen and (max-width: 767px) {
-	h2 {
-		padding: 0 68px 0 68px;
+	@media only screen and (max-width: 767px) {
+		h2 {
+			padding: 0 68px 0 68px;
+		}
 	}
-}
-@media only screen and (max-width: 639px) {
-	h2 {
-		padding: 0 12px 0 12px;
-		width: 320px;
+	@media only screen and (max-width: 639px) {
+		h2 {
+			padding: 0 12px 0 12px;
+			width: 320px;
+		}
 	}
-}
 .copyMastHome h2 a {
 	color: $colorKnockout;
 	border-bottom: 1px solid $colorKnockout;
@@ -413,27 +393,27 @@ a:visited {
 	top: 32%; 
 	width: $containerWidthDesktop;
 }
-@media only screen and (max-width: 959px) {
-	.copyMastHome {
-		width: $containerWidthTablet;
+	@media only screen and (max-width: 959px) {
+		.copyMastHome {
+			width: $containerWidthTablet;
+		}
 	}
-}
-@media only screen and (max-width: 799px) {
-	.copyMastHome {
-		width: $containerWidthIpad;
+	@media only screen and (max-width: 799px) {
+		.copyMastHome {
+			width: $containerWidthIpad;
+		}
 	}
-}
-@media only screen and (max-width: 767px) {
-	.copyMastHome {
-		width: $containerWidthPhone;
+	@media only screen and (max-width: 767px) {
+		.copyMastHome {
+			width: $containerWidthPhone;
+		}
 	}
-}
-@media only screen and (max-width: 639px) {
-	.copyMastHome {
-		top: 24%;
-		width: 320px;
+	@media only screen and (max-width: 639px) {
+		.copyMastHome {
+			top: 24%;
+			width: 320px;
+		}
 	}
-}
 
 
 /* Typography
@@ -446,37 +426,26 @@ p {
 	text-align: left;
 	width: $copyWidth;
 }
-@media only screen and (max-width: 959px) {
-	p {
-		padding: 8px 16px 0 16px;
+	@media only screen and (max-width: 959px) {
+		p {
+			padding: 8px 16px 0 16px;
+		}
 	}
-}
-@media only screen and (max-width: 799px) {
-	p {
-		padding: 8px 16px 0 16px;
+	@media only screen and (max-width: 639px) {
+		p {
+			width: 320px;
+		}
 	}
-}
-@media only screen and (max-width: 767px) {
-	p {
-		padding: 8px 16px 0 16px;
-	}
-}
-@media only screen and (max-width: 639px) {
-	p {
-		padding: 8px 16px 0 16px;
-		width: 320px;
-	}
-}
 .containerWork .copyBody p {
 	text-align: center;
 	width: $copyWidth;
 }
-@media only screen and (max-width: 639px) {
-.containerWork .copyBody p  {
-		font-size: 132%;
-		width: 320px;
+	@media only screen and (max-width: 639px) {
+	.containerWork .copyBody p  {
+			font-size: 132%;
+			width: 320px;
+		}
 	}
-}
 h1 { /* Title in Mast */
 	color: $colorKnockout;
 	font-weight: 600;
@@ -497,17 +466,17 @@ h3 { /* Subtitle in Mast */
 	text-align: center;
 	width: $copyWidth;
 }
-@media only screen and (max-width: 767px) {
-	h3 {
-		padding: 0 68px 0 68px;
+	@media only screen and (max-width: 767px) {
+		h3 {
+			padding: 0 68px 0 68px;
+		}
 	}
-}
-@media only screen and (max-width: 639px) {
-	h3 {
-		padding: 0 12px 0 12px;
-		width: 320px;
+	@media only screen and (max-width: 639px) {
+		h3 {
+			padding: 0 12px 0 12px;
+			width: 320px;
+		}
 	}
-}
 h4 { /* Work page Project titles */
 	color: $color;
 	font-weight: 600;
@@ -543,13 +512,13 @@ h4 a:hover {
 	text-decoration: none;
 	text-transform: uppercase;
 }
-@media only screen and (max-width: 639px) {
-	.copyBody p a.viewProjects,
-	.copyBody p a:active.viewProjects,
-	.copyBody p a:visited.viewProjects { /* Work page buttons */
-		font-size: 1rem;
+	@media only screen and (max-width: 639px) {
+		.copyBody p a.viewProjects,
+		.copyBody p a:active.viewProjects,
+		.copyBody p a:visited.viewProjects { /* Work page buttons */
+			font-size: 1rem;
+		}
 	}
-}
 .copyBody p > a:hover.viewProjects { /* Work page buttons */
 	background-color: $houseColor;
 	border-bottom: 2px solid $houseShade;
@@ -567,17 +536,17 @@ h5 { /* Headers for bodies in Project page */
 	text-align: left;
 	text-transform: uppercase;
 }
-@media only screen and (max-width: 959px) {
-	h5 {
-		padding: 8px 16px 0 16px;
+	@media only screen and (max-width: 959px) {
+		h5 {
+			padding: 8px 16px 0 16px;
+		}
 	}
-}
-@media only screen and (max-width: 639px) {
-	h5 {
-		padding: 8px 16px 0 16px;
-		width: 320px;
+	@media only screen and (max-width: 639px) {
+		h5 {
+			padding: 8px 16px 0 16px;
+			width: 320px;
+		}
 	}
-}
 h5 + p { /* Adjusts the space of the first <p> after h5*/
 	margin-top: 0;
 }
@@ -594,11 +563,11 @@ blockquote p {
 	text-align: center;
 	width: 75%;
 }
-@media only screen and (max-width: 959px) {
-	blockquote p {
-		width: 100%;
+	@media only screen and (max-width: 959px) {
+		blockquote p {
+			width: 100%;
+		}
 	}
-}
 .photoCred {
 	color: $colorKnockout;
 	font-size: 0.72rem;
@@ -645,12 +614,14 @@ blockquote p {
 .infoCenterImage,
 .projectCenterImage,
 .workCenterImage {
+	display: block;
 	margin: 24px auto 0 auto;
 }
 .centerImage,
 .projectCenterImage,
 .workCenterImage {
 	border-radius: 2px;
+	display: block;
 	margin: 24px auto 0 auto;
 }
 img.centerImageDS,
@@ -661,18 +632,19 @@ img.workCenterImageDS {
 	box-shadow:
 		rgba(156, 148, 148, 0.32) -6px 6px 8px,
 		rgba(156, 148, 148, 0.08) -2px 2px 25px;
+	display: block;
 	margin: 24px auto 0 auto;
 }
-@media only screen and (min-width: 640px) {
-	img.workCenterImageDS, img.workCenterImage {
-		width: 75%;
+	@media only screen and (min-width: 640px) {
+		img.workCenterImageDS, img.workCenterImage {
+			width: 75%;
+		}
 	}
-}
-@media only screen and (max-width: 639px) {
-	img.workCenterImageDS, img.workCenterImage {
-		width: 100%;
+	@media only screen and (max-width: 639px) {
+		img.workCenterImageDS, img.workCenterImage {
+			width: 100%;
+		}
 	}
-}
 .copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
 .copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,
 .copyBody p a.projectCenterImageDS, .copyBody p a:active.projectCenterImageDS, .copyBody p a:hover.projectCenterImageDS, .copyBody p a:visited.projectCenterImageDS,
@@ -680,6 +652,7 @@ img.workCenterImageDS {
 .copyBody p a.workCenterImageDS, .copyBody p a:active.workCenterImageDS, .copyBody p a:hover.workCenterImageDS, .copyBody p a:visited.workCenterImageDS,
 .copyBody p a.workCenterImage, .copyBody p a:active.workCenterImage, .copyBody p a:hover.workCenterImage, .copyBody p a:visited.workCenterImage {
 	border: none;
+	display: block;
 }
 h6 {
 	color: $colorLight;
@@ -690,17 +663,17 @@ h6 {
 	text-align: left;
 	width: $copyWidth;
 }
-@media only screen and (max-width: 959px) {
-	h6 {
-		padding: 0 16px 0 16px;
+	@media only screen and (max-width: 959px) {
+		h6 {
+			padding: 0 16px 0 16px;
+		}
 	}
-}
-@media only screen and (max-width: 639px) {
-	h6 {
-		padding: 0 16px 0 16px;
-		width: 320px;
+	@media only screen and (max-width: 639px) {
+		h6 {
+			padding: 0 16px 0 16px;
+			width: 320px;
+		}
 	}
-}
 h6 a,
 a:active,
 a:visited {
@@ -751,19 +724,17 @@ h6 a:hover {
 	text-align: center;
 	height: auto;
 }
-@media only screen and (max-width: 959px) {
-	.ctpbw {
-		padding-top: 50px;
-		height: auto;
+	@media only screen and (max-width: 959px) {
+		.ctpbw {
+			padding-top: 50px;
+		}
 	}
-}
-@media only screen and (max-width: 639px) {
-	.ctpbw {
-		padding-top: 20px;
-		width: 320px;
-		height: auto;
+	@media only screen and (max-width: 639px) {
+		.ctpbw {
+			padding-top: 20px;
+			width: 320px;
+		}
 	}
-}
 .ip4vh {
 	background: url("http://aaroncalzado.com/portfolio/assets/images/ip4h.svg") no-repeat center;
 	background-size: 62% auto;
@@ -772,30 +743,29 @@ h6 a:hover {
 	text-align: center;
 	height: 316px;
 }
-@media only screen and (max-width: 959px) {
-	.ip4vh {
-		height: 256px;
-		padding-top: 24px;
+	@media only screen and (max-width: 959px) {
+		.ip4vh {
+			height: 256px;
+			padding-top: 24px;
+		}
 	}
-}
-@media only screen and (max-width: 799px) {
-	.ip4vh {
-		height: 236px;
-		padding-top: 24px;
+	@media only screen and (max-width: 799px) {
+		.ip4vh {
+			height: 236px;
+		}
 	}
-}
-@media only screen and (max-width: 767px) {
-	.ip4vh {
-		height: 210px;
-		padding-top: 22px;
+	@media only screen and (max-width: 767px) {
+		.ip4vh {
+			height: 210px;
+			padding-top: 22px;
+		}
 	}
-}
-@media only screen and (max-width: 639px) {
-	.ip4vh {
-		height: 112px;
-		padding-top: 16px;
+	@media only screen and (max-width: 639px) {
+		.ip4vh {
+			height: 112px;
+			padding-top: 16px;
+		}
 	}
-}
 .ip4vv {
 	background: url("http://aaroncalzado.com/portfolio/assets/images/ip4v.svg") no-repeat center;
 	background-size: 35% auto;
@@ -804,27 +774,117 @@ h6 a:hover {
 	text-align: center;
 	height: 582px;
 }
-@media only screen and (max-width: 959px) {
-	.ip4vv {
-		padding-top: 82px;
-		height: 488px;
+	@media only screen and (max-width: 959px) {
+		.ip4vv {
+			padding-top: 82px;
+			height: 488px;
+		}
 	}
+	@media only screen and (max-width: 799px) {
+		.ip4vv {
+			padding-top: 74px;
+			height: 440px;
+		}
+	}
+	@media only screen and (max-width: 767px) {
+		.ip4vv {
+			padding-top: 64px;
+			height: 392px;
+		}
+	}
+	@media only screen and (max-width: 639px) {
+		.ip4vv {
+			padding-top: 31px;
+			height: 196px;
+		}
+	}
+
+
+/* Animation
+****************************************/
+
+/*!
+Animate.css - http://daneden.me/animate
+Licensed under the MIT license
+
+Copyright (c) 2013 Daniel Eden
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+
+.animated {
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+	height: 14px;
 }
-@media only screen and (max-width: 799px) {
-	.ip4vv {
-		padding-top: 74px;
-		height: 440px;
+	@media only screen and (max-width: 639px) {
+		.animated {
+			height: 11px;
+		}
 	}
+.animated.hinge {
+	-webkit-animation-duration: 2s;
+	animation-duration: 2s;
 }
-@media only screen and (max-width: 767px) {
-	.ip4vv {
-		padding-top: 64px;
-		height: 392px;
+	@-webkit-keyframes swing {
+		20% {
+			-webkit-transform: rotate(15deg);
+			transform: rotate(15deg);
+		}
+	  	40% {
+			-webkit-transform: rotate(-10deg);
+			transform: rotate(-10deg);
+		}
+		60% {
+			-webkit-transform: rotate(5deg);
+			transform: rotate(5deg);
+		}
+	  	80% {
+			-webkit-transform: rotate(-5deg);
+			transform: rotate(-5deg);
+		}
+		100% {
+			-webkit-transform: rotate(0deg);
+			transform: rotate(0deg);
+		}
 	}
-}
-@media only screen and (max-width: 639px) {
-	.ip4vv {
-		padding-top: 31px;
-		height: 196px;
+	@keyframes swing {
+		20% {
+			-webkit-transform: rotate(15deg);
+			-ms-transform: rotate(15deg);
+			transform: rotate(15deg);
+		}
+		40% {
+			-webkit-transform: rotate(-10deg);
+			-ms-transform: rotate(-10deg);
+			transform: rotate(-10deg);
+		}
+		60% {
+			-webkit-transform: rotate(5deg);
+			-ms-transform: rotate(5deg);
+			transform: rotate(5deg);
+		}
+		80% {
+			-webkit-transform: rotate(-5deg);
+			-ms-transform: rotate(-5deg);
+			transform: rotate(-5deg);
+		}
+		100% {
+			-webkit-transform: rotate(0deg);
+			-ms-transform: rotate(0deg);
+		transform: rotate(0deg);
+		}
 	}
+.swing:hover {
+	-webkit-transform-origin: bottom center;
+	-ms-transform-origin: bottom center;
+	transform-origin: bottom center;
+	-webkit-animation-name: swing;
+	animation-name: swing;
 }

@@ -53,11 +53,7 @@ header {
     font-size: 1rem;
     height: 88px;
     padding-right: 0;
-    padding-left: 0;
-    position: fixed;
-    width: 100%;
-    min-width: 320px;
-    z-index: 4; } }
+    padding-left: 0; } }
 html, body {
   background-color: snow;
   font-family: "jaf-facitweb", Helvetica, Arial, sans-serif;
@@ -155,7 +151,6 @@ a:visited {
 
 @media only screen and (max-width: 639px) {
   .mastTitle {
-    letter-spacing: 4px;
     margin-top: 16px;
     float: none;
     text-align: center; } }
@@ -213,10 +208,7 @@ hr {
 @media only screen and (max-width: 639px) {
   .heroImageHome, .containerMastHome {
     /* Home background fullscreen */
-    background: rgba(0, 0, 0, 0.48);
-    height: 556px;
-    position: relative;
-    width: 100%; } }
+    height: 556px; } }
 .containerMast {
   background: rgba(0, 0, 0, 0.48);
   height: auto;
@@ -268,32 +260,16 @@ hr {
 
 @media only screen and (max-width: 959px) {
   .copyBody {
-    margin: 0 auto 0 auto;
-    padding-top: 0;
-    /* The space between the hero-image and copy */
-    text-align: center;
     width: 800px; } }
 @media only screen and (max-width: 799px) {
   .copyBody {
-    margin: 0 auto 0 auto;
-    padding-top: 0;
-    /* The space between the hero-image and copy */
-    text-align: center;
     width: 720px; } }
 @media only screen and (max-width: 767px) {
   .copyBody {
-    margin: 0 auto 0 auto;
-    padding-top: 0;
-    /* The space between the hero-image and copy */
-    text-align: center;
     width: 640px; } }
 @media only screen and (max-width: 639px) {
   .copyBody {
     font-size: 132%;
-    margin: 0 auto 0 auto;
-    padding-top: 0;
-    /* The space between the hero-image and copy */
-    text-align: center;
     width: 320px; } }
 /* Home Typography
 ****************************************/
@@ -384,15 +360,8 @@ p {
 @media only screen and (max-width: 959px) {
   p {
     padding: 8px 16px 0 16px; } }
-@media only screen and (max-width: 799px) {
-  p {
-    padding: 8px 16px 0 16px; } }
-@media only screen and (max-width: 767px) {
-  p {
-    padding: 8px 16px 0 16px; } }
 @media only screen and (max-width: 639px) {
   p {
-    padding: 8px 16px 0 16px;
     width: 320px; } }
 .containerWork .copyBody p {
   text-align: center;
@@ -563,12 +532,14 @@ blockquote p {
 .infoCenterImage,
 .projectCenterImage,
 .workCenterImage {
+  display: block;
   margin: 24px auto 0 auto; }
 
 .centerImage,
 .projectCenterImage,
 .workCenterImage {
   border-radius: 2px;
+  display: block;
   margin: 24px auto 0 auto; }
 
 img.centerImageDS,
@@ -577,6 +548,7 @@ img.workCenterImageDS {
   background-color: snow;
   border-radius: 2px;
   box-shadow: rgba(156, 148, 148, 0.32) -6px 6px 8px, rgba(156, 148, 148, 0.08) -2px 2px 25px;
+  display: block;
   margin: 24px auto 0 auto; }
 
 @media only screen and (min-width: 640px) {
@@ -591,7 +563,8 @@ img.workCenterImageDS {
 .copyBody p a.projectCenterImage, .copyBody p a:active.projectCenterImage, .copyBody p a:hover.projectCenterImage, .copyBody p a:visited.projectCenterImage,
 .copyBody p a.workCenterImageDS, .copyBody p a:active.workCenterImageDS, .copyBody p a:hover.workCenterImageDS, .copyBody p a:visited.workCenterImageDS,
 .copyBody p a.workCenterImage, .copyBody p a:active.workCenterImage, .copyBody p a:hover.workCenterImage, .copyBody p a:visited.workCenterImage {
-  border: none; }
+  border: none;
+  display: block; }
 
 h6 {
   color: #999999;
@@ -663,13 +636,11 @@ h6 a:hover {
 
 @media only screen and (max-width: 959px) {
   .ctpbw {
-    padding-top: 50px;
-    height: auto; } }
+    padding-top: 50px; } }
 @media only screen and (max-width: 639px) {
   .ctpbw {
     padding-top: 20px;
-    width: 320px;
-    height: auto; } }
+    width: 320px; } }
 .ip4vh {
   background: url("http://aaroncalzado.com/portfolio/assets/images/ip4h.svg") no-repeat center;
   background-size: 62% auto;
@@ -684,8 +655,7 @@ h6 a:hover {
     padding-top: 24px; } }
 @media only screen and (max-width: 799px) {
   .ip4vh {
-    height: 236px;
-    padding-top: 24px; } }
+    height: 236px; } }
 @media only screen and (max-width: 767px) {
   .ip4vh {
     height: 210px;
@@ -718,3 +688,84 @@ h6 a:hover {
   .ip4vv {
     padding-top: 31px;
     height: 196px; } }
+/* Animation
+****************************************/
+/*!
+Animate.css - http://daneden.me/animate
+Licensed under the MIT license
+
+Copyright (c) 2013 Daniel Eden
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  height: 14px; }
+
+@media only screen and (max-width: 639px) {
+  .animated {
+    height: 11px; } }
+.animated.hinge {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s; }
+
+@-webkit-keyframes swing {
+  20% {
+    -webkit-transform: rotate(15deg);
+    transform: rotate(15deg); }
+
+  40% {
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg); }
+
+  60% {
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg); }
+
+  80% {
+    -webkit-transform: rotate(-5deg);
+    transform: rotate(-5deg); }
+
+  100% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg); } }
+
+@keyframes swing {
+  20% {
+    -webkit-transform: rotate(15deg);
+    -ms-transform: rotate(15deg);
+    transform: rotate(15deg); }
+
+  40% {
+    -webkit-transform: rotate(-10deg);
+    -ms-transform: rotate(-10deg);
+    transform: rotate(-10deg); }
+
+  60% {
+    -webkit-transform: rotate(5deg);
+    -ms-transform: rotate(5deg);
+    transform: rotate(5deg); }
+
+  80% {
+    -webkit-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    transform: rotate(-5deg); }
+
+  100% {
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg); } }
+
+.swing:hover {
+  -webkit-transform-origin: bottom center;
+  -ms-transform-origin: bottom center;
+  transform-origin: bottom center;
+  -webkit-animation-name: swing;
+  animation-name: swing; }
