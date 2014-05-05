@@ -1,0 +1,28 @@
+Title: Visual Design
+----
+Subtitle:
+----
+Caption: 2008–Now
+----
+Credit:
+----
+Text:
+
+##### IxDA Lecture Series Posters, 2011–2013
+This is a collection posters I designed for the IxDA Lecture series. IxDA UW hosts monthly lectures featuring local professional designers in the Greater Seattle area.
+
+(image: ixda-lsp-01.jpg class: projectCenterImageDS link: ixda-lsp-01.jpg width: 40%)
+
+(image: ixda-lsp-02.jpg class: projectCenterImageDS link: ixda-lsp-02.jpg width: 40%)
+
+(image: ixda-lsp-03.jpg class: projectCenterImageDS link: ixda-lsp-03.jpg width: 40%)
+
+(image: ixda-lsp-04.jpg class: projectCenterImageDS link: ixda-lsp-04.jpg width: 40%)
+
+(image: ixda-lsp-05.jpg class: projectCenterImageDS link: ixda-lsp-05.jpg width: 40%)
+
+(image: ixda-lsp-06.jpg class: projectCenterImageDS link: ixda-lsp-06.jpg width: 40%)
+
+(image: ixda-lsp-07.jpg class: projectCenterImageDS link: ixda-lsp-07.jpg width: 40%)
+
+(image: ixda-lsp-08.jpg class: projectCenterImageDS link: ixda-lsp-08.jpg width: 40%)

@@ -1,0 +1,37 @@
+Title: Side Projects
+----
+Subtitle: A collection of projects I’ve personally worked on for myself or for other people at my leisure. Most of the projects in this section are created for fun with the intent of learning something new or making something cool. Enjoy!
+----
+Caption: Selected Works from 2008 – Now
+----
+Credit:
+----
+Text:
+(image: throw-it-back.jpg class: workCenterImageDS link: /work/side-projects/visual-design)
+
+#### (link: /work/side-projects/visual-design text: Visual Design)
+
+Blah...
+
+(link: /work/side-projects/visual-design class: viewProjects text: View Project)
+
+****
+(image: lava-lamp.jpg class: workCenterImageDS link: /work/side-projects/lava-lamp)
+
+#### (link: /work/side-projects/lava-lamp text: Lava Lamp)
+
+Blah...
+
+(link: /work/side-projects/visual-design class: viewProjects text: View Project)
+
+****
+
+(image: throw-it-back.jpg class: workCenterImageDS link: /work/side-projects/print-work)
+
+#### (link: /work/side-projects/print-work text: Print Work)
+
+Blah...
+
+(link: /work/side-projects/visual-design class: viewProjects text: View Project)
+
+****
