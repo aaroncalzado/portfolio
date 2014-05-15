@@ -95,7 +95,7 @@ Guts:
 
 ##### Design Process
 
-To gain a better understanding of the speed dating process we initially mapped out the a speed dating model based off of secondary research material found on the web.
+To gain a better understanding of the speed dating process we initially mapped out a speed dating diagram based off of secondary research material found on the web.
 
 (image: speed-dating-map-01.jpg class: projectCenterImageDS link: speed-dating-map-01.jpg width: 75%)
 
@@ -168,7 +168,7 @@ To gain a better understanding of our speed dating demographic I participated in
 
 ##### Product Development
 
-While further refining Scout’s functionality we began to explore the physical design aspect of Scout and its possible uses. We sketched up multiple concepts exploring the shape and form of the Scout device. We decided on a small dongle form factor and began physically prototyping with balsa wood and other cheap materials. Screen-less etc.
+While further refining Scout’s functionality we began to explore the physical design aspect of Scout and its possible uses. We sketched up multiple concepts exploring the shape and form of the Scout device. We decided on a small dongle form factor and began physically prototyping with balsa wood and other cheap materials.
 
 (image: prototype-details.jpg class: projectCenterImageDS link: prototype-details.jpg width: 75%)
 

@@ -21,4 +21,5 @@
             <p style="text-align: center;"><img src="<?php echo url('assets/images/chevron.svg') ?>" style="width: 32px; height: 32px;"/></p>
           </div>
         </div>
-      </section>
+        <p class="photoCred"><?php echo html($page->credit()) ?></p>
+        </section>

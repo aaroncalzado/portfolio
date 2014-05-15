@@ -18,7 +18,7 @@ $containerWidthPhone: 640px;
 $copyWidth: 640px;
 $copyMarginDesktop: 24px auto 0 auto;
 $copyMarginPhone: 24px 8px 0 8px;
-$captionMarginDesktop: 0 auto 8px auto;
+$captionMarginDesktop: 8px auto 8px auto;
 $captionMarginPhone: 0 8px 0 8px;
 $listsMarginDesktop: 8px auto 0 auto;
 
@@ -611,10 +611,12 @@ blockquote p {
 ****************************************/
 
 .centerImage,
-.infoCenterImage,
 .projectCenterImage,
 .workCenterImage {
 	display: block;
+	margin: 24px auto 0 auto;
+}
+.infoCenterImage {
 	margin: 24px auto 0 auto;
 }
 .centerImage,

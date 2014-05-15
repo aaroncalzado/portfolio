@@ -7,31 +7,31 @@ Caption: Selected Works from 2008 – Now
 Credit:
 ----
 Text:
-(image: throw-it-back.jpg class: workCenterImageDS link: /work/side-projects/visual-design)
+(image: ixda-lecture-series-posters.jpg class: workCenterImageDS link: /work/side-projects/ixda-lecture-series-posters)
 
-#### (link: /work/side-projects/visual-design text: Visual Design)
+#### (link: /work/side-projects/ixda-lecture-series-posters text: IxDA Lecture Series Posters)
 
-Blah...
+Every month, IxDA UW invites professionals within the design industry to present on their experiences and share their wealth of knowledge to the design community at UW. In here, you will find a collection posters I designed for some of the speakers we had at the IxDA Lecture series.
 
-(link: /work/side-projects/visual-design class: viewProjects text: View Project)
+(link: /work/side-projects/ixda-lecture-series-posters class: viewProjects text: View Project)
 
 ****
 (image: lava-lamp.jpg class: workCenterImageDS link: /work/side-projects/lava-lamp)
 
 #### (link: /work/side-projects/lava-lamp text: Lava Lamp)
 
-Blah...
+The Lava Lamp was a lamp I designed during my sophomore year in design school. The physical aesthetics of the lamp were based off the visual aesthetics of lava in Hawai‘i and the five basic principles of design — balance, contrast, rhythm, focus, and unity.
 
-(link: /work/side-projects/visual-design class: viewProjects text: View Project)
+(link: /work/side-projects/lava-lamp class: viewProjects text: View Project)
 
 ****
 
-(image: throw-it-back.jpg class: workCenterImageDS link: /work/side-projects/print-work)
+(image: print-work.jpg class: workCenterImageDS link: /work/side-projects/print-work)
 
 #### (link: /work/side-projects/print-work text: Print Work)
 
-Blah...
+This is a collection of personal print making projects I’ve done in the process of learning traditional printing techniques.
 
-(link: /work/side-projects/visual-design class: viewProjects text: View Project)
+(link: /work/side-projects/print-work class: viewProjects text: View Project)
 
 ****
