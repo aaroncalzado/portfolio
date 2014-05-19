@@ -24,7 +24,8 @@ The Lava Lamp was a lamp I designed during my sophomore year in design school. T
 
 (link: /work/side-projects/lava-lamp class: viewProjects text: View Project)
 
-****
+
+<!-- ****
 
 (image: print-work.jpg class: workCenterImageDS link: /work/side-projects/print-work)
 
@@ -34,4 +35,4 @@ This is a collection of personal print making projects I’ve done in the proces
 
 (link: /work/side-projects/print-work class: viewProjects text: View Project)
 
-****
+**** -->
