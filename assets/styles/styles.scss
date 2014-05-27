@@ -29,33 +29,33 @@ $buttonRadius: 4px;
 ****************************************/
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-	border: 0;
-	font-size: 100%;
-	/* font: inherit; */
-	vertical-align: baseline;
-	margin: 0;
-	padding: 0;
+  border: 0;
+  font-size: 100%;
+  /* font: inherit; */
+  vertical-align: baseline;
+  margin: 0;
+  padding: 0;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-	display: block;
+  display: block;
 }
 body {
-	line-height: 1;
+  line-height: 1;
 }
 ol, ul {
-	list-style: none;
+  list-style: none;
 }
 blockquote, q {
-	quotes: none;
+  quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
-	content: none;
+  content: '';
+  content: none;
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 
@@ -68,107 +68,107 @@ table {
   box-sizing: border-box;
 }
 header{
-	background: rgb(0, 0, 0);
+  background: rgb(0, 0, 0);
     background: rgba(0, 0, 0, .72);
-	font-size: $headerFontSize;
-	height: 56px;
-	padding-right: 8px;
-	padding-left: 8px;
-	position:fixed; 
-	width: 100%; 
-  	min-width: 320px;
-	z-index: 4;
+  font-size: $headerFontSize;
+  height: 56px;
+  padding-right: 8px;
+  padding-left: 8px;
+  position:fixed; 
+  width: 100%; 
+    min-width: 320px;
+  z-index: 4;
 }
-	@media only screen and (max-width: 639px) {
-		header{
-			font-size: 1rem;
-			height: 88px;
-			padding-right: 0;
-			padding-left: 0;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+    header{
+      font-size: 1rem;
+      height: 88px;
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
 html, body {
-	background-color: $colorKnockout;
-	font-family: $houseBodyFont, Helvetica, Arial, sans-serif;
-	font-size: 96%;
-	font-weight: 400;
-	height: 100%;
-	line-height: 1.72;
-	margin: 0px;
-	padding: 0px;
+  background-color: $colorKnockout;
+  font-family: $houseBodyFont, Helvetica, Arial, sans-serif;
+  font-size: 96%;
+  font-weight: 400;
+  height: 100%;
+  line-height: 1.72;
+  margin: 0px;
+  padding: 0px;
 }
-	@media only screen and (max-width: 639px) {
-		html, body {
-			font-size: 72%;
-			height: 72%;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+    html, body {
+      font-size: 72%;
+      height: 72%;
+    }
+  }
 footer {
-	background-color: $houseColor;
-	color: $colorKnockout;
-	font-size: $footerFontSize;
-	letter-spacing: 2px;
-	margin: 32px 0 0 0;
-	padding: 32px 0 32px 0;
-	position: absolute;
-	text-align: center;
-	text-transform: uppercase;
-	width: 100%;
-	min-width: 320px;
+  background-color: $houseColor;
+  color: $colorKnockout;
+  font-size: $footerFontSize;
+  letter-spacing: 2px;
+  margin: 32px 0 0 0;
+  padding: 32px 0 32px 0;
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+  min-width: 320px;
 }
-	@media only screen and (max-width: 639px) {
-		footer {
-			font-size: 100%;
-			letter-spacing: 1px;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+    footer {
+      font-size: 100%;
+      letter-spacing: 1px;
+    }
+  }
 .footerHome,
 .footerHome a {
-	color: $colorKnockout;
-	font-size: $footerFontSize;
-	letter-spacing: 2px;
-	margin: 32px 0 0 0;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;
-	width: 100%;
-	min-width: 320px;
+  color: $colorKnockout;
+  font-size: $footerFontSize;
+  letter-spacing: 2px;
+  margin: 32px 0 0 0;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 100%;
+  min-width: 320px;
 }
-	@media only screen and (max-width: 639px) {
-		.footerHome,
-		.footerHome a {
-			font-size: 100%;
-			letter-spacing: 1px;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+    .footerHome,
+    .footerHome a {
+      font-size: 100%;
+      letter-spacing: 1px;
+    }
+  }
 .footerHome a:hover,
 .footerHome a:active,
 .footerHome a:visited {
-	border-bottom: 1px solid $colorKnockout;
-	color: $colorKnockout;
-	text-decoration: none;
+  border-bottom: 1px solid $colorKnockout;
+  color: $colorKnockout;
+  text-decoration: none;
 }
 .content footer a,
 .content footer a:active,
-.content footer a:visited {	
-	border-bottom: none;
-	color: $colorKnockout;
-	text-decoration: none;
+.content footer a:visited {  
+  border-bottom: none;
+  color: $colorKnockout;
+  text-decoration: none;
 }
 .content footer a:hover, {
-	border-bottom: 1px solid $colorKnockout;
-	color: $colorKnockout;
-	text-decoration: none;
+  border-bottom: 1px solid $colorKnockout;
+  color: $colorKnockout;
+  text-decoration: none;
 }
 a,
 a:active,
 a:hover,
 a:visited {
-	-ms-transition: .5s;
-	-moz-transition: .5s;
-	-o-transition: .5s;
-	-webkit-transition: .5s;
-	transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -o-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s;
 }
 
 header .mastTitle >
@@ -176,434 +176,434 @@ a,
 a:hover,
 a:active,
 a:visited {
-	border-bottom: none;
-	color: $colorKnockout;
-	text-decoration: none;
+  border-bottom: none;
+  color: $colorKnockout;
+  text-decoration: none;
 }
 .mastTitle {
-	color: $colorKnockout;
-	float: left;
-	letter-spacing: 4px;
-	margin: 18px 8px 8px 16px; /* Lines up title and nav */
-	position: relative;
-	text-transform: uppercase;
+  color: $colorKnockout;
+  float: left;
+  letter-spacing: 4px;
+  margin: 18px 8px 8px 16px; /* Lines up title and nav */
+  position: relative;
+  text-transform: uppercase;
 }
-	@media only screen and (max-width: 639px) {
-		.mastTitle {
-			margin-top: 16px;
-			float: none;
-			text-align: center;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+    .mastTitle {
+      margin-top: 16px;
+      float: none;
+      text-align: center;
+    }
+  }
 header .mastNav {
-	color: $colorKnockout;
-	float: right;
-	margin: 18px 16px 8px 8px;
-	position: relative;
+  color: $colorKnockout;
+  float: right;
+  margin: 18px 16px 8px 8px;
+  position: relative;
 }
-	@media only screen and (max-width: 639px) {
-		header .mastNav {
-			float: none;
-			margin-top: 14px;
-			text-align: center;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+    header .mastNav {
+      float: none;
+      margin-top: 14px;
+      text-align: center;
+    }
+  }
 .mastNav ul li {
-	color: $colorKnockout;
-	display: inline;
-	letter-spacing: 4px;
-	list-style: none;
-	padding-left: 12px; /* Adjusts the space between Nav buttons */
-	text-transform: uppercase;
+  color: $colorKnockout;
+  display: inline;
+  letter-spacing: 4px;
+  list-style: none;
+  padding-left: 12px; /* Adjusts the space between Nav buttons */
+  text-transform: uppercase;
 }
 .mastNav ul li a {
-	border: 1px solid $colorKnockout;
-	border-radius: $buttonRadius;
-	color: $colorKnockout;	
-	padding: 4px 8px 4px 12px; /* Padding for Nav buttons */
-	text-decoration: none;
+  border: 1px solid $colorKnockout;
+  border-radius: $buttonRadius;
+  color: $colorKnockout;  
+  padding: 4px 8px 4px 12px; /* Padding for Nav buttons */
+  text-decoration: none;
 }
 .mastNav ul li a.active, .mastNav ul li a:hover {
-	border: 1px solid $colorKnockout;
-	background-color: $colorKnockout;
-	color: #303030;
+  border: 1px solid $colorKnockout;
+  background-color: $colorKnockout;
+  color: #303030;
 }
 hr {
-	border: 0;
+  border: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.16);
     border-bottom: 1px solid rgba(255, 255, 255, 0.32);
-	height: 0;
-	margin: 40px auto 8px auto;
-	width: 320px;
+  height: 0;
+  margin: 40px auto 8px auto;
+  width: 320px;
 }
-	@media only screen and (max-width: 639px) {
-		hr {
-			width: 280px;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+    hr {
+      width: 280px;
+    }
+  }
 .heroImageHome, .containerMastHome { /* Home background fullscreen */
-	background: rgba(0, 0, 0, 0.48);
-	height: 100%;
-	position: relative;
-	width: 100%;
+  background: rgba(0, 0, 0, 0.48);
+  height: 100%;
+  position: relative;
+  width: 100%;
 }
-	@media only screen and (max-width: 639px) {
-		.heroImageHome, .containerMastHome { /* Home background fullscreen */
-			height: 556px;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+    .heroImageHome, .containerMastHome { /* Home background fullscreen */
+      height: 556px;
+    }
+  }
 .containerMast {
-	background: rgba(0, 0, 0, 0.48);
-	height: auto;
-	min-height: 480px;
-	position: relative;
-	width: 100%;
-	/* &:before {
-	content: '';
-	display: inline-block;
-	height: 100%; 
-	vertical-align: middle;
-	margin-right: -0.25em; Adjusts for spacing
-	} */
+  background: rgba(0, 0, 0, 0.48);
+  height: auto;
+  min-height: 480px;
+  position: relative;
+  width: 100%;
+  /* &:before {
+  content: '';
+  display: inline-block;
+  height: 100%; 
+  vertical-align: middle;
+  margin-right: -0.25em; Adjusts for spacing
+  } */
 }
 .heroImage, .content {
-	position: relative;
-	width: 100%;
+  position: relative;
+  width: 100%;
 }
 .heroImageHome, .heroImage {
-	background-position: center center;
-	background-size: cover;
+  background-position: center center;
+  background-size: cover;
 }
-	@media only screen and (min-width: 1025px) {
-		.heroImageHome, .heroImage {
-		background-attachment: fixed;
-		}
-	}
+  @media only screen and (min-width: 1025px) {
+    .heroImageHome, .heroImage {
+    background-attachment: fixed;
+    }
+  }
 .copyMast, .copyMastInfo {
-	color: $colorKnockout;
-	min-height: 480px; 
-	margin: -5em auto 0 auto; 
-	position: absolute; 
-	text-align: center;
-	top: 44%; 
-	width: 100%;
+  color: $colorKnockout;
+  min-height: 480px; 
+  margin: -5em auto 0 auto; 
+  position: absolute; 
+  text-align: center;
+  top: 44%; 
+  width: 100%;
 }
 .containerWork {
-	text-align: center;
+  text-align: center;
 }
 .containerInfo, .containerProject {
-	margin: 0 auto 0 auto;
-	position: relative;
-	max-width: 100%;
+  margin: 0 auto 0 auto;
+  position: relative;
+  max-width: 100%;
 }
 .copyBody{ 
-	margin: 0 auto 0 auto;
-	padding-top: 0; /* The space between the hero-image and copy */
-	text-align: center;
-	width: $containerWidthDesktop;
+  margin: 0 auto 0 auto;
+  padding-top: 0; /* The space between the hero-image and copy */
+  text-align: center;
+  width: $containerWidthDesktop;
 }
-	@media only screen and (max-width: 959px) {
-		.copyBody{ 
-			width: $containerWidthTablet;
-		}
-	}
-	@media only screen and (max-width: 799px) {
-		.copyBody{ 
-			width: $containerWidthIpad;
-		}
-	}
-	@media only screen and (max-width: 767px) {
-		.copyBody{ 
-			width: $containerWidthPhone;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		.copyBody{
-			font-size: 132%;
-			width: 320px;
-		}
-	}
+  @media only screen and (max-width: 959px) {
+    .copyBody{ 
+      width: $containerWidthTablet;
+    }
+  }
+  @media only screen and (max-width: 799px) {
+    .copyBody{ 
+      width: $containerWidthIpad;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .copyBody{ 
+      width: $containerWidthPhone;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    .copyBody{
+      font-size: 132%;
+      width: 320px;
+    }
+  }
 
 
 /* Home Typography
 ****************************************/
 h2 {
-	color: $colorKnockout;
-	font-size: 1.32rem;
-	font-weight: 300;
-	line-height: 1.96rem;
-	margin: 0 auto 0 auto;
-	text-align: center;
-	width: $copyWidth;
+  color: $colorKnockout;
+  font-size: 1.32rem;
+  font-weight: 300;
+  line-height: 1.96rem;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  width: $copyWidth;
 }
-	@media only screen and (max-width: 767px) {
-		h2 {
-			padding: 0 68px 0 68px;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		h2 {
-			padding: 0 12px 0 12px;
-			width: 320px;
-		}
-	}
+  @media only screen and (max-width: 767px) {
+    h2 {
+      padding: 0 68px 0 68px;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    h2 {
+      padding: 0 12px 0 12px;
+      width: 320px;
+    }
+  }
 .copyMastHome h2 a {
-	color: $colorKnockout;
-	border-bottom: 1px solid $colorKnockout;
-	text-decoration: none;
+  color: $colorKnockout;
+  border-bottom: 1px solid $colorKnockout;
+  text-decoration: none;
 }
 .copyMastHome h2
 a:hover,
 a:active,
 a:visited {
-	border-bottom: 1px solid $colorKnockout;
-	color: $colorKnockout;
-	text-decoration: none;
+  border-bottom: 1px solid $colorKnockout;
+  color: $colorKnockout;
+  text-decoration: none;
 }
 .containerMastHome .copyMastHome .homeButton p {
-	font-size: $headerFontSize;
-	letter-spacing: 4px;
-	margin: 32px auto 0 auto;
-	text-align: center;
-	text-transform: uppercase;
+  font-size: $headerFontSize;
+  letter-spacing: 4px;
+  margin: 32px auto 0 auto;
+  text-align: center;
+  text-transform: uppercase;
 }
 .containerMastHome .copyMastHome .homeButton p a {
-	border: 1px solid $colorKnockout;
-	border-radius: $buttonRadius;
-	color: $colorKnockout;
-	display: inline;
-	list-style: none;
-	padding: 8px 12px 8px 16px;
-	text-decoration: none;
+  border: 1px solid $colorKnockout;
+  border-radius: $buttonRadius;
+  color: $colorKnockout;
+  display: inline;
+  list-style: none;
+  padding: 8px 12px 8px 16px;
+  text-decoration: none;
 }
 .containerMastHome .copyMastHome .homeButton p a:hover {
-	background-color: $colorKnockout;
-	border: 1px solid $colorKnockout;
-	border-radius: $buttonRadius;
-	color: #333332;
-	display: inline;
-	list-style: none;
-	padding: 8px 12px 8px 16px;
-	text-decoration: none;
+  background-color: $colorKnockout;
+  border: 1px solid $colorKnockout;
+  border-radius: $buttonRadius;
+  color: #333332;
+  display: inline;
+  list-style: none;
+  padding: 8px 12px 8px 16px;
+  text-decoration: none;
 }
 .copyMastHome {
-	height: auto; 
-	margin: 0 auto 0 auto;
-	position: relative; 
-	top: 32%; 
-	width: $containerWidthDesktop;
+  height: auto; 
+  margin: 0 auto 0 auto;
+  position: relative; 
+  top: 32%; 
+  width: $containerWidthDesktop;
 }
-	@media only screen and (max-width: 959px) {
-		.copyMastHome {
-			width: $containerWidthTablet;
-		}
-	}
-	@media only screen and (max-width: 799px) {
-		.copyMastHome {
-			width: $containerWidthIpad;
-		}
-	}
-	@media only screen and (max-width: 767px) {
-		.copyMastHome {
-			width: $containerWidthPhone;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		.copyMastHome {
-			top: 24%;
-			width: 320px;
-		}
-	}
+  @media only screen and (max-width: 959px) {
+    .copyMastHome {
+      width: $containerWidthTablet;
+    }
+  }
+  @media only screen and (max-width: 799px) {
+    .copyMastHome {
+      width: $containerWidthIpad;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .copyMastHome {
+      width: $containerWidthPhone;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    .copyMastHome {
+      top: 24%;
+      width: 320px;
+    }
+  }
 
 
 /* Typography
 ****************************************/
 
 p {
-	color: $color;
-	margin: $copyMarginDesktop;
-	padding-top: 8px;
-	text-align: left;
-	width: $copyWidth;
+  color: $color;
+  margin: $copyMarginDesktop;
+  padding-top: 8px;
+  text-align: left;
+  width: $copyWidth;
 }
-	@media only screen and (max-width: 959px) {
-		p {
-			padding: 8px 16px 0 16px;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		p {
-			width: 320px;
-		}
-	}
+  @media only screen and (max-width: 959px) {
+    p {
+      padding: 8px 16px 0 16px;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    p {
+      width: 320px;
+    }
+  }
 .containerWork .copyBody p {
-	text-align: center;
-	width: $copyWidth;
+  text-align: center;
+  width: $copyWidth;
 }
-	@media only screen and (max-width: 639px) {
-	.containerWork .copyBody p  {
-			font-size: 132%;
-			width: 320px;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+  .containerWork .copyBody p  {
+      font-size: 132%;
+      width: 320px;
+    }
+  }
 h1 { /* Title in Mast */
-	color: $colorKnockout;
-	font-weight: 600;
-	font-size: 3rem;
-	line-height: 3.64rem;
-	text-align: center;
+  color: $colorKnockout;
+  font-weight: 600;
+  font-size: 3rem;
+  line-height: 3.64rem;
+  text-align: center;
 }
 h3 { /* Subtitle in Mast */
-	font-weight: 300;
-	font-size: 1.32rem;
-	line-height: 1.96rem;
-	margin: auto;
-	-webkit-margin-before: 0px;
-	-webkit-margin-after: 0px;
-	-webkit-margin-start: auto;
-	-webkit-margin-end: auto;
-	padding: 16px 0 0 0;
-	text-align: center;
-	width: $copyWidth;
+  font-weight: 300;
+  font-size: 1.32rem;
+  line-height: 1.96rem;
+  margin: auto;
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+  -webkit-margin-start: auto;
+  -webkit-margin-end: auto;
+  padding: 16px 0 0 0;
+  text-align: center;
+  width: $copyWidth;
 }
-	@media only screen and (max-width: 767px) {
-		h3 {
-			padding: 0 68px 0 68px;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		h3 {
-			padding: 0 12px 0 12px;
-			width: 320px;
-		}
-	}
+  @media only screen and (max-width: 767px) {
+    h3 {
+      padding: 0 68px 0 68px;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    h3 {
+      padding: 0 12px 0 12px;
+      width: 320px;
+    }
+  }
 h4 { /* Work page Project titles */
-	color: $color;
-	font-weight: 600;
-	font-size: 1.72rem;
-	line-height: 1.96rem;
-	padding: 16px 0 0 0;
-	text-align: center;
+  color: $color;
+  font-weight: 600;
+  font-size: 1.72rem;
+  line-height: 1.96rem;
+  padding: 16px 0 0 0;
+  text-align: center;
 }
 h4 + p {
-	margin-top: 0;
+  margin-top: 0;
 }
 h4 a,
 h4 a:active,
 h4 a:visited {
-	color: $color;
-	text-decoration: none;
+  color: $color;
+  text-decoration: none;
 }
 h4 a:hover {
-	color: $houseColor;
-	text-decoration: none;
+  color: $houseColor;
+  text-decoration: none;
 }
 .copyBody p a.viewProjects,
 .copyBody p a:active.viewProjects,
 .copyBody p a:visited.viewProjects { /* Work page buttons */
-	background-color: $houseColor;
-	border-radius: $buttonRadius;
-	border-bottom: 2px solid $houseColor;
-	color: $colorKnockout;
-	font-size: $headerFontSize;
-	letter-spacing: 4px;
-	padding: 12px 20px 12px 24px;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;
+  background-color: $houseColor;
+  border-radius: $buttonRadius;
+  border-bottom: 2px solid $houseColor;
+  color: $colorKnockout;
+  font-size: $headerFontSize;
+  letter-spacing: 4px;
+  padding: 12px 20px 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
 }
-	@media only screen and (max-width: 639px) {
-		.copyBody p a.viewProjects,
-		.copyBody p a:active.viewProjects,
-		.copyBody p a:visited.viewProjects { /* Work page buttons */
-			font-size: 1rem;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+    .copyBody p a.viewProjects,
+    .copyBody p a:active.viewProjects,
+    .copyBody p a:visited.viewProjects { /* Work page buttons */
+      font-size: 1rem;
+    }
+  }
 .copyBody p > a:hover.viewProjects { /* Work page buttons */
-	background-color: $houseColor;
-	border-bottom: 2px solid $houseShade;
-	color: $colorKnockout;
-	text-align: center;
-	text-decoration: none;
+  background-color: $houseColor;
+  border-bottom: 2px solid $houseShade;
+  color: $colorKnockout;
+  text-align: center;
+  text-decoration: none;
 }
 h5 { /* Headers for bodies in Project page */
-	font-weight: 700;
-	font-size: 1rem;
-	letter-spacing: 2px;
-	margin: $copyMarginDesktop;
-	padding: 8px 0 0 0;
-	width: $copyWidth;
-	text-align: left;
-	text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 2px;
+  margin: $copyMarginDesktop;
+  padding: 8px 0 0 0;
+  width: $copyWidth;
+  text-align: left;
+  text-transform: uppercase;
 }
-	@media only screen and (max-width: 959px) {
-		h5 {
-			padding: 8px 16px 0 16px;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		h5 {
-			padding: 8px 16px 0 16px;
-			width: 320px;
-		}
-	}
+  @media only screen and (max-width: 959px) {
+    h5 {
+      padding: 8px 16px 0 16px;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    h5 {
+      padding: 8px 16px 0 16px;
+      width: 320px;
+    }
+  }
 h5 + p { /* Adjusts the space of the first <p> after h5*/
-	margin-top: 0;
+  margin-top: 0;
 }
 blockquote p {
-	/* background: -webkit-gradient(linear,left top,left bottom,from($houseColor),to(#646F5E));
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent; */
-	opacity: 0.80;	
-	font-size: 1.56rem;
-	font-weight: 400;
-	font-style: italic;
-	line-height: 2.40rem;
-	margin: 24px auto 0 auto;
-	text-align: center;
-	width: 75%;
+  /* background: -webkit-gradient(linear,left top,left bottom,from($houseColor),to(#646F5E));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+  opacity: 0.80;  
+  font-size: 1.56rem;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 2.40rem;
+  margin: 24px auto 0 auto;
+  text-align: center;
+  width: 75%;
 }
-	@media only screen and (max-width: 959px) {
-		blockquote p {
-			width: 100%;
-		}
-	}
+  @media only screen and (max-width: 959px) {
+    blockquote p {
+      width: 100%;
+    }
+  }
 .photoCred {
-	color: $colorKnockout;
-	font-size: 0.72rem;
-	font-weight: 200;
-	margin: -56px 0 0 0;
-	opacity: 0.24;
-	padding-right: 32px;
-	position: absolute;
-	text-align: right;
-	width: 100%;
-	z-index: 4;
+  color: $colorKnockout;
+  font-size: 0.72rem;
+  font-weight: 200;
+  margin: -56px 0 0 0;
+  opacity: 0.24;
+  padding-right: 32px;
+  position: absolute;
+  text-align: right;
+  width: 100%;
+  z-index: 4;
 }
 .copyBody p a,
 .copyBody p a:visited {
-	border-bottom: 1px solid $color;
-	color: $color;
-	text-decoration: none;
+  border-bottom: 1px solid $color;
+  color: $color;
+  text-decoration: none;
 }
 .copyBody p a:active,
 .copyBody p a:hover {
-	border-bottom: 1px solid $houseColor;
-	color: $houseColor;
-	text-decoration: none;
+  border-bottom: 1px solid $houseColor;
+  color: $houseColor;
+  text-decoration: none;
 }
 .copyBody ul li {
-	color: $color;
-	list-style-type: circle;
-	margin: $listsMarginDesktop;
-	text-align: left;
-	width: $copyWidth;
+  color: $color;
+  list-style-type: circle;
+  margin: $listsMarginDesktop;
+  text-align: left;
+  width: $copyWidth;
 }
 .copyBody ol li {
-	color: $color;
-	margin: $listsMarginDesktop;
-	text-align: left;
-	width: $copyWidth;
+  color: $color;
+  margin: $listsMarginDesktop;
+  text-align: left;
+  width: $copyWidth;
 }
 
 
@@ -613,93 +613,112 @@ blockquote p {
 .centerImage,
 .projectCenterImage,
 .workCenterImage {
-	display: block;
-	margin: 24px auto 0 auto;
+  display: block;
+  margin: 24px auto 0 auto;
 }
 .infoCenterImage {
-	margin: 24px auto 0 auto;
+  margin: 24px auto 0 auto;
 }
 .centerImage,
 .projectCenterImage,
 .workCenterImage {
-	border-radius: 2px;
-	display: block;
-	margin: 24px auto 0 auto;
+  border-radius: 2px;
+  display: block;
+  margin: 24px auto 0 auto;
 }
 img.centerImageDS,
 img.projectCenterImageDS,
 img.workCenterImageDS {
-	background-color: $colorKnockout;
-	border-radius: 2px;
-	box-shadow:
-		rgba(156, 148, 148, 0.32) -6px 6px 8px,
-		rgba(156, 148, 148, 0.08) -2px 2px 25px;
-	display: block;
-	margin: 24px auto 0 auto;
+  background-color: $colorKnockout;
+  border-radius: 2px;
+  box-shadow:
+    rgba(156, 148, 148, 0.32) -6px 6px 8px,
+    rgba(156, 148, 148, 0.08) -2px 2px 25px;
+  display: block;
+  margin: 24px auto 0 auto;
 }
-	@media only screen and (min-width: 640px) {
-		img.workCenterImageDS, img.workCenterImage {
-			width: 75%;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		img.workCenterImageDS, img.workCenterImage {
-			width: 100%;
-		}
-	}
+  @media only screen and (min-width: 640px) {
+    img.workCenterImageDS, img.workCenterImage {
+      width: 75%;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    img.workCenterImageDS, img.workCenterImage {
+      width: 100%;
+    }
+  }
 .copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
 .copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,
 .copyBody p a.projectCenterImageDS, .copyBody p a:active.projectCenterImageDS, .copyBody p a:hover.projectCenterImageDS, .copyBody p a:visited.projectCenterImageDS,
 .copyBody p a.projectCenterImage, .copyBody p a:active.projectCenterImage, .copyBody p a:hover.projectCenterImage, .copyBody p a:visited.projectCenterImage,
 .copyBody p a.workCenterImageDS, .copyBody p a:active.workCenterImageDS, .copyBody p a:hover.workCenterImageDS, .copyBody p a:visited.workCenterImageDS,
 .copyBody p a.workCenterImage, .copyBody p a:active.workCenterImage, .copyBody p a:hover.workCenterImage, .copyBody p a:visited.workCenterImage {
-	border: none;
-	display: block;
+  border: none;
+  display: block;
 }
+.browser {
+  background: url("http://aaroncalzado.com/portfolio/assets/images/browser.svg") no-repeat top center;
+  background-size: 100%;
+  margin: 24px auto 0 auto;
+  padding-top: 60px;
+  text-align: center;
+  height: auto;
+}
+  @media only screen and (max-width: 959px) {
+    .ctpbw {
+      padding-top: 50px;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    .ctpbw {
+      padding-top: 20px;
+      width: 320px;
+    }
+  }
 h6 {
-	color: $colorLight;
-	font-size: .88rem;
-	font-style: italic;
-	font-weight: 300;
-	margin: $captionMarginDesktop;
-	text-align: left;
-	width: $copyWidth;
+  color: $colorLight;
+  font-size: .88rem;
+  font-style: italic;
+  font-weight: 300;
+  margin: $captionMarginDesktop;
+  text-align: left;
+  width: $copyWidth;
 }
-	@media only screen and (max-width: 959px) {
-		h6 {
-			padding: 0 16px 0 16px;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		h6 {
-			padding: 0 16px 0 16px;
-			width: 320px;
-		}
-	}
+  @media only screen and (max-width: 959px) {
+    h6 {
+      padding: 0 16px 0 16px;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    h6 {
+      padding: 0 16px 0 16px;
+      width: 320px;
+    }
+  }
 h6 a,
 a:active,
 a:visited {
-	border-bottom: 1px solid $colorLight;
-	color: $colorLight;
-	text-decoration: none;
+  border-bottom: 1px solid $colorLight;
+  color: $colorLight;
+  text-decoration: none;
 }
 h6 a:hover {
-	border-bottom: 1px solid $houseColor;
-	color: $houseColor;
-	text-decoration: none;
+  border-bottom: 1px solid $houseColor;
+  color: $houseColor;
+  text-decoration: none;
 }
 .profile {
-	background: -webkit-linear-gradient(#DBDBDB, $colorKnockout); /* For Safari 5.1 to 6.0 */
-	background: -o-linear-gradient(#DBDBDB, $colorKnockout); /* For Opera 11.1 to 12.0 */
-	background: -moz-linear-gradient(#DBDBDB, $colorKnockout); /* For Firefox 3.6 to 15 */
-	background: linear-gradient(#DBDBDB, $colorKnockout); /* Standard syntax */
-	border: 1px solid #AAAAAA;
-	border-radius: 100%;
-	height: 240px;
-	margin: -32px auto 0 auto; /* -32px to center the profile picture vertically */
-	padding: 5px;
-	text-align: center;
-	width: 240px;
+  background: -webkit-linear-gradient(#DBDBDB, $colorKnockout); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#DBDBDB, $colorKnockout); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#DBDBDB, $colorKnockout); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#DBDBDB, $colorKnockout); /* Standard syntax */
+  border: 1px solid #AAAAAA;
+  border-radius: 100%;
+  height: 240px;
+  margin: -32px auto 0 auto; /* -32px to center the profile picture vertically */
+  padding: 5px;
+  text-align: center;
+  width: 240px;
 }
 
 
@@ -707,99 +726,99 @@ h6 a:hover {
 ****************************************/
 
 .video-container {
-	margin-top: 24px auto 0 auto;
-	padding-top: 24px;
-	text-align: center;
+  margin-top: 24px auto 0 auto;
+  padding-top: 24px;
+  text-align: center;
 }
 .bareVideo {
-	margin: 24px auto 0 auto;
-	text-align: center;
+  margin: 24px auto 0 auto;
+  text-align: center;
 }
 .bareVideo + p {
-	margin: 0 auto 32px auto;
+  margin: 0 auto 32px auto;
 }
 .ctpbw {
-	background: url("http://aaroncalzado.com/portfolio/assets/images/ctpbw.svg") no-repeat top center;
-	background-size: 75%;
-	margin: 24px auto 0 auto;
-	padding-top: 60px;
-	text-align: center;
-	height: auto;
+  background: url("http://aaroncalzado.com/portfolio/assets/images/ctpbw.svg") no-repeat top center;
+  background-size: 75%;
+  margin: 24px auto 0 auto;
+  padding-top: 60px;
+  text-align: center;
+  height: auto;
 }
-	@media only screen and (max-width: 959px) {
-		.ctpbw {
-			padding-top: 50px;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		.ctpbw {
-			padding-top: 20px;
-			width: 320px;
-		}
-	}
+  @media only screen and (max-width: 959px) {
+    .ctpbw {
+      padding-top: 50px;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    .ctpbw {
+      padding-top: 20px;
+      width: 320px;
+    }
+  }
 .ip4vh {
-	background: url("http://aaroncalzado.com/portfolio/assets/images/ip4h.svg") no-repeat center;
-	background-size: 62% auto;
-	margin: 24px auto 0 auto;
-	padding-top: 32px;
-	text-align: center;
-	height: 316px;
+  background: url("http://aaroncalzado.com/portfolio/assets/images/ip4h.svg") no-repeat center;
+  background-size: 62% auto;
+  margin: 24px auto 0 auto;
+  padding-top: 32px;
+  text-align: center;
+  height: 316px;
 }
-	@media only screen and (max-width: 959px) {
-		.ip4vh {
-			height: 256px;
-			padding-top: 24px;
-		}
-	}
-	@media only screen and (max-width: 799px) {
-		.ip4vh {
-			height: 236px;
-		}
-	}
-	@media only screen and (max-width: 767px) {
-		.ip4vh {
-			height: 210px;
-			padding-top: 22px;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		.ip4vh {
-			height: 112px;
-			padding-top: 16px;
-		}
-	}
+  @media only screen and (max-width: 959px) {
+    .ip4vh {
+      height: 256px;
+      padding-top: 24px;
+    }
+  }
+  @media only screen and (max-width: 799px) {
+    .ip4vh {
+      height: 236px;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .ip4vh {
+      height: 210px;
+      padding-top: 22px;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    .ip4vh {
+      height: 112px;
+      padding-top: 16px;
+    }
+  }
 .ip4vv {
-	background: url("http://aaroncalzado.com/portfolio/assets/images/ip4v.svg") no-repeat center;
-	background-size: 35% auto;
-	margin: 24px auto 0 auto;
-	padding-top: 92px;
-	text-align: center;
-	height: 582px;
+  background: url("http://aaroncalzado.com/portfolio/assets/images/ip4v.svg") no-repeat center;
+  background-size: 35% auto;
+  margin: 24px auto 0 auto;
+  padding-top: 92px;
+  text-align: center;
+  height: 582px;
 }
-	@media only screen and (max-width: 959px) {
-		.ip4vv {
-			padding-top: 82px;
-			height: 488px;
-		}
-	}
-	@media only screen and (max-width: 799px) {
-		.ip4vv {
-			padding-top: 74px;
-			height: 440px;
-		}
-	}
-	@media only screen and (max-width: 767px) {
-		.ip4vv {
-			padding-top: 64px;
-			height: 392px;
-		}
-	}
-	@media only screen and (max-width: 639px) {
-		.ip4vv {
-			padding-top: 31px;
-			height: 196px;
-		}
-	}
+  @media only screen and (max-width: 959px) {
+    .ip4vv {
+      padding-top: 82px;
+      height: 488px;
+    }
+  }
+  @media only screen and (max-width: 799px) {
+    .ip4vv {
+      padding-top: 74px;
+      height: 440px;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .ip4vv {
+      padding-top: 64px;
+      height: 392px;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    .ip4vv {
+      padding-top: 31px;
+      height: 196px;
+    }
+  }
 
 
 /* Animation
@@ -819,74 +838,74 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 */
 
 .animated {
-	-webkit-animation-duration: 1s;
-	animation-duration: 1s;
-	-webkit-animation-fill-mode: both;
-	animation-fill-mode: both;
-	height: 14px;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  height: 14px;
 }
-	@media only screen and (max-width: 639px) {
-		.animated {
-			height: 11px;
-		}
-	}
+  @media only screen and (max-width: 639px) {
+    .animated {
+      height: 11px;
+    }
+  }
 .animated.hinge {
-	-webkit-animation-duration: 2s;
-	animation-duration: 2s;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
 }
-	@-webkit-keyframes swing {
-		20% {
-			-webkit-transform: rotate(15deg);
-			transform: rotate(15deg);
-		}
-	  	40% {
-			-webkit-transform: rotate(-10deg);
-			transform: rotate(-10deg);
-		}
-		60% {
-			-webkit-transform: rotate(5deg);
-			transform: rotate(5deg);
-		}
-	  	80% {
-			-webkit-transform: rotate(-5deg);
-			transform: rotate(-5deg);
-		}
-		100% {
-			-webkit-transform: rotate(0deg);
-			transform: rotate(0deg);
-		}
-	}
-	@keyframes swing {
-		20% {
-			-webkit-transform: rotate(15deg);
-			-ms-transform: rotate(15deg);
-			transform: rotate(15deg);
-		}
-		40% {
-			-webkit-transform: rotate(-10deg);
-			-ms-transform: rotate(-10deg);
-			transform: rotate(-10deg);
-		}
-		60% {
-			-webkit-transform: rotate(5deg);
-			-ms-transform: rotate(5deg);
-			transform: rotate(5deg);
-		}
-		80% {
-			-webkit-transform: rotate(-5deg);
-			-ms-transform: rotate(-5deg);
-			transform: rotate(-5deg);
-		}
-		100% {
-			-webkit-transform: rotate(0deg);
-			-ms-transform: rotate(0deg);
-		transform: rotate(0deg);
-		}
-	}
+  @-webkit-keyframes swing {
+    20% {
+      -webkit-transform: rotate(15deg);
+      transform: rotate(15deg);
+    }
+      40% {
+      -webkit-transform: rotate(-10deg);
+      transform: rotate(-10deg);
+    }
+    60% {
+      -webkit-transform: rotate(5deg);
+      transform: rotate(5deg);
+    }
+      80% {
+      -webkit-transform: rotate(-5deg);
+      transform: rotate(-5deg);
+    }
+    100% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+  }
+  @keyframes swing {
+    20% {
+      -webkit-transform: rotate(15deg);
+      -ms-transform: rotate(15deg);
+      transform: rotate(15deg);
+    }
+    40% {
+      -webkit-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+      transform: rotate(-10deg);
+    }
+    60% {
+      -webkit-transform: rotate(5deg);
+      -ms-transform: rotate(5deg);
+      transform: rotate(5deg);
+    }
+    80% {
+      -webkit-transform: rotate(-5deg);
+      -ms-transform: rotate(-5deg);
+      transform: rotate(-5deg);
+    }
+    100% {
+      -webkit-transform: rotate(0deg);
+      -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    }
+  }
 .swing:hover {
-	-webkit-transform-origin: bottom center;
-	-ms-transform-origin: bottom center;
-	transform-origin: bottom center;
-	-webkit-animation-name: swing;
-	animation-name: swing;
+  -webkit-transform-origin: bottom center;
+  -ms-transform-origin: bottom center;
+  transform-origin: bottom center;
+  -webkit-animation-name: swing;
+  animation-name: swing;
 }

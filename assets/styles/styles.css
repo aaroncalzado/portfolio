@@ -475,8 +475,8 @@ h5 + p {
 
 blockquote p {
   /* background: -webkit-gradient(linear,left top,left bottom,from($houseColor),to(#646F5E));
-  	-webkit-background-clip: text;
-  	-webkit-text-fill-color: transparent; */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
   opacity: 0.80;
   font-size: 1.56rem;
   font-weight: 400;
@@ -568,6 +568,21 @@ img.workCenterImageDS {
   border: none;
   display: block; }
 
+.browser {
+  background: url("http://aaroncalzado.com/portfolio/assets/images/browser.svg") no-repeat top center;
+  background-size: 100%;
+  margin: 24px auto 0 auto;
+  padding-top: 60px;
+  text-align: center;
+  height: auto; }
+
+@media only screen and (max-width: 959px) {
+  .ctpbw {
+    padding-top: 50px; } }
+@media only screen and (max-width: 639px) {
+  .ctpbw {
+    padding-top: 20px;
+    width: 320px; } }
 h6 {
   color: #999999;
   font-size: .88rem;
