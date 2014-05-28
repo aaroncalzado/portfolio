@@ -7,6 +7,16 @@ Caption: Selected Works from 2008 – Now
 Credit:
 ----
 Text:
+(image: rkg.jpg class: workCenterImageDS link: /work/rkg)
+
+#### (link: /work/rkg text: Rimm-Kaufman Group)
+
+At Rimm-Kaufman Group I was the company’s interactive designer doing product development for Blueprint Search Analytics. Blueprint is an enterprise level tool built for search engine optimization.
+
+(link: /work/rkg class: viewProjects text: View Project)
+
+****
+
 (image: throw-it-back.jpg class: workCenterImageDS link: /work/throw-it-back)
 
 #### (link: /work/throw-it-back text: Throw It Back!)

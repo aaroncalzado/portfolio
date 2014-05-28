@@ -109,15 +109,15 @@ Vigorous testing of the code was done to prevent the chair from killing itself.
 
 (vimeo: https://vimeo.com/43513337 width: 640 height: 480)
 
-****
+<!-- ****
 
 ##### Retrospect
 
 The Hiatus chair concept was well received among our peers and was a major feat acomplished by both Kelly and I. Prior to working on this project, neither of us had any experience in developing in the Processing/Arduino environment, nor did we have any experience in deconstructing existing artifacts and cannibalizing them to hack together our own homebrew artifact. In hindsight, we realized the Hiatus chair required a much higher level of skill in construction and engineering.
 
-<!-- (vimeo: https://vimeo.com/43513839) -->
+(vimeo: https://vimeo.com/43513839)
 
-These were critical things we lacked during the development of the Hiatus chair. Unfortunately, neither of us had sufficient knowledge (at the time) in materials and construction and ended up breaking our chair during testing. Fortunately, we were able to film the chair in action for our video prototype as well as documenting its demise.
+These were critical things we lacked during the development of the Hiatus chair. Unfortunately, neither of us had sufficient knowledge (at the time) in materials and construction and ended up breaking our chair during testing. Fortunately, we were able to film the chair in action for our video prototype as well as documenting its demise. -->
 
 ****
 

@@ -1,0 +1,51 @@
+Title: Rimm-Kaufman Group
+----
+Subtitle: At Rimm-Kaufman Group I was the company’s interactive designer doing product development for Blueprint Search Analytics. Blueprint is an enterprise level tool built for search engine optimization.
+----
+Intro:
+
+> Blueprint Search Analytics and Diagnostics shows you what your audience cares about, what content areas of your site are doing well, and pinpoints what’s causing traffic changes.
+
+****
+----
+Breakdown:
+
+##### Blueprint Analytics Landing Page Mockup
+
+The first project I was assigned to work on at RKG was to design a new landing page for Blueprint Analytics. The purpose of this page was to advertise our product features that differentiate ourselves from other SEO tools and drive potential customers to sign up and demo Blueprint. 
+
+(image: rkg-bp-landing-full.jpg class: browser link: rkg-bp-landing-full.jpg popup: yes width: 100%)
+
+(image: rkg-bp-landing-sign-in.jpg class: browser link: rkg-bp-landing-sign-in.jpg popup: yes width: 100%)
+
+(image: rkg-bp-landing-demo.jpg class: browser link: rkg-bp-landing-demo.jpg popup: yes width: 100%)
+****
+
+##### Blueprint Analytics Date Picker Mockup
+
+The date picker is an essential tool users of our site use to navigate through different reports. I worked side-by-side with my project manager, Jason Burt and front-end developer, Sarah Amandus in building a date picker that will have the necessary functionalities that will assist analysts navigate Blueprint and build reports.
+
+(image: rkg-bp-original-date.jpg class: browser link: rkg-bp-original-date.jpg popup: yes width: 100%)
+
+###### When viewing reports, a user can use the date picker to navigate through different report dates logged by Blueprint. Users also have the ability to select a fixed range of dates and build reports.
+
+(image: rkg-bp-date-all.jpg class: browser link: rkg-bp-date-all.jpg popup: yes width: 100%)
+
+###### The existing date picker/calendar does not allow analysts to select custom dates to build reports. Selecting different date ranges also changes the menu’s appearance substantially disorienting the user. Our users also reported that by selecting dates that didn’t have any data causes them to run into blank report pages. Users wanted to be able to see if they have data for their selected dates at date picker level.
+
+(image: rkg-bp-new-date.jpg class: browser link: rkg-bp-new-date.jpg popup: yes width: 100%)
+
+###### In this proposed mockup, users would be able to quickly select custom dates via text input or by click selection. Per the users’request, data availability is displayed either in green (ready), yellow (processing), or red (not available) in the calendar view. And lastly, the appearance of the date picker would stay consistent because all functions can be accessed though a single popup.
+
+----
+Guts:
+----
+Ending:
+
+****
+
+##### Associated Links
+
+(link: http://www.rimmkaufman.com/ text: Rimm-Kaufman Group popup: yes)
+(link: http://www.ninebyblue.com/ text: Nine by Blue, Blueprint Analytics popup: yes)
+(link: http://www.vanessafox.com/ text: Vanessa Fox’s Personal Site popup: yes)
