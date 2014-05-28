@@ -660,18 +660,28 @@ img.workCenterImageDS {
   background: url("http://aaroncalzado.com/portfolio/assets/images/browser.svg") no-repeat top center;
   background-size: 100%;
   margin: 24px auto 0 auto;
-  padding-top: 60px;
+  padding-top: 80px;
   text-align: center;
   height: auto;
 }
   @media only screen and (max-width: 959px) {
-    .ctpbw {
-      padding-top: 50px;
+    .browser {
+      padding-top: 66px;
+    }
+  }
+  @media only screen and (max-width: 800px) {
+    .browser {
+      padding-top: 60px;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .browser {
+      padding-top: 53px;
     }
   }
   @media only screen and (max-width: 639px) {
-    .ctpbw {
-      padding-top: 20px;
+    .browser {
+      padding-top: 26px;
       width: 320px;
     }
   }
