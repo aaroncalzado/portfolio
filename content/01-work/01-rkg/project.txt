@@ -19,6 +19,7 @@ The first project I was assigned to work on at RKG was to design a new landing p
 (image: rkg-bp-landing-sign-in.jpg class: browser link: rkg-bp-landing-sign-in.jpg popup: yes width: 100%)
 
 (image: rkg-bp-landing-demo.jpg class: browser link: rkg-bp-landing-demo.jpg popup: yes width: 100%)
+
 ****
 
 ##### Blueprint Analytics Date Picker Mockup
@@ -36,6 +37,14 @@ The date picker is an essential tool users of our site use to navigate through d
 (image: rkg-bp-new-date.jpg class: browser link: rkg-bp-new-date.jpg popup: yes width: 100%)
 
 ###### In this proposed mockup, users would be able to quickly select custom dates via text input or by click selection. Per the users’request, data availability is displayed either in green (ready), yellow (processing), or red (not available) in the calendar view. And lastly, the appearance of the date picker would stay consistent because all functions can be accessed though a single popup.
+
+****
+
+##### Client Onboarding Process
+
+On of my final projects at RKG was to streamline the client onboarding process for Blueprint Analytics. Unlike the onboarding processes found in most online services where onboarding is fully, Blueprint’s onboarding is a collaborative process for both the clients and Blueprint Analysts. (link: /work/rkg/client-onboarding text: View the Client Onboarding Process).
+
+(image: rkg-bp-client-onboarding.gif class: browser link: /work/rkg/client-onboarding popup: yes width: 100%)
 
 ----
 Guts:

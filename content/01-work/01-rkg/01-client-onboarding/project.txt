@@ -1,0 +1,94 @@
+Title: Client Onboarding
+----
+Subtitle: On of my final projects at RKG was to streamline the client onboarding process for Blueprint Analytics. Unlike the onboarding processes found in most online services where onboarding is fully, Blueprint’s onboarding is a collaborative process for both the clients and Blueprint Analysts.
+----
+Intro:
+----
+Breakdown:
+----
+Guts:
+
+##### 1.A - Basic Client Info
+
+When a client agrees to start using Blueprint Analytics, Blueprint analysts begin the onboarding process by selecting “Onboard New Clients”.
+
+(image: rkg-bp-client-onboarding-01.jpg class: browser link: rkg-bp-client-onboarding-01.jpg popup: yes width: 100%)
+
+##### 1.B - Basic Client Info
+
+They will begin by filling out basic client details provided by the client.
+
+(image: rkg-bp-client-onboarding-02.jpg class: browser link: rkg-bp-client-onboarding-02.jpg popup: yes width: 100%)
+
+Note: All these options can be edited on a later date by Blueprint analysts and selected admin users selected by the client.
+
+(image: rkg-bp-client-onboarding-03.jpg class: browser link: rkg-bp-client-onboarding-03.jpg popup: yes width: 100%)
+
+##### 1.C - Basic Client Info
+
+Once completed, analysts can then notify the client to begin the setup process on installing Blueprint Analytics on their servers to begin collecting data.
+
+(image: rkg-bp-client-onboarding-04.jpg class: browser link: rkg-bp-client-onboarding-04.jpg popup: yes width: 100%)
+
+##### 2.A - Assigning Sites
+
+Per the client’s request, Blueprint analysts will then begin to add all sites with Blueprint Analytics installed.
+
+(image: rkg-bp-client-onboarding-05.jpg class: browser link: rkg-bp-client-onboarding-05.jpg popup: yes width: 100%)
+
+(image: rkg-bp-client-onboarding-06.jpg class: browser link: rkg-bp-client-onboarding-06.jpg popup: yes width: 100%)
+
+##### 2.B - Assigning Sites
+
+Once all the sites are added, Blueprint analysts can choose to activate these sites so Blueprint Analytics can begin collecting and process the data.
+
+(image: rkg-bp-client-onboarding-07.jpg class: browser link: rkg-bp-client-onboarding-07.jpg popup: yes width: 100%)
+
+##### 2.C - Assigning Sites
+
+Once Blueprint Analytics recognizes the client’s servers, analysts can then notify the client and begin the categorization process.
+
+(image: rkg-bp-client-onboarding-08.jpg class: browser link: rkg-bp-client-onboarding-08.jpg popup: yes width: 100%)
+
+##### 3.A - Configuring Categories
+
+The initial categorization is a separate collaborative process with the client’s SEO manager and Blueprint analysts in tailoring Blueprint Analytics for their specific needs.
+
+(image: rkg-bp-client-onboarding-09.jpg class: browser link: rkg-bp-client-onboarding-09.jpg popup: yes width: 100%)
+
+##### 3.B - Configuring Categories
+
+Since the categorization process is a neverending process that’s constantly being updated, analysts can choose to proceed to the next onboarding step.
+
+(image: rkg-bp-client-onboarding-10.jpg class: browser link: rkg-bp-client-onboarding-10.jpg popup: yes width: 100%)
+
+(image: rkg-bp-client-onboarding-11.jpg class: browser link: rkg-bp-client-onboarding-11.jpg popup: yes width: 100%)
+
+##### 4.A - Adding Users
+
+The first set of users are created by Blueprint analysts which can then be edited at a later time by admins assigned by the client.
+
+(image: rkg-bp-client-onboarding-12.jpg class: browser link: rkg-bp-client-onboarding-12.jpg popup: yes width: 100%)
+
+##### 4.B - Adding Users
+
+Once a user is created, analysts now have the ability to launch the client’s Blueprint Analytics service.
+
+(image: rkg-bp-client-onboarding-13.jpg class: browser link: rkg-bp-client-onboarding-13.jpg popup: yes width: 100%)
+
+##### 5.A - Launch
+
+Before actually launching the service, analysts can review and verify that all information is correct.
+
+(image: rkg-bp-client-onboarding-14.jpg class: browser link: rkg-bp-client-onboarding-14.jpg popup: yes width: 100%)
+
+----
+Ending:
+
+****
+
+##### Associated Links
+
+(link: http://www.rimmkaufman.com/ text: Rimm-Kaufman Group popup: yes)
+(link: http://www.ninebyblue.com/ text: Nine by Blue, Blueprint Analytics popup: yes)
+(link: http://www.vanessafox.com/ text: Vanessa Fox’s Personal Site popup: yes)
