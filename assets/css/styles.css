@@ -1,5 +1,9 @@
-/* #Reset & Basics (Inspired by E. Meyers)
-****************************************/
+/* Root: styles.scss */
+/* Imports all required SCSS files and spits it out to styles.css */
+/* Import required/base CSS first */
+/* Variables */
+/* Reset */
+/* Inspired by E. Meyers, http://meyerweb.com/eric/tools/css/reset/ */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   border: 0;
   font-size: 100%;
@@ -29,702 +33,51 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* Layout and Global Shit
-****************************************/
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-header {
-  background: black;
-  background: rgba(0, 0, 0, 0.72);
-  font-size: 0.8rem;
-  height: 56px;
-  padding-right: 8px;
-  padding-left: 8px;
-  position: fixed;
-  width: 100%;
-  min-width: 320px;
-  z-index: 4; }
-
-@media only screen and (max-width: 639px) {
-  header {
-    font-size: 1rem;
-    height: 88px;
-    padding-right: 0;
-    padding-left: 0; } }
-html, body {
-  background-color: snow;
-  font-family: "jaf-facitweb", Helvetica, Arial, sans-serif;
-  font-size: 96%;
-  font-weight: 400;
-  height: 100%;
-  line-height: 1.72;
-  margin: 0px;
-  padding: 0px; }
-
-@media only screen and (max-width: 639px) {
-  html, body {
-    font-size: 72%;
-    height: 72%; } }
-footer {
-  background-color: mediumseagreen;
-  color: snow;
-  font-size: 0.64rem;
-  letter-spacing: 2px;
-  margin: 32px 0 0 0;
-  padding: 32px 0 32px 0;
-  position: absolute;
-  text-align: center;
-  text-transform: uppercase;
-  width: 100%;
-  min-width: 320px; }
-
-@media only screen and (max-width: 639px) {
-  footer {
-    font-size: 100%;
-    letter-spacing: 1px; } }
-.footerHome,
-.footerHome a {
-  color: snow;
-  font-size: 0.64rem;
-  letter-spacing: 2px;
-  margin: 32px 0 0 0;
-  text-align: center;
-  text-decoration: none;
-  text-transform: uppercase;
-  width: 100%;
-  min-width: 320px; }
-
-@media only screen and (max-width: 639px) {
-  .footerHome,
-  .footerHome a {
-    font-size: 100%;
-    letter-spacing: 1px; } }
-.footerHome a:hover,
-.footerHome a:active,
-.footerHome a:visited {
-  border-bottom: 1px solid snow;
-  color: snow;
-  text-decoration: none; }
-
-.content footer a,
-.content footer a:active,
-.content footer a:visited {
-  border-bottom: none;
-  color: snow;
-  text-decoration: none; }
-
-.content footer a:hover {
-  border-bottom: 1px solid snow;
-  color: snow;
-  text-decoration: none; }
-
-a,
-a:active,
-a:hover,
-a:visited {
+/* Animation */
+a, a:active, a:hover, a:visited {
   -ms-transition: .5s;
   -moz-transition: .5s;
   -o-transition: .5s;
   -webkit-transition: .5s;
   transition: .5s; }
 
-header .mastTitle >
-a,
-a:hover,
-a:active,
-a:visited {
-  border-bottom: none;
-  color: snow;
-  text-decoration: none; }
-
-.mastTitle {
-  color: snow;
-  float: left;
-  letter-spacing: 4px;
-  margin: 18px 8px 8px 16px;
-  /* Lines up title and nav */
-  position: relative;
-  text-transform: uppercase; }
-
-@media only screen and (max-width: 639px) {
-  .mastTitle {
-    margin-top: 16px;
-    float: none;
-    text-align: center; } }
-header .mastNav {
-  color: snow;
-  float: right;
-  margin: 18px 16px 8px 8px;
-  position: relative; }
-
-@media only screen and (max-width: 639px) {
-  header .mastNav {
-    float: none;
-    margin-top: 14px;
-    text-align: center; } }
-.mastNav ul li {
-  color: snow;
-  display: inline;
-  letter-spacing: 4px;
-  list-style: none;
-  padding-left: 12px;
-  /* Adjusts the space between Nav buttons */
-  text-transform: uppercase; }
-
-.mastNav ul li a {
-  border: 1px solid snow;
-  border-radius: 4px;
-  color: snow;
-  padding: 4px 8px 4px 12px;
-  /* Padding for Nav buttons */
-  text-decoration: none; }
-
-.mastNav ul li a.active, .mastNav ul li a:hover {
-  border: 1px solid snow;
-  background-color: snow;
-  color: #303030; }
-
-hr {
-  border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.16);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.32);
-  height: 0;
-  margin: 40px auto 8px auto;
-  width: 320px; }
-
-@media only screen and (max-width: 639px) {
-  hr {
-    width: 280px; } }
-.heroImageHome, .containerMastHome {
-  /* Home background fullscreen */
-  background: rgba(0, 0, 0, 0.48);
-  height: 100%;
-  position: relative;
-  width: 100%; }
-
-@media only screen and (max-width: 639px) {
-  .heroImageHome, .containerMastHome {
-    /* Home background fullscreen */
-    height: 556px; } }
-.containerMast {
-  background: rgba(0, 0, 0, 0.48);
-  height: auto;
-  min-height: 480px;
-  position: relative;
-  width: 100%;
-  /* &:before {
-  content: '';
-  display: inline-block;
-  height: 100%; 
-  vertical-align: middle;
-  margin-right: -0.25em; Adjusts for spacing
-  } */ }
-
-.heroImage, .content {
-  position: relative;
-  width: 100%; }
-
-.heroImageHome, .heroImage {
-  background-position: center center;
-  background-size: cover; }
-
-@media only screen and (min-width: 1025px) {
-  .heroImageHome, .heroImage {
-    background-attachment: fixed; } }
-.copyMast, .copyMastInfo {
-  color: snow;
-  min-height: 480px;
-  margin: -5em auto 0 auto;
-  position: absolute;
-  text-align: center;
-  top: 44%;
-  width: 100%; }
-
-.containerWork {
-  text-align: center; }
-
-.containerInfo, .containerProject {
-  margin: 0 auto 0 auto;
-  position: relative;
-  max-width: 100%; }
-
-.copyBody {
-  margin: 0 auto 0 auto;
-  padding-top: 0;
-  /* The space between the hero-image and copy */
-  text-align: center;
-  width: 960px; }
-
-@media only screen and (max-width: 959px) {
-  .copyBody {
-    width: 800px; } }
-@media only screen and (max-width: 799px) {
-  .copyBody {
-    width: 720px; } }
-@media only screen and (max-width: 767px) {
-  .copyBody {
-    width: 640px; } }
-@media only screen and (max-width: 639px) {
-  .copyBody {
-    font-size: 132%;
-    width: 320px; } }
-/* Home Typography
-****************************************/
-h2 {
-  color: snow;
-  font-size: 1.32rem;
-  font-weight: 300;
-  line-height: 1.96rem;
-  margin: 0 auto 0 auto;
-  text-align: center;
-  width: 640px; }
-
-@media only screen and (max-width: 767px) {
-  h2 {
-    padding: 0 68px 0 68px; } }
-@media only screen and (max-width: 639px) {
-  h2 {
-    padding: 0 12px 0 12px;
-    width: 320px; } }
-.copyMastHome h2 a {
-  color: snow;
-  border-bottom: 1px solid snow;
-  text-decoration: none; }
-
-.copyMastHome h2
-a:hover,
-a:active,
-a:visited {
-  border-bottom: 1px solid snow;
-  color: snow;
-  text-decoration: none; }
-
-.containerMastHome .copyMastHome .homeButton p {
-  font-size: 0.8rem;
-  letter-spacing: 4px;
-  margin: 32px auto 0 auto;
-  text-align: center;
-  text-transform: uppercase; }
-
-.containerMastHome .copyMastHome .homeButton p a {
-  border: 1px solid snow;
-  border-radius: 4px;
-  color: snow;
-  display: inline;
-  list-style: none;
-  padding: 8px 12px 8px 16px;
-  text-decoration: none; }
-
-.containerMastHome .copyMastHome .homeButton p a:hover {
-  background-color: snow;
-  border: 1px solid snow;
-  border-radius: 4px;
-  color: #333332;
-  display: inline;
-  list-style: none;
-  padding: 8px 12px 8px 16px;
-  text-decoration: none; }
-
-.copyMastHome {
-  height: auto;
-  margin: 0 auto 0 auto;
-  position: relative;
-  top: 32%;
-  width: 960px; }
-
-@media only screen and (max-width: 959px) {
-  .copyMastHome {
-    width: 800px; } }
-@media only screen and (max-width: 799px) {
-  .copyMastHome {
-    width: 720px; } }
-@media only screen and (max-width: 767px) {
-  .copyMastHome {
-    width: 640px; } }
-@media only screen and (max-width: 639px) {
-  .copyMastHome {
-    top: 24%;
-    width: 320px; } }
-/* Typography
-****************************************/
-p {
-  color: #333333;
-  margin: 24px auto 0 auto;
-  padding-top: 8px;
-  text-align: left;
-  width: 640px; }
-
-@media only screen and (max-width: 959px) {
-  p {
-    padding: 8px 16px 0 16px; } }
-@media only screen and (max-width: 639px) {
-  p {
-    width: 320px; } }
-.containerWork .copyBody p {
-  text-align: center;
-  width: 640px; }
-
-@media only screen and (max-width: 639px) {
-  .containerWork .copyBody p {
-    font-size: 132%;
-    width: 320px; } }
-h1 {
-  /* Title in Mast */
-  color: snow;
-  font-weight: 600;
-  font-size: 3rem;
-  line-height: 3.64rem;
-  text-align: center; }
-
-h3 {
-  /* Subtitle in Mast */
-  font-weight: 300;
-  font-size: 1.32rem;
-  line-height: 1.96rem;
-  margin: auto;
-  -webkit-margin-before: 0px;
-  -webkit-margin-after: 0px;
-  -webkit-margin-start: auto;
-  -webkit-margin-end: auto;
-  padding: 16px 0 0 0;
-  text-align: center;
-  width: 640px; }
-
-@media only screen and (max-width: 767px) {
-  h3 {
-    padding: 0 68px 0 68px; } }
-@media only screen and (max-width: 639px) {
-  h3 {
-    padding: 0 12px 0 12px;
-    width: 320px; } }
-h4 {
-  /* Work page Project titles */
-  color: #333333;
-  font-weight: 600;
-  font-size: 1.72rem;
-  line-height: 1.96rem;
-  padding: 16px 0 0 0;
-  text-align: center; }
-
-h4 + p {
-  margin-top: 0; }
-
-h4 a,
-h4 a:active,
-h4 a:visited {
-  color: #333333;
-  text-decoration: none; }
-
-h4 a:hover {
-  color: mediumseagreen;
-  text-decoration: none; }
-
-.copyBody p a.viewProjects,
-.copyBody p a:active.viewProjects,
-.copyBody p a:visited.viewProjects {
-  /* Work page buttons */
-  background-color: mediumseagreen;
-  border-radius: 4px;
-  border-bottom: 2px solid mediumseagreen;
-  color: snow;
-  font-size: 0.8rem;
-  letter-spacing: 4px;
-  padding: 12px 20px 12px 24px;
-  text-align: center;
-  text-decoration: none;
-  text-transform: uppercase; }
-
-@media only screen and (max-width: 639px) {
-  .copyBody p a.viewProjects,
-  .copyBody p a:active.viewProjects,
-  .copyBody p a:visited.viewProjects {
-    /* Work page buttons */
-    font-size: 1rem; } }
-.copyBody p > a:hover.viewProjects {
-  /* Work page buttons */
-  background-color: mediumseagreen;
-  border-bottom: 2px solid seagreen;
-  color: snow;
-  text-align: center;
-  text-decoration: none; }
-
-h5 {
-  /* Headers for bodies in Project page */
-  font-weight: 700;
-  font-size: 1rem;
-  letter-spacing: 2px;
-  margin: 24px auto 0 auto;
-  padding: 8px 0 0 0;
-  width: 640px;
-  text-align: left;
-  text-transform: uppercase; }
-
-@media only screen and (max-width: 959px) {
-  h5 {
-    padding: 8px 16px 0 16px; } }
-@media only screen and (max-width: 639px) {
-  h5 {
-    padding: 8px 16px 0 16px;
-    width: 320px; } }
-h5 + p {
-  /* Adjusts the space of the first <p> after h5*/
-  margin-top: 0; }
-
-blockquote p {
-  /* background: -webkit-gradient(linear,left top,left bottom,from($houseColor),to(#646F5E));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
-  opacity: 0.80;
-  font-size: 1.56rem;
-  font-weight: 400;
-  font-style: italic;
-  line-height: 2.40rem;
-  margin: 24px auto 0 auto;
-  text-align: center;
-  width: 75%; }
-
-@media only screen and (max-width: 959px) {
-  blockquote p {
-    width: 100%; } }
-.photoCred {
-  color: snow;
-  font-size: 0.72rem;
-  font-weight: 200;
-  margin: -56px 0 0 0;
-  opacity: 0.24;
-  padding-right: 32px;
-  position: absolute;
-  text-align: right;
-  width: 100%;
-  z-index: 4; }
-
-.copyBody p a,
-.copyBody p a:visited {
-  border-bottom: 1px solid #333333;
-  color: #333333;
-  text-decoration: none; }
-
-.copyBody p a:active,
-.copyBody p a:hover {
-  border-bottom: 1px solid mediumseagreen;
-  color: mediumseagreen;
-  text-decoration: none; }
-
-.copyBody ul li {
-  color: #333333;
-  list-style-type: circle;
-  margin: 8px auto 0 auto;
-  text-align: left;
-  width: 640px; }
-
-.copyBody ol li {
-  color: #333333;
-  margin: 8px auto 0 auto;
-  text-align: left;
-  width: 640px; }
-
-/* Images
-****************************************/
-.centerImage,
-.projectCenterImage,
-.workCenterImage {
-  display: block;
-  margin: 24px auto 0 auto; }
-
-.infoCenterImage {
-  margin: 24px auto 0 auto; }
-
-.centerImage,
-.projectCenterImage,
-.workCenterImage {
-  border-radius: 2px;
-  display: block;
-  margin: 24px auto 0 auto; }
-
-img.centerImageDS,
-img.projectCenterImageDS,
-img.workCenterImageDS {
-  background-color: snow;
-  border-radius: 2px;
-  box-shadow: rgba(156, 148, 148, 0.32) -6px 6px 8px, rgba(156, 148, 148, 0.08) -2px 2px 25px;
-  display: block;
-  margin: 24px auto 0 auto; }
-
-@media only screen and (min-width: 640px) {
-  img.workCenterImageDS, img.workCenterImage {
-    width: 75%; } }
-@media only screen and (max-width: 639px) {
-  img.workCenterImageDS, img.workCenterImage {
-    width: 100%; } }
-.copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
-.copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,
-.copyBody p a.projectCenterImageDS, .copyBody p a:active.projectCenterImageDS, .copyBody p a:hover.projectCenterImageDS, .copyBody p a:visited.projectCenterImageDS,
-.copyBody p a.projectCenterImage, .copyBody p a:active.projectCenterImage, .copyBody p a:hover.projectCenterImage, .copyBody p a:visited.projectCenterImage,
-.copyBody p a.workCenterImageDS, .copyBody p a:active.workCenterImageDS, .copyBody p a:hover.workCenterImageDS, .copyBody p a:visited.workCenterImageDS,
-.copyBody p a.workCenterImage, .copyBody p a:active.workCenterImage, .copyBody p a:hover.workCenterImage, .copyBody p a:visited.workCenterImage {
-  border: none;
-  display: block; }
-
-.browser {
-  background: url("http://aaroncalzado.com/portfolio/assets/images/browser.svg") no-repeat top center;
-  background-size: 100%;
-  margin: 24px auto 0 auto;
-  padding-top: 80px;
-  text-align: center;
-  height: auto; }
-
-@media only screen and (max-width: 959px) {
-  .browser {
-    padding-top: 66px; } }
-@media only screen and (max-width: 800px) {
-  .browser {
-    padding-top: 60px; } }
-@media only screen and (max-width: 767px) {
-  .browser {
-    padding-top: 53px; } }
-@media only screen and (max-width: 639px) {
-  .browser {
-    padding-top: 26px;
-    width: 320px; } }
-h6 {
-  color: #999999;
-  font-size: .88rem;
-  font-style: italic;
-  font-weight: 300;
-  margin: 8px auto 8px auto;
-  text-align: left;
-  width: 640px; }
-
-@media only screen and (max-width: 959px) {
-  h6 {
-    padding: 0 16px 0 16px; } }
-@media only screen and (max-width: 639px) {
-  h6 {
-    padding: 0 16px 0 16px;
-    width: 320px; } }
-h6 a,
-a:active,
-a:visited {
-  border-bottom: 1px solid #999999;
-  color: #999999;
-  text-decoration: none; }
-
-h6 a:hover {
-  border-bottom: 1px solid mediumseagreen;
-  color: mediumseagreen;
-  text-decoration: none; }
-
-.profile {
-  background: -webkit-linear-gradient(#dbdbdb, snow);
-  /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#dbdbdb, snow);
-  /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#dbdbdb, snow);
-  /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#dbdbdb, snow);
-  /* Standard syntax */
-  border: 1px solid #AAAAAA;
-  border-radius: 100%;
-  height: 240px;
-  margin: -32px auto 0 auto;
-  /* -32px to center the profile picture vertically */
-  padding: 5px;
-  text-align: center;
-  width: 240px; }
-
-/* Video Stuff
-****************************************/
-.video-container {
-  margin-top: 24px auto 0 auto;
-  padding-top: 24px;
-  text-align: center; }
-
-.bareVideo {
-  margin: 24px auto 0 auto;
-  text-align: center; }
-
-.bareVideo + p {
-  margin: 0 auto 32px auto; }
-
-.ctpbw {
-  background: url("http://aaroncalzado.com/portfolio/assets/images/ctpbw.svg") no-repeat top center;
-  background-size: 75%;
-  margin: 24px auto 0 auto;
-  padding-top: 60px;
-  text-align: center;
-  height: auto; }
-
-@media only screen and (max-width: 959px) {
-  .ctpbw {
-    padding-top: 50px; } }
-@media only screen and (max-width: 639px) {
-  .ctpbw {
-    padding-top: 20px;
-    width: 320px; } }
-.ip4vh {
-  background: url("http://aaroncalzado.com/portfolio/assets/images/ip4h.svg") no-repeat center;
-  background-size: 62% auto;
-  margin: 24px auto 0 auto;
-  padding-top: 32px;
-  text-align: center;
-  height: 316px; }
-
-@media only screen and (max-width: 959px) {
-  .ip4vh {
-    height: 256px;
-    padding-top: 24px; } }
-@media only screen and (max-width: 799px) {
-  .ip4vh {
-    height: 236px; } }
-@media only screen and (max-width: 767px) {
-  .ip4vh {
-    height: 210px;
-    padding-top: 22px; } }
-@media only screen and (max-width: 639px) {
-  .ip4vh {
-    height: 112px;
-    padding-top: 16px; } }
-.ip4vv {
-  background: url("http://aaroncalzado.com/portfolio/assets/images/ip4v.svg") no-repeat center;
-  background-size: 35% auto;
-  margin: 24px auto 0 auto;
-  padding-top: 92px;
-  text-align: center;
-  height: 582px; }
-
-@media only screen and (max-width: 959px) {
-  .ip4vv {
-    padding-top: 82px;
-    height: 488px; } }
-@media only screen and (max-width: 799px) {
-  .ip4vv {
-    padding-top: 74px;
-    height: 440px; } }
-@media only screen and (max-width: 767px) {
-  .ip4vv {
-    padding-top: 64px;
-    height: 392px; } }
-@media only screen and (max-width: 639px) {
-  .ip4vv {
-    padding-top: 31px;
-    height: 196px; } }
-/* Animation
-****************************************/
-/*!
-Animate.css - http://daneden.me/animate
+/**/
+/* Animate.css - http://daneden.me/animate
 Licensed under the MIT license
 
 Copyright (c) 2013 Daniel Eden
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge,
+to any person obtaining a copy of this software
+and associated documentation files (the
+"Software"), to deal in the Software without
+restriction, including without limitation the
+rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the
+following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+The above copyright notice and this permission
+notice shall be included in all copies or
+substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-*/
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT
+SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE. */
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
@@ -790,3 +143,621 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   transform-origin: bottom center;
   -webkit-animation-name: swing;
   animation-name: swing; }
+
+/* Layout and Global Shit */
+html, body {
+  background-color: snow;
+  font-family: "jaf-facitweb", Helvetica, Arial, sans-serif;
+  font-size: 96%;
+  font-weight: 400;
+  height: 100%;
+  line-height: 1.72;
+  margin: 0px;
+  padding: 0px; }
+
+@media only screen and (max-width: 639px) {
+  html, body {
+    font-size: 72%;
+    height: 72%; } }
+/**/
+header {
+  background: black;
+  background: rgba(0, 0, 0, 0.72);
+  font-size: 0.8rem;
+  height: 56px;
+  width: 100%;
+  min-width: 320px;
+  padding-right: 8px;
+  padding-left: 8px;
+  position: fixed;
+  z-index: 4; }
+  header .mastTitle {
+    color: snow;
+    float: left;
+    letter-spacing: 4px;
+    margin: 18px 8px 8px 16px;
+    /* Lines up title and nav */
+    position: relative;
+    text-transform: uppercase; }
+    header .mastTitle > a, header .mastTitle a:hover, header .mastTitle a:active, header .mastTitle a:visited {
+      border-bottom: none;
+      color: snow;
+      text-decoration: none; }
+  header .mastNav {
+    color: snow;
+    float: right;
+    margin: 18px 16px 8px 8px;
+    position: relative; }
+    header .mastNav ul li {
+      color: snow;
+      display: inline;
+      letter-spacing: 4px;
+      list-style: none;
+      padding-left: 12px;
+      /* Adjusts the space between Nav buttons */
+      text-transform: uppercase; }
+      header .mastNav ul li a {
+        border: 1px solid snow;
+        border-radius: 4px;
+        color: snow;
+        padding: 4px 8px 4px 12px;
+        /* Padding for Nav buttons */
+        text-decoration: none; }
+      header .mastNav ul li a.active, header .mastNav ul li a:hover {
+        border: 1px solid snow;
+        background-color: snow;
+        color: #303030; }
+
+.heroImageHome {
+  background-position: center center;
+  background-size: cover; }
+
+.heroImageHome, .containerMastHome {
+  /* Home background fullscreen */
+  background: rgba(0, 0, 0, 0.48);
+  height: 100%;
+  position: relative;
+  width: 100%; }
+
+.heroImage {
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  width: 100%; }
+  .heroImage .containerMast {
+    background: rgba(0, 0, 0, 0.48);
+    height: auto;
+    min-height: 480px;
+    position: relative;
+    width: 100%;
+    /* &:before {
+    content: '';
+    display: inline-block;
+    height: 100%; 
+    vertical-align: middle;
+    margin-right: -0.25em; Adjusts for spacing
+    } */ }
+    .heroImage .containerMast .copyMast, .heroImage .containerMast .copyMastInfo {
+      color: snow;
+      min-height: 480px;
+      margin: -5em auto 0 auto;
+      position: absolute;
+      text-align: center;
+      top: 44%;
+      width: 100%; }
+
+@media only screen and (min-width: 1025px) {
+  .heroImageHome, .heroImage {
+    background-attachment: fixed; } }
+@media only screen and (max-width: 639px) {
+  header {
+    font-size: 1rem;
+    height: 88px;
+    padding-right: 0;
+    padding-left: 0; }
+    header .mastTitle {
+      margin-top: 16px;
+      float: none;
+      text-align: center; }
+    header .mastNav {
+      float: none;
+      margin-top: 14px;
+      text-align: center; }
+
+  .heroImageHome, .containerMastHome {
+    /* Home background fullscreen */
+    height: 556px; } }
+/**/
+.content {
+  position: relative;
+  width: 100%; }
+  .content .containerInfo, .content .containerProject {
+    margin: 0 auto 0 auto;
+    position: relative;
+    max-width: 100%; }
+    .content .containerInfo .copyBody, .content .containerProject .copyBody {
+      margin: 0 auto 0 auto;
+      padding-top: 0;
+      /* The space between the hero-image and copy */
+      text-align: left;
+      width: 960px; }
+  .content .containerWork {
+    text-align: center; }
+    .content .containerWork .copyBody {
+      margin: 0 auto 0 auto;
+      padding-top: 0;
+      /* The space between the hero-image and copy */
+      text-align: center;
+      width: 960px; }
+  .content footer {
+    background-color: mediumseagreen;
+    color: snow;
+    font-size: 0.72rem;
+    letter-spacing: 2px;
+    margin: 32px 0 0 0;
+    padding: 32px 0 32px 0;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+    min-width: 320px; }
+    .content footer a, .content footer a:active, .content footer a:visited {
+      border-bottom: none;
+      color: snow;
+      text-decoration: none; }
+    .content footer a:hover {
+      border-bottom: 1px solid snow;
+      color: snow;
+      text-decoration: none; }
+
+.footerHome, .footerHome a {
+  color: snow;
+  font-size: 0.72rem;
+  letter-spacing: 2px;
+  margin: 32px 0 0 0;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 100%;
+  min-width: 320px; }
+  .footerHome a:hover, .footerHome a:active, .footerHome a:visited {
+    border-bottom: 1px solid snow;
+    color: snow;
+    text-decoration: none; }
+
+hr {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.16);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.32);
+  height: 0;
+  margin: 40px auto 8px auto;
+  width: 320px; }
+
+@media only screen and (max-width: 959px) {
+  .content .containerInfo .copyBody, .content .containerProject .copyBody, .content .containerWork .copyBody {
+    width: 800px; } }
+@media only screen and (max-width: 799px) {
+  .content .containerInfo .copyBody, .content .containerProject .copyBody, .content .containerWork .copyBody {
+    width: 720px; } }
+@media only screen and (max-width: 767px) {
+  .content .containerInfo .copyBody, .content .containerProject .copyBody, .content .containerWork .copyBody {
+    width: 640px; } }
+@media only screen and (max-width: 639px) {
+  .content .containerInfo .copyBody, .content .containerProject .copyBody, .content .containerWork .copyBody {
+    font-size: 132%;
+    width: 320px; }
+  .content footer {
+    font-size: 100%;
+    letter-spacing: 1px; }
+
+  .footerHome a {
+    font-size: 100%;
+    letter-spacing: 1px; }
+
+  hr {
+    width: 280px; } }
+/* Typography Home */
+.containerMastHome .copyMastHome {
+  height: auto;
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 32%;
+  width: 960px; }
+  .containerMastHome .copyMastHome h2 {
+    color: snow;
+    font-size: 1.32rem;
+    font-weight: 300;
+    line-height: 1.96rem;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    width: 640px; }
+    .containerMastHome .copyMastHome h2 a {
+      color: snow;
+      border-bottom: 1px solid snow;
+      text-decoration: none; }
+    .containerMastHome .copyMastHome h2 a:hover, .containerMastHome .copyMastHome h2 a:active, .containerMastHome .copyMastHome h2 a:visited {
+      border-bottom: 1px solid snow;
+      color: snow;
+      text-decoration: none; }
+  .containerMastHome .copyMastHome .homeButton p {
+    font-size: 0.8rem;
+    letter-spacing: 4px;
+    margin: 32px auto 0 auto;
+    text-align: center;
+    text-transform: uppercase; }
+    .containerMastHome .copyMastHome .homeButton p a {
+      border: 1px solid snow;
+      border-radius: 4px;
+      color: snow;
+      display: inline;
+      list-style: none;
+      padding: 8px 12px 8px 16px;
+      text-decoration: none; }
+    .containerMastHome .copyMastHome .homeButton p a:hover {
+      background-color: snow;
+      border: 1px solid snow;
+      border-radius: 4px;
+      color: #333332;
+      display: inline;
+      list-style: none;
+      padding: 8px 12px 8px 16px;
+      text-decoration: none; }
+
+@media only screen and (max-width: 959px) {
+  .copyMastHome {
+    width: 800px; } }
+@media only screen and (max-width: 799px) {
+  .copyMastHome {
+    width: 720px; } }
+@media only screen and (max-width: 767px) {
+  .copyMastHome {
+    width: 640px; }
+    .copyMastHome h2 {
+      padding: 0 68px 0 68px; } }
+@media only screen and (max-width: 639px) {
+  .copyMastHome {
+    top: 24%;
+    width: 320px; }
+    .copyMastHome h2 {
+      padding: 0 12px 0 12px;
+      width: 320px; } }
+/* Typography */
+.copyBody p {
+  color: #333333;
+  line-height: 2rem;
+  margin: 24px auto 0 auto;
+  padding-top: 8px;
+  text-align: left;
+  width: 640px;
+  font-size: 1.12rem; }
+  .copyBody p a.viewProjects, .copyBody p p a:active.viewProjects, .copyBody p p a:visited.viewProjects {
+    /* Work page buttons */
+    background-color: mediumseagreen;
+    border-radius: 4px;
+    border-bottom: 2px solid mediumseagreen;
+    color: snow;
+    font-size: 0.8rem;
+    letter-spacing: 4px;
+    padding: 12px 20px 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase; }
+  .copyBody p > a:hover.viewProjects {
+    /* Work page buttons */
+    background-color: mediumseagreen;
+    border-bottom: 2px solid seagreen;
+    color: snow;
+    text-align: center;
+    text-decoration: none; }
+@media only screen and (max-width: 959px) {
+  .copyBody p {
+    padding: 8px 16px 0 16px; } }
+@media only screen and (max-width: 639px) {
+  .copyBody p {
+    width: 320px; } }
+
+.containerWork .copyBody p {
+  text-align: center;
+  width: 640px; }
+
+@media only screen and (max-width: 639px) {
+  .containerWork .copyBody p {
+    font-size: 132%;
+    width: 320px; } }
+h1 {
+  /* Title in Mast */
+  color: snow;
+  font-weight: 600;
+  font-size: 3rem;
+  line-height: 3.64rem;
+  text-align: center; }
+
+h3 {
+  /* Subtitle in Mast */
+  font-weight: 300;
+  font-size: 1.32rem;
+  line-height: 2.2rem;
+  margin: auto;
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+  -webkit-margin-start: auto;
+  -webkit-margin-end: auto;
+  padding: 16px 0 0 0;
+  text-align: center;
+  width: 640px; }
+
+@media only screen and (max-width: 767px) {
+  h3 {
+    padding: 0 68px 0 68px; } }
+@media only screen and (max-width: 639px) {
+  h3 {
+    padding: 0 12px 0 12px;
+    width: 320px; } }
+h4 {
+  /* Work page Project titles */
+  color: #333333;
+  font-weight: 600;
+  font-size: 1.72rem;
+  line-height: 1.96rem;
+  padding: 16px 0 0 0;
+  text-align: center; }
+
+h4 + p {
+  margin-top: 0; }
+
+h4 a,
+h4 a:active,
+h4 a:visited {
+  color: #333333;
+  text-decoration: none; }
+
+h4 a:hover {
+  color: mediumseagreen;
+  text-decoration: none; }
+
+h5 {
+  /* Headers for bodies in Project page */
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin: 24px auto 0 auto;
+  padding: 8px 0 0 0;
+  width: 640px;
+  text-align: left;
+  text-transform: uppercase; }
+  h5 + p {
+    /* Adjusts the space of the first <p> after h5*/
+    margin-top: 0; }
+
+@media only screen and (max-width: 959px) {
+  h5 {
+    padding: 8px 16px 0 16px; } }
+@media only screen and (max-width: 639px) {
+  h5 {
+    padding: 8px 16px 0 16px;
+    width: 320px; } }
+h6 {
+  color: #999999;
+  font-size: .88rem;
+  font-style: italic;
+  font-weight: 300;
+  margin: 8px auto 8px auto;
+  text-align: left;
+  width: 640px; }
+  h6 a, h6 a:active, h6 a:visited {
+    border-bottom: 1px solid #999999;
+    color: #999999;
+    text-decoration: none; }
+  h6 a:hover {
+    border-bottom: 1px solid mediumseagreen;
+    color: mediumseagreen;
+    text-decoration: none; }
+
+@media only screen and (max-width: 959px) {
+  h6 {
+    padding: 0 16px 0 16px; } }
+@media only screen and (max-width: 639px) {
+  h6 {
+    padding: 0 16px 0 16px;
+    width: 320px; } }
+blockquote p {
+  /* background: -webkit-gradient(linear,left top,left bottom,from($houseColor),to(#646F5E));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+  opacity: 0.80;
+  font-size: 1.56rem;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 2.64rem;
+  margin: 24px auto 0 auto;
+  text-align: center;
+  width: 75%; }
+
+@media only screen and (max-width: 639px) {
+  blockquote p {
+    font-size: 1.6rem;
+    width: 100%; } }
+@media only screen and (max-width: 639px) {
+  .containerWork .copyBody blockquote p {
+    font-size: 1.6rem;
+    width: 100%; } }
+.photoCred {
+  color: snow;
+  font-size: 0.72rem;
+  font-weight: 200;
+  margin: -56px 0 0 0;
+  opacity: 0.24;
+  padding-right: 32px;
+  position: absolute;
+  text-align: right;
+  width: 100%;
+  z-index: 4; }
+
+.copyBody p a, .copyBody p a:visited {
+  border-bottom: 1px solid #333333;
+  color: #333333;
+  text-decoration: none; }
+.copyBody p a:active, .copyBody p a:hover {
+  border-bottom: 1px solid mediumseagreen;
+  color: mediumseagreen;
+  text-decoration: none; }
+.copyBody ul li {
+  color: #333333;
+  list-style-type: circle;
+  margin: 8px auto 0 auto;
+  text-align: left;
+  width: 640px; }
+.copyBody ol li {
+  color: #333333;
+  margin: 8px auto 0 auto;
+  text-align: left;
+  width: 640px; }
+
+/* Layout Images */
+.centerImage, .projectCenterImage, .workCenterImage {
+  border-radius: 2px;
+  display: block;
+  margin: 24px auto 0 auto; }
+
+.infoCenterImage {
+  margin: 24px auto 0 auto; }
+
+img.centerImageDS, img.projectCenterImageDS, img.workCenterImageDS {
+  background-color: snow;
+  border-radius: 2px;
+  box-shadow: rgba(156, 148, 148, 0.32) -6px 6px 8px, rgba(156, 148, 148, 0.08) -2px 2px 25px;
+  display: block;
+  margin: 24px auto 0 auto; }
+
+@media only screen and (min-width: 640px) {
+  img.workCenterImageDS, img.workCenterImage {
+    width: 75%; } }
+@media only screen and (max-width: 639px) {
+  img.workCenterImageDS, img.workCenterImage {
+    width: 100%; } }
+.copyBody p a.centerImageDS, .copyBody p a:active.centerImageDS, .copyBody p a:hover.centerImageDS, .copyBody p a:visited.centerImageDS,
+.copyBody p a.centerImage, .copyBody p a:active.centerImage, .copyBody p a:hover.centerImage, .copyBody p a:visited.centerImage,
+.copyBody p a.projectCenterImageDS, .copyBody p a:active.projectCenterImageDS, .copyBody p a:hover.projectCenterImageDS, .copyBody p a:visited.projectCenterImageDS,
+.copyBody p a.projectCenterImage, .copyBody p a:active.projectCenterImage, .copyBody p a:hover.projectCenterImage, .copyBody p a:visited.projectCenterImage,
+.copyBody p a.workCenterImageDS, .copyBody p a:active.workCenterImageDS, .copyBody p a:hover.workCenterImageDS, .copyBody p a:visited.workCenterImageDS,
+.copyBody p a.workCenterImage, .copyBody p a:active.workCenterImage, .copyBody p a:hover.workCenterImage, .copyBody p a:visited.workCenterImage {
+  border: none;
+  display: block; }
+
+.browser {
+  background: url("http://aaroncalzado.com/portfolio/assets/images/browser.svg") no-repeat top center;
+  background-size: 100%;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  margin: 24px auto 0 auto;
+  padding-top: 80px;
+  text-align: center;
+  height: auto; }
+
+@media only screen and (max-width: 959px) {
+  .browser {
+    padding-top: 66px; } }
+@media only screen and (max-width: 800px) {
+  .browser {
+    padding-top: 60px; } }
+@media only screen and (max-width: 767px) {
+  .browser {
+    padding-top: 53px; } }
+@media only screen and (max-width: 639px) {
+  .browser {
+    padding-top: 26px;
+    width: 320px; } }
+.profile {
+  background: -webkit-linear-gradient(#dbdbdb, snow);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#dbdbdb, snow);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#dbdbdb, snow);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#dbdbdb, snow);
+  /* Standard syntax */
+  border: 1px solid #AAAAAA;
+  border-radius: 100%;
+  height: 240px;
+  margin: -32px auto 0 auto;
+  /* -32px to center the profile picture vertically */
+  padding: 5px;
+  text-align: center;
+  width: 240px; }
+
+/* Layout Video */
+.video-container {
+  margin-top: 24px auto 0 auto;
+  padding-top: 24px;
+  text-align: center; }
+
+.bareVideo {
+  margin: 24px auto 0 auto;
+  text-align: center; }
+
+.bareVideo + p {
+  margin: 0 auto 32px auto; }
+
+/**/
+.ctpbw {
+  background: url("http://aaroncalzado.com/portfolio/assets/images/ctpbw.svg") no-repeat top center;
+  background-size: 75%;
+  margin: 24px auto 0 auto;
+  padding-top: 60px;
+  text-align: center;
+  height: auto; }
+
+@media only screen and (max-width: 959px) {
+  .ctpbw {
+    padding-top: 50px; } }
+@media only screen and (max-width: 639px) {
+  .ctpbw {
+    padding-top: 20px;
+    width: 320px; } }
+/**/
+.ip4vh {
+  background: url("http://aaroncalzado.com/portfolio/assets/images/ip4h.svg") no-repeat center;
+  background-size: 62% auto;
+  margin: 24px auto 0 auto;
+  padding-top: 32px;
+  text-align: center;
+  height: 316px; }
+
+.ip4vv {
+  background: url("http://aaroncalzado.com/portfolio/assets/images/ip4v.svg") no-repeat center;
+  background-size: 35% auto;
+  margin: 24px auto 0 auto;
+  padding-top: 92px;
+  text-align: center;
+  height: 582px; }
+
+@media only screen and (max-width: 959px) {
+  .ip4vh {
+    height: 256px;
+    padding-top: 24px; }
+
+  .ip4vv {
+    padding-top: 82px;
+    height: 488px; } }
+@media only screen and (max-width: 799px) {
+  .ip4vh {
+    height: 236px; }
+
+  .ip4vv {
+    padding-top: 74px;
+    height: 440px; } }
+@media only screen and (max-width: 767px) {
+  .ip4vh {
+    height: 210px;
+    padding-top: 22px; }
+
+  .ip4vv {
+    padding-top: 64px;
+    height: 392px; } }
+@media only screen and (max-width: 639px) {
+  .ip4vh {
+    height: 112px;
+    padding-top: 16px; }
+
+  .ip4vv {
+    padding-top: 31px;
+    height: 196px; } }

@@ -71,7 +71,7 @@ html, body {
 footer {
   background-color: mediumseagreen;
   color: snow;
-  font-size: 0.64rem;
+  font-size: 0.72rem;
   letter-spacing: 2px;
   margin: 32px 0 0 0;
   padding: 32px 0 32px 0;
@@ -88,7 +88,7 @@ footer {
 .footerHome,
 .footerHome a {
   color: snow;
-  font-size: 0.64rem;
+  font-size: 0.72rem;
   letter-spacing: 2px;
   margin: 32px 0 0 0;
   text-align: center;
@@ -352,10 +352,12 @@ a:visited {
 ****************************************/
 p {
   color: #333333;
+  line-height: 2rem;
   margin: 24px auto 0 auto;
   padding-top: 8px;
   text-align: left;
-  width: 640px; }
+  width: 640px;
+  font-size: 1.12rem; }
 
 @media only screen and (max-width: 959px) {
   p {
@@ -383,7 +385,7 @@ h3 {
   /* Subtitle in Mast */
   font-weight: 300;
   font-size: 1.32rem;
-  line-height: 1.96rem;
+  line-height: 2.2rem;
   margin: auto;
   -webkit-margin-before: 0px;
   -webkit-margin-after: 0px;
@@ -437,12 +439,13 @@ h4 a:hover {
   text-decoration: none;
   text-transform: uppercase; }
 
-@media only screen and (max-width: 639px) {
+/* @media only screen and (max-width: 639px) {
   .copyBody p a.viewProjects,
   .copyBody p a:active.viewProjects,
-  .copyBody p a:visited.viewProjects {
-    /* Work page buttons */
-    font-size: 1rem; } }
+  .copyBody p a:visited.viewProjects { /* Work page buttons */
+/*    font-size: 1rem;
+  }
+} */
 .copyBody p > a:hover.viewProjects {
   /* Work page buttons */
   background-color: mediumseagreen;
@@ -454,7 +457,6 @@ h4 a:hover {
 h5 {
   /* Headers for bodies in Project page */
   font-weight: 700;
-  font-size: 1rem;
   letter-spacing: 2px;
   margin: 24px auto 0 auto;
   padding: 8px 0 0 0;
@@ -481,13 +483,18 @@ blockquote p {
   font-size: 1.56rem;
   font-weight: 400;
   font-style: italic;
-  line-height: 2.40rem;
+  line-height: 2.64rem;
   margin: 24px auto 0 auto;
   text-align: center;
   width: 75%; }
 
-@media only screen and (max-width: 959px) {
+@media only screen and (max-width: 639px) {
   blockquote p {
+    font-size: 1.6rem;
+    width: 100%; } }
+@media only screen and (max-width: 639px) {
+  .containerWork .copyBody blockquote p {
+    font-size: 1.6rem;
     width: 100%; } }
 .photoCred {
   color: snow;
@@ -571,6 +578,8 @@ img.workCenterImageDS {
 .browser {
   background: url("http://aaroncalzado.com/portfolio/assets/images/browser.svg") no-repeat top center;
   background-size: 100%;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
   margin: 24px auto 0 auto;
   padding-top: 80px;
   text-align: center;
@@ -759,7 +768,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   100% {
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg); } }
-
 @keyframes swing {
   20% {
     -webkit-transform: rotate(15deg);
@@ -785,7 +793,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     -webkit-transform: rotate(0deg);
     -ms-transform: rotate(0deg);
     transform: rotate(0deg); } }
-
 .swing:hover {
   -webkit-transform-origin: bottom center;
   -ms-transform-origin: bottom center;
