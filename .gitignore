@@ -34,3 +34,8 @@ Thumbs.db
 
 # Personal Preference Shit #
 config.codekit
+config-live.php
+config-local.php
+config.php
+.sass-cache
+.codekit-cache
