@@ -1,9 +1,37 @@
 Title: Aloha!
-----
-Text: ## Aloha and welcome to the online portfolio of (link: /info text: Aaron Calzado). Through this site you will be able to (link: /work text: review projects) I worked on throughout my design career. My work primarily focuses on current issues surrounding the way people interact with new technology and information.
+---- 
+Subtitle: My name is Aaron Calzado and I’m a designer based in Seattle. My work primarily focuses on current issues surrounding technology and the way people interact with new information.
+---- 
+Caption: Selected Works from 2008 – Now
+---- 
+Credit:
+---- 
+Text:
 
-<div class="homeButton">
-<p>
-(link: email popup: yes text: Email)&nbsp; &nbsp; &nbsp;(link: https://dl.dropbox.com/u/1435588/aaroncalzado.pdf popup: yes text: Résumé)
-</p>
-</div>
+# Recent Work
+
+(image: /content/01-work/rkg.jpg class: workCenterImageDS link: /work/rkg)
+
+#### (link: /work/rkg text: Rimm-Kaufman Group)
+
+At Rimm-Kaufman Group I was the company’s interactive designer doing product development for Blueprint Search Analytics. Blueprint is an enterprise level tool built for search engine optimization.
+
+(image: /content/01-work/throw-it-back.jpg class: workCenterImageDS link: /work/throw-it-back)
+
+#### (link: /work/throw-it-back text: Throw It Back!)
+
+Throw It Back! is a waste management system designed to inform and educate the general public on good waste management practices.
+
+(image: /content/01-work/topicks.jpg class: workCenterImageDS link: /work/topicks)
+
+#### (link: /work/topicks text: Topicks)
+
+Topicks is a news resource that presents you daily trending news topics from different perspectives. Topicks delivers the whole story by providing perspectives that normally go unseen.
+
+(link: /work class: viewProjects text: View More Projects)
+
+****
+
+#### Other Places You Can Find Me
+
+<div class="callToAction">(image: email.png link: email popup: yes height: 32) (image: resume.png link: https://dl.dropbox.com/u/1435588/aaroncalzado.pdf height: 32 popup: yes) (image: linkedin.png link: http://www.linkedin.com/in/aaroncalzado/ height: 32 popup: yes) (image: vimeo.png link: http://www.vimeo.com/aaroncalzado height: 32 popup: yes) (image: github.png link: http://www.github.com/aaroncalzado height: 32 popup: yes)</div>
