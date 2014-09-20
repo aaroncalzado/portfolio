@@ -39,3 +39,4 @@ config-local.php
 config.php
 .sass-cache
 .codekit-cache
+.Ulysses-Group.plist
