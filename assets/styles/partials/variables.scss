@@ -1,19 +1,34 @@
-/* Variables */
+// Variables
+
+
+// Site Color
 
 $houseColor: mediumseagreen;
 $houseShade: seagreen;
 
 
+
+
+
+// Typography
+
 $houseBodyFont: "jaf-facitweb";
+// BrixSans
 $headerFontSize: 0.8rem;
 $footerFontSize: 0.72rem;
 $footerFontWeight: 300;
 
+// Typography Color
 
 $color: #333333;
 $colorLight: #999999;
 $colorKnockout: #FFFAFA;
 
+
+
+
+
+// Media Query
 
 $containerWidthDesktop: 960px;
 $containerWidthTablet: 800px;
@@ -27,5 +42,8 @@ $captionMarginPhone: 0 8px 0 8px;
 $listsMarginDesktop: 8px auto 0 auto;
 
 
-$buttonRadius: 4px;
 
+
+// Button
+
+$buttonRadius: 4px;

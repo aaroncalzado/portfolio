@@ -1,24 +1,32 @@
-/* Root: styles.scss */
-/* Imports all required SCSS files and spits it out to styles.css */
+/*--------------------------------*\
+    styles.css
+\*--------------------------------*/
 
-/* Import required/base CSS first */
+// Imports all required SCSS files and spits it out to styles.css
+// Import required/base CSS first
 
 @import "partials/variables";
+@import "partials/brix";
 @import "partials/reset";
 @import "partials/animation";
 
 
-/* Layout and Global Shit */
+
+
+
+/*--------------------------------*\
+    Layout and Global Shit
+\*--------------------------------*/
 
 html, body {
   background-color: $colorKnockout;
   font-family: $houseBodyFont, Helvetica, Arial, sans-serif;
   font-size: 96%;
   font-weight: 400;
-  height: 100%;
   line-height: 1.72;
   margin: 0px;
   padding: 0px;
+  height: 100%;
 }
 
 @media only screen and (max-width: 639px) {
@@ -28,25 +36,28 @@ html, body {
   }
 }
 
-/**/
+
+
+
 
 header {
   background: rgb(0, 0, 0);
-    background: rgba(0, 0, 0, .72);
+  background: rgba(0, 0, 0, .72);
   font-size: $headerFontSize;
-  height: 56px;
-  width: 100%;
-    min-width: 320px;
   padding-right: 8px;
   padding-left: 8px;
   position:fixed; 
+  width: 100%;
+  min-width: 320px;
+  height: 56px;
   z-index: 4;
 
   .mastTitle {
     color: $colorKnockout;
     float: left;
     letter-spacing: 4px;
-    margin: 18px 8px 8px 16px; /* Lines up title and nav */
+    // Lines up title and nav
+    margin: 18px 8px 8px 16px;
     position: relative;
     text-transform: uppercase;
 
@@ -69,14 +80,14 @@ header {
         display: inline;
         letter-spacing: 4px;
         list-style: none;
-        padding-left: 12px; /* Adjusts the space between Nav buttons */
+        padding-left: 12px; // Adjusts the space between Nav buttons
         text-transform: uppercase;
 
         a {
           border: 1px solid $colorKnockout;
           border-radius: $buttonRadius;
-          color: $colorKnockout;  
-          padding: 4px 8px 4px 12px; /* Padding for Nav buttons */
+          color: $colorKnockout;
+          padding: 4px 8px 4px 12px; // Padding for Nav buttons
           text-decoration: none;
         }
 
@@ -95,7 +106,7 @@ header {
   background-size: cover;
 }
 
-.heroImageHome, .containerMastHome { /* Home background fullscreen */
+.heroImageHome, .containerMastHome { // Home background fullscreen
   background: rgba(0, 0, 0, 0.48);
   height: 100%;
   position: relative;
@@ -114,13 +125,14 @@ header {
     min-height: 480px;
     position: relative;
     width: 100%;
-    /* &:before {
-    content: '';
-    display: inline-block;
-    height: 100%; 
-    vertical-align: middle;
-    margin-right: -0.25em; Adjusts for spacing
-    } */
+    // &:before {
+    // content: '';
+    // display: inline-block;
+    // height: 100%; 
+    // vertical-align: middle;
+    // Adjusts for spacing
+    // margin-right: -0.25em;
+    // }
 
     .copyMast, .copyMastInfo {
       color: $colorKnockout;
@@ -159,12 +171,14 @@ header {
     }
   }
 
-  .heroImageHome, .containerMastHome { /* Home background fullscreen */
+  .heroImageHome, .containerMastHome { // Home background fullscreen
     height: 556px;
   }
 }
 
-/**/
+
+
+
 
 .content {
   position: relative;
@@ -176,8 +190,8 @@ header {
     max-width: 100%;
 
     .copyBody{ 
-      margin: 0 auto 0 auto;
-      padding-top: 0; /* The space between the hero-image and copy */
+      margin: 0 auto 0 auto; // The space between the hero-image and copy
+      padding-top: 0;
       text-align: left;
       width: $containerWidthDesktop;
     }
@@ -187,8 +201,8 @@ header {
     text-align: center;
 
     .copyBody{ 
-      margin: 0 auto 0 auto;
-      padding-top: 0; /* The space between the hero-image and copy */
+      margin: 0 auto 0 auto; // The space between the hero-image and copy
+      padding-top: 0;
       text-align: center;
       width: $containerWidthDesktop;
     }
@@ -307,15 +321,20 @@ hr {
 }
 
 
-/* Typography Home */
+
+
+
+/*--------------------------------*\
+    Typography Home
+\*--------------------------------*/
 
 .containerMastHome {
   .copyMastHome {
-    height: auto; 
     margin: 0 auto 0 auto;
     position: relative; 
     top: 32%; 
     width: $containerWidthDesktop;
+    height: auto; 
     
     h2 {
       color: $colorKnockout;
@@ -325,18 +344,16 @@ hr {
       margin: 0 auto 0 auto;
       text-align: center;
       width: $copyWidth;
-
-      a {
-        color: $colorKnockout;
-        border-bottom: 1px solid $colorKnockout;
-        text-decoration: none;
-      }
-    
-      a:hover, a:active, a:visited {
-        border-bottom: 1px solid $colorKnockout;
-        color: $colorKnockout;
-        text-decoration: none;
-      }
+        a {
+          color: $colorKnockout;
+          border-bottom: 1px solid $colorKnockout;
+          text-decoration: none;
+        }
+        a:hover, a:active, a:visited {
+          border-bottom: 1px solid $colorKnockout;
+          color: $colorKnockout;
+          text-decoration: none;
+        }
     }
     
     .homeButton {
@@ -346,80 +363,155 @@ hr {
         margin: 32px auto 0 auto;
         text-align: center;
         text-transform: uppercase;
-        a {
-          border: 1px solid $colorKnockout;
-          border-radius: $buttonRadius;
-          color: $colorKnockout;
-          display: inline;
-          list-style: none;
-          padding: 8px 12px 8px 16px;
-          text-decoration: none;
-        }
-    
-        a:hover {
-          background-color: $colorKnockout;
-          border: 1px solid $colorKnockout;
-          border-radius: $buttonRadius;
-          color: #333332;
-          display: inline;
-          list-style: none;
-          padding: 8px 12px 8px 16px;
-          text-decoration: none;
-        }
+          a {
+            border: 1px solid $colorKnockout;
+            border-radius: $buttonRadius;
+            color: $colorKnockout;
+            display: inline;
+            list-style: none;
+            padding: 8px 12px 8px 16px;
+            text-decoration: none;
+          }
+          a:hover {
+            background-color: $colorKnockout;
+            border: 1px solid $colorKnockout;
+            border-radius: $buttonRadius;
+            color: #333332;
+            display: inline;
+            list-style: none;
+            padding: 8px 12px 8px 16px;
+            text-decoration: none;
+          }
+      }
+    }
+  }
+  @media only screen and (max-width: 959px) {
+    .copyMastHome {
+      width: $containerWidthTablet;
+    }
+  }
+  @media only screen and (max-width: 799px) {
+    .copyMastHome {
+      width: $containerWidthIpad;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .copyMastHome {
+      width: $containerWidthPhone;
+      
+      h2 {
+        padding: 0 68px 0 68px;
+      }
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    .copyMastHome {
+      top: 24%;
+      width: 320px;
+
+      h2 {
+        padding: 0 32px 0 32px;
+        width: 320px;
       }
     }
   }
 }
 
-@media only screen and (max-width: 959px) {
-  .copyMastHome {
-    width: $containerWidthTablet;
+
+
+
+
+/*--------------------------------*\
+    Typography
+\*--------------------------------*/
+
+  .copyBody {
+    blockquote p {
+    // background: -webkit-gradient(linear,left top,left bottom,from($houseColor),to(#646F5E));
+    // -webkit-background-clip: text;
+    // -webkit-text-fill-color: transparent;
+    font-size: 1.56rem;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 2.64rem;
+    margin: 24px auto 0 auto;
+    opacity: 0.80;  
+    text-align: center;
+    width: 75%;
   }
-}
-@media only screen and (max-width: 799px) {
-  .copyMastHome {
-    width: $containerWidthIpad;
-  }
-}
-@media only screen and (max-width: 767px) {
-  .copyMastHome {
-    width: $containerWidthPhone;
-    
-    h2 {
-      padding: 0 68px 0 68px;
+  @media only screen and (max-width: 639px) {
+    blockquote p {
+      font-size: 1.6rem;
+      width: 100%;
     }
   }
-}
-@media only screen and (max-width: 639px) {
-  .copyMastHome {
-    top: 24%;
-    width: 320px;
+  @media only screen and (max-width: 639px) {
+    .containerWork .copyBody blockquote p {
+      font-size: 1.6rem;
+      width: 100%;
+    }
+  }
 
-    h2 {
-      padding: 0 12px 0 12px;
+  h4 { // Work page Project titles
+    color: $color;
+    font-weight: 600;
+    font-size: 1.72rem;
+    line-height: 1.96rem;
+    padding: 16px 0 0 0;
+    text-align: center;
+  }
+  h4 + p {
+    margin-top: 0;
+  }
+  h4 a,
+  h4 a:active,
+  h4 a:visited {
+    color: $color;
+    text-decoration: none;
+  }
+  h4 a:hover {
+    color: $houseColor;
+    text-decoration: none;
+  }
+
+  h5 { // Headers for bodies in Project page
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin: $copyMarginDesktop;
+    padding: 8px 0 0 0;
+    text-align: left;
+    text-transform: uppercase;
+    width: $copyWidth;
+  }
+  h5 + p { // Adjusts the space of the first <p> after h5
+    margin-top: 0;
+  }
+  @media only screen and (max-width: 959px) {
+    h5 {
+      padding: 8px 16px 0 16px;
+    }
+  }
+  @media only screen and (max-width: 639px) {
+    h5 {
+      padding: 8px 16px 0 16px;
       width: 320px;
     }
   }
-}
 
-
-/* Typography */
-
-.copyBody {
   p {
     color: $color;
-    line-height: 2rem;
+    font-size: 1rem;
+    line-height: 1.88rem;
     margin: $copyMarginDesktop;
     padding-top: 8px;
     text-align: left;
     width: $copyWidth;
-    font-size: 1.12rem;
 
-      a.viewProjects, p a:active.viewProjects, p a:visited.viewProjects { /* Work page buttons */
+      a.viewProjects, p a:active.viewProjects, p a:visited.viewProjects { // Work page buttons
         background-color: $houseColor;
         border-radius: $buttonRadius;
-        border-bottom: 2px solid $houseColor;
-        color: $colorKnockout;
+        border-bottom: 2px solid $houseColor !important;
+        color: $colorKnockout !important;
         font-size: $headerFontSize;
         letter-spacing: 4px;
         padding: 12px 20px 12px 24px;
@@ -427,9 +519,9 @@ hr {
         text-decoration: none;
         text-transform: uppercase;
       }
-      > a:hover.viewProjects { /* Work page buttons */
+      > a:hover.viewProjects { // Work page buttons
         background-color: $houseColor;
-        border-bottom: 2px solid $houseShade;
+        border-bottom: 2px solid $houseShade !important;
         color: $colorKnockout;
         text-align: center;
         text-decoration: none;
@@ -448,24 +540,27 @@ hr {
   }
 
 }
+
 .containerWork .copyBody p {
   text-align: center;
   width: $copyWidth;
 }
-  @media only screen and (max-width: 639px) {
-  .containerWork .copyBody p  {
-      font-size: 132%;
-      width: 320px;
-    }
+@media only screen and (max-width: 639px) {
+.containerWork .copyBody p  {
+    font-size: 132%;
+    width: 320px;
   }
-h1 { /* Title in Mast */
+}
+
+h1 { // Title in Mast
   color: $colorKnockout;
   font-weight: 600;
   font-size: 3rem;
   line-height: 3.64rem;
   text-align: center;
 }
-h3 { /* Subtitle in Mast */
+
+h3 { // Subtitle in Mast
   font-weight: 300;
   font-size: 1.32rem;
   line-height: 2.2rem;
@@ -478,58 +573,14 @@ h3 { /* Subtitle in Mast */
   text-align: center;
   width: $copyWidth;
 }
-  @media only screen and (max-width: 767px) {
-    h3 {
-      padding: 0 68px 0 68px;
-    }
-  }
-  @media only screen and (max-width: 639px) {
-    h3 {
-      padding: 0 12px 0 12px;
-      width: 320px;
-    }
-  }
-h4 { /* Work page Project titles */
-  color: $color;
-  font-weight: 600;
-  font-size: 1.72rem;
-  line-height: 1.96rem;
-  padding: 16px 0 0 0;
-  text-align: center;
-}
-h4 + p {
-  margin-top: 0;
-}
-h4 a,
-h4 a:active,
-h4 a:visited {
-  color: $color;
-  text-decoration: none;
-}
-h4 a:hover {
-  color: $houseColor;
-  text-decoration: none;
-}
-h5 { /* Headers for bodies in Project page */
-  font-weight: 700;
-  letter-spacing: 2px;
-  margin: $copyMarginDesktop;
-  padding: 8px 0 0 0;
-  width: $copyWidth;
-  text-align: left;
-  text-transform: uppercase;
-    + p { /* Adjusts the space of the first <p> after h5*/
-      margin-top: 0;
-    }
-}
-@media only screen and (max-width: 959px) {
-  h5 {
-    padding: 8px 16px 0 16px;
+@media only screen and (max-width: 767px) {
+  h3 {
+    padding: 0 68px 0 68px;
   }
 }
 @media only screen and (max-width: 639px) {
-  h5 {
-    padding: 8px 16px 0 16px;
+  h3 {
+    padding: 0 12px 0 12px;
     width: 320px;
   }
 }
@@ -565,32 +616,6 @@ h6 {
   }
 }
 
-blockquote p {
-  /* background: -webkit-gradient(linear,left top,left bottom,from($houseColor),to(#646F5E));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
-  opacity: 0.80;  
-  font-size: 1.56rem;
-  font-weight: 400;
-  font-style: italic;
-  line-height: 2.64rem;
-  margin: 24px auto 0 auto;
-  text-align: center;
-  width: 75%;
-}
-@media only screen and (max-width: 639px) {
-  blockquote p {
-    font-size: 1.6rem;
-    width: 100%;
-  }
-}
-@media only screen and (max-width: 639px) {
-  .containerWork .copyBody blockquote p {
-    font-size: 1.6rem;
-    width: 100%;
-  }
-}
-
 .photoCred {
   color: $colorKnockout;
   font-size: 0.72rem;
@@ -604,6 +629,16 @@ blockquote p {
   z-index: 4;
 }
 .copyBody {
+
+  h1 {
+    color: $color;
+    font-weight: 600;
+    font-size: 2.4rem;
+    line-height: 3.64rem;
+    margin-top: 56px;
+    text-align: center;
+  }
+
   p a, p a:visited {
     border-bottom: 1px solid $color;
     color: $color;
@@ -616,7 +651,7 @@ blockquote p {
   }
   ul li {
     color: $color;
-    list-style-type: circle;
+    list-style-type: disc;
     margin: $listsMarginDesktop;
     text-align: left;
     width: $copyWidth;
@@ -630,15 +665,22 @@ blockquote p {
 }
 
 
-/* Layout Images */
+
+
+
+/*--------------------------------*\
+    Layout Images
+\*--------------------------------*/
 
 .centerImage, .projectCenterImage, .workCenterImage {
   border-radius: 2px;
   display: block;
   margin: 24px auto 0 auto;
 }
-.infoCenterImage {
+
+.callToAction {
   margin: 24px auto 0 auto;
+  text-align: center;
 }
 
 img.centerImageDS, img.projectCenterImageDS, img.workCenterImageDS {
@@ -674,6 +716,7 @@ img.centerImageDS, img.projectCenterImageDS, img.workCenterImageDS {
     }
   }
 }
+
 .browser {
   background: url("http://aaroncalzado.com/portfolio/assets/images/browser.svg") no-repeat top center;
   background-size: 100%;
@@ -684,7 +727,6 @@ img.centerImageDS, img.projectCenterImageDS, img.workCenterImageDS {
   text-align: center;
   height: auto;
 }
-
 @media only screen and (max-width: 959px) {
   .browser {
     padding-top: 66px;
@@ -708,27 +750,27 @@ img.centerImageDS, img.projectCenterImageDS, img.workCenterImageDS {
 }
 
 .profile {
-  background: -webkit-linear-gradient(#DBDBDB, $colorKnockout); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#DBDBDB, $colorKnockout); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#DBDBDB, $colorKnockout); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#DBDBDB, $colorKnockout); /* Standard syntax */
+  background: -webkit-linear-gradient(#DBDBDB, $colorKnockout); // For Safari 5.1 to 6.0
+  background: -o-linear-gradient(#DBDBDB, $colorKnockout); // For Opera 11.1 to 12.0
+  background: -moz-linear-gradient(#DBDBDB, $colorKnockout); // For Firefox 3.6 to 15
+  background: linear-gradient(#DBDBDB, $colorKnockout); // Standard syntax
   border: 1px solid #AAAAAA;
   border-radius: 100%;
   height: 240px;
-  margin: -32px auto 0 auto; /* -32px to center the profile picture vertically */
+  margin: -32px auto 0 auto; // -32px to center the profile picture vertically
   padding: 5px;
   text-align: center;
   width: 240px;
 }
 
 
-/* Layout Video */
 
-.video-container {
-  margin-top: 24px auto 0 auto;
-  padding-top: 24px;
-  text-align: center;
-}
+
+
+/*--------------------------------*\
+    Layout Video
+\*--------------------------------*/
+
 .bareVideo {
   margin: 24px auto 0 auto;
   text-align: center;
@@ -736,8 +778,19 @@ img.centerImageDS, img.projectCenterImageDS, img.workCenterImageDS {
 .bareVideo + p {
   margin: 0 auto 32px auto;
 }
+.video-container {
+  margin-top: 24px auto 0 auto;
+  padding-top: 24px;
+  text-align: center;
+}
 
-/**/
+
+
+
+
+/*--------------------------------*\
+    Browser Window Video
+\*--------------------------------*/
 
 .ctpbw {
   background: url("http://aaroncalzado.com/portfolio/assets/images/ctpbw.svg") no-repeat top center;
@@ -747,10 +800,19 @@ img.centerImageDS, img.projectCenterImageDS, img.workCenterImageDS {
   text-align: center;
   height: auto;
 }
-
 @media only screen and (max-width: 959px) {
   .ctpbw {
     padding-top: 50px;
+  }
+}
+@media only screen and (max-width: 799px) {
+  .ctpbw {
+    padding-top: 45px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .ctpbw {
+    padding-top: 40px;
   }
 }
 @media only screen and (max-width: 639px) {
@@ -760,7 +822,13 @@ img.centerImageDS, img.projectCenterImageDS, img.workCenterImageDS {
   }
 }
 
-/**/
+
+
+
+
+/*--------------------------------*\
+    Phone Video
+\*--------------------------------*/
 
 .ip4vh {
   background: url("http://aaroncalzado.com/portfolio/assets/images/ip4h.svg") no-repeat center;
