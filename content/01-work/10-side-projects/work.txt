@@ -1,12 +1,32 @@
 Title: Side Projects
-----
+---- 
 Subtitle: A collection of projects I’ve personally worked on for myself or for other people at my leisure. Most of the projects in this section are created for fun with the intent of learning something new or making something cool. Enjoy!
-----
+---- 
 Caption: Selected Works from 2008 – Now
-----
+---- 
 Credit:
-----
+---- 
 Text:
+(image: neue-poster-graphics.jpg class: browserWork link: http://aaroncalzado.com/neuepostergraphics width: 75%)
+
+#### (link: http://aaroncalzado.com/neuepostergraphics text: Neue Poster Graphics)
+
+Neue Poster Graphics is a on-going side project I created for myself to practice and experiment with front-end development techniques. I take iconic posters and reinterpret them for today’s digital screens. This marries my first love of graphic design and my growing interest in front-end development.
+
+(link: http://aaroncalzado.com/neuepostergraphics class: viewProjects text: View Project)
+
+<hr>
+
+(image: film-projects.jpg class: workCenterImageDS link: /work/side-projects/film-projects)
+
+#### (link: /work/side-projects/film-projects text: Film Projects)
+
+Every now and then I shoot and edit videos.
+
+(link: /work/side-projects/film-projects class: viewProjects text: View Projects)
+
+<hr>
+
 (image: ixda-lecture-series-posters.jpg class: workCenterImageDS link: /work/side-projects/ixda-lecture-series-posters)
 
 #### (link: /work/side-projects/ixda-lecture-series-posters text: IxDA Lecture Series Posters)
@@ -15,7 +35,8 @@ Every month, IxDA UW invites professionals within the design industry to present
 
 (link: /work/side-projects/ixda-lecture-series-posters class: viewProjects text: View Project)
 
-****
+<hr>
+
 (image: lava-lamp.jpg class: workCenterImageDS link: /work/side-projects/lava-lamp)
 
 #### (link: /work/side-projects/lava-lamp text: Lava Lamp)
@@ -24,8 +45,7 @@ The Lava Lamp was a lamp I designed during my sophomore year in design school. T
 
 (link: /work/side-projects/lava-lamp class: viewProjects text: View Project)
 
-
-<!-- ****
+<hr>
 
 (image: print-work.jpg class: workCenterImageDS link: /work/side-projects/print-work)
 
@@ -35,4 +55,4 @@ This is a collection of personal print making projects I’ve done in the proces
 
 (link: /work/side-projects/print-work class: viewProjects text: View Project)
 
-**** -->
+<hr>

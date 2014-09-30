@@ -29,14 +29,14 @@ During the fall of 2012 I decided to try my hand at block printing. I carved my 
 
 (image: dgc-09.jpg class: projectCenterImageDS link: dgc-09.jpg width: 75%)
 
-****
+<hr>
 
 ##### Silkscreened Poster, Summer 2011
 A few my close design colleagues and I hosted a DIY summer silkscreening workshop. This was an introductory workshop primarily focusing on DIY home brew silkscreening techniques.
 
 (image: thjp-01.jpg class: projectCenterImageDS link: thjp-01.jpg width: 40%)
 
-****
+<hr>
 
 ##### Silkscreened Shirt, 2008
 Back in the summer of 2008 I became interested in silkscreen printing. One the the designs I produced that year was a silkscreened t-shirt. Fifty of these shirts were printed and dropped off at random places around downtown Honolulu. All the shirts had a call to action attached to them which pointed to my personal website. I was able to track all the shirts and make sure they were all picked up via people accessing the unique web address and Google Analytics. Unfortunately, the status of them being worn is still unknown.
