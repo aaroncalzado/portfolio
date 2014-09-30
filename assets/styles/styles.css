@@ -733,6 +733,29 @@ img.centerImageDS, img.projectCenterImageDS, img.workCenterImageDS {
   .browser {
     padding-top: 26px;
     width: 320px; } }
+.browserWork {
+  background: url("http://aaroncalzado.com/portfolio/assets/images/browser.svg") no-repeat top center;
+  background-size: 100%;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  margin: 24px auto 0 auto;
+  padding-top: 61px;
+  text-align: center;
+  height: auto; }
+
+@media only screen and (max-width: 959px) {
+  .browserWork {
+    padding-top: 50px; } }
+@media only screen and (max-width: 800px) {
+  .browserWork {
+    padding-top: 46px; } }
+@media only screen and (max-width: 767px) {
+  .browserWork {
+    padding-top: 40px; } }
+@media only screen and (max-width: 639px) {
+  .browserWork {
+    padding-top: 27px;
+    width: 320px; } }
 .profile {
   background: -webkit-linear-gradient(#DBDBDB, #FFFAFA);
   background: -o-linear-gradient(#DBDBDB, #FFFAFA);
